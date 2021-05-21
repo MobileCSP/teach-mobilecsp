@@ -1,0 +1,155 @@
+.Table {
+  display: table;
+  width: 100%;
+}
+
+table.framework { 
+  border-collapse: collapse; 
+  background-color: lightgrey; 
+}
+
+table.framework th { 
+  font-size: 1.2em; 
+}
+
+.EU { 
+  background-color: #F0F0F0; 
+  font-weight: bold; 
+  font-style: italic; 
+  border-top: 3px #86A82F solid; 
+}
+
+.EU > td { 
+  vertical-align: top;	      
+}
+
+.LO { 
+  background-color: white;
+}
+
+.LO > td { 
+  vertical-align: top; 
+}
+
+.hover-tip { 
+  color: #86A82F; 
+  border:0px; 
+  padding:0px; 
+  border-spacing:.5em; 
+}
+
+.hover { 
+  color: #86A82F; 
+}
+
+.pd { 
+  border-top: 3px #86A82F solid; 
+  background-color:lightgrey; 
+  padding: 0 .3em; 
+}
+
+.overview { 
+  border-left: solid 6px #86A82F; 
+  padding-left: .5em;  
+}
+
+.overview:first-letter {  
+  float: left; 
+  font-size: 3em; 
+  padding-right: 0.1em; 
+  font-weight: bold; 
+  line-height: 1em;
+}
+
+.Title {
+  display: table-caption;
+  text-align: left;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.Heading {
+  display: table-row;
+  font-weight: bold;
+  text-align: left;
+}
+
+.Row {
+  display: table-row;
+}
+
+.Cell {
+  display: table-cell;
+  border: solid;
+  border-width: thin;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.hover {
+  color: green;
+  display: inline;
+}
+
+#self-check {
+  background: url(../../img/target.png) no-repeat left center; 
+  background-size:1.5em 1.5em; padding-left: 1.75em;
+}
+
+#still-curious {
+  background: url(../../img/brain.png) no-repeat left center; 
+  background-size:1.5em 1.5em; padding-left: 1.75em;
+}
+#explore-activity {
+  background: url(../../img/explore.png) no-repeat left center; 
+  background-size:1.5em 1.5em; padding-left: 1.75em;
+}
+
+.pogil {
+  background-color: lightgrey;
+  border-top: 3px #6c7a95 solid; 
+  padding: 0 .3em;
+}
+
+#summary {
+  background: url(../../img/summary.png) no-repeat left center;
+  background-size: 1.5em;
+  padding-left: 1.75em;
+}
+
+#portfolio {
+  background-color: lightgrey; 
+  border-top: 3px #6c7a95 solid; 
+  padding: 0 .3em; 
+}
+
+#portfolio h2 {
+  background: url(../../img/notepad-2.png) no-repeat left center; 
+  background-size:1.5em 1.5em; 
+  padding-left: 1.75em;
+}
+
+#est-length { 
+	background: url(../../img/time.png) no-repeat left center; 
+	background-size:1.5em 1.5em; padding-left: 2em;  
+}
+
+#accordion h3 { 
+	font-weight: bold; 
+	padding-left: 1.75em;
+}
+
+#accordion div { 
+	font-family: Arial, sans-serif; 
+	font-size: 13px; 
+}
+
+#accordion a:link, #accordion a:visited {
+	color: blue;
+	text-decoration: none;
+}
+
+#accordion a:hover, #accordion a:active {
+	color: blue;
+	text-decoration: underline;
+}
