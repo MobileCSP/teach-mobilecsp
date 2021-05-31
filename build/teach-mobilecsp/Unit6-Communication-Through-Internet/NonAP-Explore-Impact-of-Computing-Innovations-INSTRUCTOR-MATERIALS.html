@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>6.12. NonAP Explore Impact of Computing Innovations INSTRUCTOR MATERIALS &#8212; Teach Mobile CSP</title>
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/basic.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/accessibility.css?v=50109A2C" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/handsontable@7.2.2/dist/handsontable.full.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/CodeChat.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/matrixeq.css?v=58BC228F" />
+    <link rel="stylesheet" type="text/css" href="../_static/webgldemo.css?v=B36B48D" />
+    <link rel="stylesheet" type="text/css" href="../_static/webglinteractive.css?v=910DF1E1" />
+    <link rel="stylesheet" type="text/css" href="../_static/bootstrap-3.4.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/presenter_mode.css?v=9FF1320F" />
+    <link rel="stylesheet" type="text/css" href="../_static/jquery-ui-1.10.3.custom.min.css?v=97E0178A" />
+    <link rel="stylesheet" type="text/css" href="../_static/bootstrap-sphinx.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/runestone-custom-sphinx-bootstrap.css?v=5.6.1" />
+    <link rel="stylesheet" type="text/css" href="../_static/theme-overrides.css?v=2DAFE138" />
+    <link rel="stylesheet" type="text/css" href="../_static/assets/lib/lessons/tipped.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/assets/lib/lessons/lessons.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/assets/lib/lessons/apmlblockStyles.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/css/custom.css" />
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/jquery.highlight.js?v=F1C496C8"></script>
+    <script src="../_static/sql-wasm.js?v=D71B5933"></script>
+    <script src="https://cdn.jsdelivr.net/npm/handsontable@7.2.2/dist/handsontable.full.js"></script>
+    <script src="../_static/animationbase.js?v=A043C3A7"></script>
+    <script src="../_static/html4css1.css?v=4533ACD3"></script>
+    <script src="../_static/matrixeq.js?v=D64CFA5A"></script>
+    <script src="../_static/webglinteractive.js?v=2B768384"></script>
+    <script src="../_static/FileSaver.min.js?v=8408C997"></script>
+    <script src="../_static/Blob.js?v=AEC2447"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.emitter.bidi.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.emitter.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.fallbacks.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.messagestore.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.parser.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.language.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega@4.0.0-rc.2/build/vega.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@2.5.0/build/vega-lite.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@3.14.0/build/vega-embed.js"></script>
+    <script src="../_static/runestone.js?v=8A4363EB"></script>
+    <script src="../_static/jquery-ui-1.10.3.custom.min.js?v=2B07FE4F"></script>
+    <script src="../_static/bootstrap-3.4.1/js/bootstrap.min.js"></script>
+    <script src="../_static/jquery-fix.js?v=1226591B"></script>
+    <script src="../_static/bootstrap-sphinx.js"></script>
+    <script src="../_static/jquery.idle-timer.js?v=E942DAF1"></script>
+    <script src="../_static/presenter_mode.js?v=2DF16FB4"></script>
+    <script src="../_static/theme.js?v=D899FB97"></script>
+    <script src="../_static/assets/lib/lessons/tipped.js"></script>
+    <script src="../_static/assets/lib/lessons/Framework2020.js"></script>
+    <script src="../_static/assets/lib/lessons/vocabulary.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="7. Using and Analyzing Data &amp; Information" href="../Unit7-Using-Analyzing-Data/toctree.html" />
+    <link rel="prev" title="6.11. Wrap Up" href="Wrap-Up.html" />
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+<link rel="shortcut icon" href="/runestone/static/favicon.ico" type="image/ico" />
+
+<script type="text/javascript">
+  eBookConfig = {};
+  
+    eBookConfig.useRunestoneServices = true;
+    eBookConfig.host = 'http://127.0.0.1:8000' || 'http://127.0.0.1:8000';
+    eBookConfig.app = eBookConfig.host+'/runestone';
+    eBookConfig.course = 'teach-mobilecsp';
+    eBookConfig.basecourse = 'mobilecsp';
+    eBookConfig.isLoggedIn = false;
+    eBookConfig.enableCompareMe = eBookConfig.useRunestoneServices;
+  
+  eBookConfig.ajaxURL = eBookConfig.app+'/ajax/';
+  eBookConfig.logLevel = 10;
+  eBookConfig.loginRequired = false;
+  eBookConfig.build_info = "unknown";
+  eBookConfig.python3 = false;
+  eBookConfig.acDefaultLanguage = 'javascript' ? 'javascript' : 'python'
+  eBookConfig.runestone_version = '5.6.1';
+  eBookConfig.jobehost = '';
+  eBookConfig.proxyuri_runs = '';
+  eBookConfig.proxyuri_files = '';
+  eBookConfig.enable_chatcodes = false ? false : false;
+
+
+</script>
+
+<!-- Ad Serving Headers Only serve ads to Anonymous Users -->
+
+
+
+  </head><body>
+
+
+<!-- Begin navbar -->
+<div id="navbar" class="navbar navbar-default navbar-fixed-top" role="navigation">
+
+  <div class="container">
+
+    <div class="navbar-header">
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type='button' class='navbar-toggle' data-toggle="collapse" data-target=".navbar-ex1-collapse">
+        <span class="icon-bar" aria-label="navbar toggle" class="visuallyhidden">toggle navbar</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+
+      <div>
+        
+          <a class="brand-logo" style='background: transparent url("../_static/img/logo_small.png") no-repeat 0px 0px;' href="/runestone/default/user/login">&nbsp; </a>
+        
+        <a class="navbar-brand" href="../index.html" aria-label="index-page">
+          
+          teach-mobilecsp
+        </a>
+      </div>
+    </div>
+
+
+
+    <div class="navbar-collapse collapse navbar-ex1-collapse">
+      <ul class="nav navbar-nav navbar-right" >
+
+        <li class="divider-vertical"></li>
+
+
+        <!-- social media dropdown -->
+        
+        <li class="dropdown">
+          <a class="dropdown-toggle" href="#" data-toggle="dropdown">
+            <i class="glyphicon glyphicon-globe" style="opacity: 0.9"><span aria-label="Social" class="visuallyhidden">Social</span></i>
+          </a>
+          <ul class="dropdown-menu social-menu">
+              <li>
+                <div>
+                  <b>Runestone in social media:</b>
+                </div>
+                <a href="https://twitter.com/iRunestone">Follow @iRunestone</a>
+                <a href="https://www.facebook.com/RunestoneInteractive">Our Facebook Page</a>
+              </li>
+
+              <li class="divider"></li>
+              <li>
+                <div>
+                  <b>Help support us:</b>
+                </div>
+                <div>
+                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                  <input type="hidden" name="cmd" value="_s-xclick">
+                  <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+                  ">
+                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                  </form>
+
+                </div>
+              </li>
+          </ul>
+        </li><!-- end social media dropdown -->
+
+        <li class="divider-vertical"></li>
+
+        <!-- search dropdown -->
+        <li class="dropdown">
+          <a class="dropdown-toggle" href="#" data-toggle="dropdown">
+            <i class="glyphicon glyphicon-search" style='opacity:0.9;'><span aria-label="Search" class="visuallyhidden">Search</span></i>
+          </a>
+          <ul class='dropdown-menu'>
+            
+                <li><a href='../index.html' aria-label="index-page">Table of Contents</a></li>
+            
+            <li><a href='../genindex.html'>Book Index</a></li>
+            <li class="divider"></li>
+            <li style="width: 240px;">
+              <form class="navbar-search" style="margin:10px;" action="../search.html" method="get">
+                <div class="input-group">
+                  <input type="text" class="form-control" name="q" placeholder="Search this book" />
+                  <span class="input-group-btn">
+                    <button class="btn btn-primary" style="margin:0;" type="submit">
+                      <i class="glyphicon glyphicon-search"></i>
+                    </button>
+                  </span>
+                </div><!-- /input-group -->
+                <input type="hidden" name="check_keywords" value="yes" />
+                <input type="hidden" name="area" value="default" />
+              </form>
+            </li>
+          </ul>
+        </li>
+        <!-- end search dropdown -->
+
+        <li class="divider-vertical"></li>
+
+        
+        <!-- user account dropdown -->
+        <li class="dropdown">
+          <a class="dropdown-toggle" href="#" data-toggle="dropdown">
+            <i class="glyphicon glyphicon-user" style="opacity:0.9;"><span aria-label="User" class="visuallyhidden">User</span></i>
+          </a>
+          <ul class="dropdown-menu user-menu">
+            <li><span class='loggedinuser'></span></li>
+            <li class="divider"></li>
+            <li><a href='/runestone/assignments/chooseAssignment.html'>Assignments</a></li>
+            <li><a href='/runestone/assignments/practice'>Practice</a></li>
+            <li class="divider"></li>
+            
+            <li><a href='/runestone/default/courses'>Change Course</a></li>
+			      <li class="divider"></li>
+            <li id="ip_dropdown_link"><a href='/runestone/admin/index'>Instructor's Page</a></li>
+            
+            <li><a href='/runestone/dashboard/studentreport'>Progress Page</a></li>
+            <li class="divider"></li>
+            
+            <li><a href="/runestone/default/user/profile" id="profilelink">Edit Profile</a></li>
+            <li><a href="/runestone/default/user/change_password" id="passwordlink">Change Password</a></li>
+            <li><a href="/runestone/default/user/register" id="registerlink">Register</a></li>
+            
+            <li class='loginout'><a href='#'>Login</a></li> <!-- correct link populated by addNavbarLoginLink() -->
+			<!-- dark mode toggle -->
+             <li><label class="theme-switch" for="checkbox">
+					  <input type="checkbox" id="checkbox" onchange="switchTheme()" />
+							<div class="slider round"></div>
+					</label>Dark Mode</li>
+			 </ul>
+        </li>
+        <!-- end user account dropdown -->
+        
+        <li class="divider-vertical"></li>
+        <!-- <li id="scratch_ac_link"><a href="javascript:ACFactory.toggleScratchActivecode()">Scratch ActiveCode</a></li> -->
+
+        <!-- <li class="dropdown">             -->
+          <li id="scratch_ac_link" class="dropdown"><a href="javascript:ACFactory.toggleScratchActivecode()">
+              <i class="glyphicon glyphicon-pencil" style="opacity:0.9;"><span aria-label="Scratch Activecode" class="visuallyhidden">Scratch Activecode</span></i></a></li>
+        <!-- </li> -->
+
+        <li class="divider-vertical"></li>
+
+        
+        <!-- help menu dropdown -->
+        <li class="dropdown">
+          <a class="dropdown-toggle" href="#" data-toggle="dropdown">
+            <i class="glyphicon glyphicon-question-sign" style="opacity:0.9;"><span aria-label="Help" class="visuallyhidden">Help</span></i>
+          </a>
+          <ul class="dropdown-menu user-menu">
+            <li><a href='http://runestoneinteractive.org/pages/faq.html'>FAQ</a></li>
+            <li><a href='https://runestone.academy/runestone/static/instructorguide/index.html'>Instructors Guide</a></li>
+            <li class="divider"></li>
+            <li><a href='http://runestoneinteractive.org'>About Runestone</a></li>
+            <li><a href='/runestone/default/reportabug?course=teach-mobilecsp&page=NonAP-Explore-Impact-of-Computing-Innovations-INSTRUCTOR-MATERIALS'>Report A Problem</a></li>
+          </ul>
+        </li>
+        <!-- end help menu dropdown -->
+
+        <li class="divider-vertical"></li>
+      
+      </ul>
+
+      <ul class="nav navbar-nav">
+        <li class="divider-vertical"></li>
+        
+          
+          <li class="divider-vertical"></li>
+        
+        <!-- 
+          
+  <li id="relations-prev" title="Previous Chapter - <span class="section-number">6.11. </span>Wrap Up" data-toggle="tooltip">
+    <a href="Wrap-Up.html" >
+      <i class='glyphicon glyphicon-backward' style='opacity:0.9;'></i>
+    </a>
+  </li>
+  
+  <li id="relations-next" title='Next Chapter - <span class="section-number">7. </span>Using and Analyzing Data &amp; Information' data-toggle="tooltip" >              
+    <a href="../Unit7-Using-Analyzing-Data/toctree.html" >
+        <i class='glyphicon glyphicon-forward' style='opacity:0.9;'></i>
+    </a>
+  </li>
+  <li class="divider-vertical"></li>
+
+<script type="text/javascript">
+  opts = {'placement':'bottom',
+          'selector': '',
+          'delay': { show: 100, hide: 50}
+         };
+
+  $('#relations-prev').tooltip(opts);
+  $('#relations-next').tooltip(opts);
+</script>
+        -->
+        
+          <li></li>
+        
+      </ul>
+
+      </div> <!-- navbar -->
+
+
+
+
+
+
+
+    </div> <!-- container -->
+  </div>
+</div>
+
+
+<div class="container" id="continue-reading"></div>
+
+<div class="container" id="main-content" role="main">
+<!-- Ad Serving for Runestone Campaign -->
+
+
+  
+  <a href="../index.html"><img class="align-center" src="../_static/MobileCSPLogo.png" width="250px"/></a><div class="section" id="nonap-explore-impact-of-computing-innovations-instructor-materials">
+<h1><span class="section-number">6.12. </span>NonAP Explore Impact of Computing Innovations  INSTRUCTOR MATERIALS<a class="headerlink" href="#nonap-explore-impact-of-computing-innovations-instructor-materials" title="Permalink to this headline">¶</a></h1>
+    <div class="MCSP-lesson-content">
+<script>
+  $(function() {
+    $( "#accordion" ).accordion({
+      collapsible: true,
+      active: false,
+      heightStyle: "content",
+      icons: false
+    });
+  });
+</script>
+<p class="overview">
+<a href="https://course.mobilecsp.org/mobilecsp/assessment?name=211" target="_blank" title="">This assessment</a> is a Non-AP Explore impact of a computing innovation project. In this project, students work independently to research a computing innovation related to mobile apps that has had significant impact (both positive and negative) on our society. This includes finding credible, reliable, and recent sources, as well as answering a series of prompts about their chosen innovation. Students then create a computational artifact that demonstrates what they learned about one or more of the effects of the innovation. You may choose to do this project in small groups or as a class.</p>
+<div class="pd yui-wk-div">
+<h3>Professional Development</h3>
+<p><b>The Student Lesson:</b> Read and review the student activities for the <a href="https://course.mobilecsp.org/mobilecsp/assessment?name=211" target="_blank" title="">Mobile CSP Non-AP Explore: Impact of Computing Innovations assessment</a>.</p>
+</div>
+<h3>Materials</h3>
+<ul>
+<li>Portfolio</li>
+<li>Copies of project instructions and rubric for each student</li>
+<li>Online database for references</li>
+</ul><div class="section" id="learning-activities">
+<h2><span class="section-number">6.12.1. </span>Learning Activities<a class="headerlink" href="#learning-activities" title="Permalink to this headline">¶</a></h2>
+<p>
+<h3 id="est-length">Estimated Length: 3.5-5 hours</h3>
+<ul>
+<li><b>Hook/Motivation (10 minutes):</b> Have a discussion with students about application (apps) that could make a positive difference in their school, community, or society as a whole. Ask them to generate a list of examples of how an app could positively and negatively impact an issue. <i>Explanation:</i> Let students know that they will be completing a task about a computing innovation that will include researching and writing a paper that explains the impacts citizen science apps have had on our society. Tell students it is important that the write-up demonstrates that they understand mobile app technologies.</li>
+<li><b>Experiences and Explorations (3 hours):</b>
+<ul>
+<li><b>Requirements &amp; Rubric (20 minutes):</b> Review the directions with the students so that they have a general understanding of what they will be completing, including reminding them of what is and is not a computing innovation. You should select and share with the students what format their responses should be in. For example, you could allow students to select a presentation or a paper, or you could require everyone to create a poster and then have a gallery walk to share their innovations. The responses to the questions can be answered in any of those formats, but must include information learned from 3-5 sources. Review the scoring rubric with the students so that they understand how they will be scored on the task and the connection between the rubric criteria and the prompts they will be addressing.</li>
+<li><b>Credible Sources &amp; Plagiarism (20 minutes):</b> Discuss with students the types of sources they've used in other projects and how they know whether or not they are credible. Review the materials on evaluating website credibility. Have them apply the criteria to the article they read about citizen science apps. Next, what plagiarism means and then complete the activity on identifying plagiarism. Depending on your students and their experience with citations, review using either APA or MLA formats. Note that the College Board is not requiring a specific format, but that these give students a starting point, even if they don't follow them exactly.</li>
+<li><b>Work Time (2.5 hours):</b> Students should use the timeline they created to: find sources, create their project, answer the prompts, review and edit.</li>
+</ul>
+</li>
+<li><b>Rethink, Reflect and/or Revise (30 minutes):</b> Provide time for students to score their written task against the rubric and review needed components. If time, students could exchange tasks as well or share them via a gallery-walk activity of computational artifacts, providing feedback to each other.</li>
+</ul>
+<div class="yui-wk-div" id="accordion">
+<h3 class="assessment">Assessment Opportunities</h3>
+<div class="yui-wk-div">
+<p>Summative: See the Explore Project Rubric.<br/><br/></p>
+</div>
+<h3 class="diff-practice">Differentiation: More Practice</h3>
+<div class="yui-wk-div">
+<p>If students are struggling with lesson concepts, have them review the following resources:</p>
+<ul>
+<li>National Geographic has an encyclopedia entry on <a href="https://www.nationalgeographic.org/encyclopedia/citizen-science/">citizen science</a> that includes more information on the topic and other examples (including apps) </li>
+<li>Elizabeth Dillard has shared her materials on <a href="https://drive.google.com/a/css.edu/folderview?id=0Bw5HWxJ4C59AVE5ncnpIT2NXOFU&amp;usp=sharing#" target="_blank">Internet Searching</a> that may be useful for students in the research phase.</li>
+</ul>
+</div>
+<h3 class="bk-knowledge">Background Knowledge: Citizen Science Apps - Impacts</h3>
+<div class="yui-wk-div">
+<p><a href="https://www.scientificamerican.com/article/8-apps-that-turn-citizens-into-scientists/#" target="_blank">This article</a> from <i>Scientific American</i> provides more background on citizen science apps, as well as some alternatives you could suggest to students.</p>
+<p><a href="http://guides.library.illinois.edu/c.php?g=348340&amp;p=2347193" target="_blank">This page</a> has a number of sources that evaluate citizen science types of projects and are a good resource on the positive and negative impacts in general of citizen science apps as a computing innovation.</p>
+</div>
+<h3 class="tips">Teaching Tips</h3>
+<div class="yui-wk-div">
+<ul>
+<li>You may want to consider working with your media specialist on the research and references portion of the project. They could also help students with strategies for narrowing their topic for Explore #2.</li>
+<li><a href="http://turnitin.com/" target="_blank">Turnitin</a> is software that will detect plagiarism in student writing. If you've used it before, you could consider having students turn their writing in here.</li>
+<li>Since this is a practice Performance Task students will not be able to use the same topic for their final performance task submitted to College Board.</li>
+<li>Since this is a practice Performance Task you could consider having students work in small groups.</li>
+<li>Melissa Fearrington has shared her materials for doing this lesson with Google Cardboard as the selected computing innovation:<br/></li><ul>
+<li><a href="https://docs.google.com/document/d/148qMFt5fgn3zKZs2G3_QfT7jkO3G2LDLLsHG3xHr--g/edit?usp=sharing" target="_blank" title="">Lesson Plan Google Cardboard Explore Project by Melissa Fearrington</a></li>
+<li><a href="https://docs.google.com/document/d/1dImumyZs7DQF94PhrBxj9k4eYlcAFJZ24uJaIu6nQjg/edit?usp=sharing" target="_blank" title="">Google Cardboard Group Explore Project Handout by Melissa Fearrington</a></li>
+<li><a href="https://docs.google.com/document/d/1cUOGeJUy68p3G8ok4RaSxyIJa6L31qyiYcn-DUWeOhM/edit?usp=sharing" target="_blank" title="">Google Cardboard Explore Project Reflection Handout by Melissa Fearrington</a></li></ul><li>Focus on criteria 4 of the rubric so students can get credit for criteria 3 AND 4<br/></li><li>Hacking can be given as an effect ONLY IF the innovation is a hacking device (needs to be a direct effect)<br/></li><li>Proper citations are helpful for credibility (MLA or APA), but not required (The College Board is not focused on this); <br/></li><li>It is sufficient to make the claim that any outside images, music, videos used in either the artifact or the responses is not theirs. (Sources for these can be cited in 2e or in the artifact itself.) Otherwise it is plagiarism; <br/></li><li>Readers need to show proof/evidence of plagiarism for students to be penalized;<br/></li><li>Wikipedia is okay as a source, but use with caution (It is recommended that you have a discussion with your students about this)<br/></li><li>There was discussion of 404 errors with sources (i.e. sources and links that worked at one point in time, but are no longer working). We were reminded that the AP readers aren't allowed to check links during the reading. Thus, sources used should be reliable and available at the time of completing the task, but it’s okay if they are not available for any reason during the reading.<br/></li>
+</ul>
+</div>
+</div>
+<div class="pd yui-wk-div"></div>
+<div class="section" id="professional-development-reflection">
+<h2><span class="section-number">6.12.2. </span>Professional Development Reflection<a class="headerlink" href="#professional-development-reflection" title="Permalink to this headline">¶</a></h2>
+<p>
+<p>Discuss the following questions with other teachers in your professional development program.</p>
+<ul>
+<li>What questions do you have about how to implement the Explore project in class? Do you need any clarification on the role of teachers for this project? (</li>
+<li>Review the Explore Project Rubric, paying attention to the content areas (rows) and the descriptors for each performance quality (columns). What areas are you comfortable assessing? What areas do you have questions about?</li>
+</ul>
+            <div class="runestone alert alert-warning">
+            <ul data-component="multiplechoice" data-question_label="6.12.2.1" data-multipleanswers="true" data-random id="mcsp-6-12-1"  style="visibility: hidden;">
+            <p>Q-1: In terms of my ability to teach this lesson and the students’ apparent engagement and level of comprehension, I feel that this lesson was:</p>
+
+            <li data-component="answer" data-correct id="mcsp-6-12-1_opt_a">Very successful</li><li data-component="feedback"></li>
+            
+            <li data-component="answer" data-correct id="mcsp-6-12-1_opt_b">Successful</li><li data-component="feedback"></li>
+            
+            <li data-component="answer" data-correct id="mcsp-6-12-1_opt_c">Ok</li><li data-component="feedback"></li>
+            
+            <li data-component="answer" data-correct id="mcsp-6-12-1_opt_d">Problematic</li><li data-component="feedback"></li>
+            
+            <li data-component="answer" data-correct id="mcsp-6-12-1_opt_e">Very problematic</li><li data-component="feedback"></li>
+            
+
+            </ul>
+            </div>
+            <div id="bogus-div">
+<p></p>
+</div>
+        <div class="runestone">
+        <div data-component="fillintheblank" data-question_label="6.12.2.2" id="mcsp-6-12-2"  style="visibility: hidden;">
+            <p>Q-2: Please elaborate on whether there was enough time for the lesson, how you approached the lesson, whether you assigned homework, what was problematic (if anything), and anything else you want to share about this lesson. <input type="text"></p>
+
+        <script type="application/json">
+            [[{"regex": "^\\s*/.*/i\\s*$", "regexFlags": "", "feedback": ""}, {"regex": "^\\s*x\\s*$", "regexFlags": "", "feedback": ""}]]
+        </script>
+
+        </div>
+        </div>
+            <div id="bogus-div">
+<p></p>
+</div>
+
+
+</div>
+</div></div>
+</div>
+
+
+  <div id=scprogresscontainer>
+    You have attempted <span id=scprogresstotal></span> of <span id=scprogressposs></span> activities on this page <div id="subchapterprogress"></div>
+  </div>
+  
+      
+<ul>
+  <li id="relations-prev" style="opacity:0.4" onmouseover="mouseOverPrev()" onmouseout="mouseOutPrev()"class="navLink" title='Previous Section - 6.11. Wrap Up' data-toggle="tooltip">
+    <a href="Wrap-Up.html" aria-label="6.11. Wrap Up">
+        <div style="background-color: white; border-style:solid; border-color:lightgrey; border-width:2px; width:100px; height:50px">
+            <i class='prevNav glyphicon glyphicon-chevron-left'  style="top:50%; transform:translateY(-50%)translateX(-50%); left: 50%; color:black;"></i>
+        </div>
+    </a>
+  </li>
+</ul>
+
+  
+<ul>
+  <li id="relations-next" style="opacity:0.4" onmouseover="mouseOverNext()" onmouseout="mouseOutNext()" class="navLink" title='Next Section - 7. Using and Analyzing Data &amp; Information' data-toggle="tooltip" >
+    <a href="../Unit7-Using-Analyzing-Data/toctree.html" aria-label="7. Using and Analyzing Data &amp; Information">
+      <div style="background-color: white; border-style:solid; border-color:lightgrey; border-width:2px; width:100px; height:50px">
+          <i id="relationsNextIcon" class='nextNav glyphicon glyphicon-chevron-right' style="top:50%; transform:translateY(-50%)translateX(-50%); left: 50%; color:black; "></i>
+      </div>
+    </a>
+  </li>
+</ul>
+
+<script type="text/javascript">
+
+  $('#relations-prev').tooltip({'placement':'right', 'selector': '', 'delay': { show: 100, hide: 50}});
+  $('#relations-next').tooltip({'placement':'left', 'selector': '', 'delay': { show: 100, hide: 50}});
+
+</script>
+
+<script>
+	function mouseOverPrev() {
+		document.getElementById("relations-prev").style.opacity=1;
+	}
+
+	function mouseOutPrev() {
+		document.getElementById("relations-prev").style.opacity=0.4;
+	}
+	function mouseOverNext() {
+		document.getElementById("relations-next").style.opacity=1;
+	}
+
+	function mouseOutNext() {
+		document.getElementById("relations-next").style.opacity=0.4;
+	}
+</script>
+  
+</div>
+<footer class="footer">
+  <div class="container">
+    <p class="pull-right">
+      
+      
+      <span id='numuserspan'></span><span class='loggedinuser'></span>
+      
+      
+      | <a href="#">Back to top</a>
+      
+    </p>
+    <p>
+        &copy; Copyright Mobile CSP.
+      Created using <a href="http://runestoneinteractive.org/">Runestone</a> 5.6.1.
+    </p>
+  </div>
+</footer>
+
+
+
+
+<script> getSwitch(); </script>
+
+
+  </body>
+</html>

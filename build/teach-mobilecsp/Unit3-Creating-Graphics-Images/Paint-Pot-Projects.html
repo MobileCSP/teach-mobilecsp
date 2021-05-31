@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>3.4. Paint Pot Projects &#8212; Teach Mobile CSP</title>
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/basic.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/accessibility.css?v=50109A2C" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/handsontable@7.2.2/dist/handsontable.full.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/CodeChat.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/matrixeq.css?v=58BC228F" />
+    <link rel="stylesheet" type="text/css" href="../_static/webgldemo.css?v=B36B48D" />
+    <link rel="stylesheet" type="text/css" href="../_static/webglinteractive.css?v=910DF1E1" />
+    <link rel="stylesheet" type="text/css" href="../_static/bootstrap-3.4.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/presenter_mode.css?v=9FF1320F" />
+    <link rel="stylesheet" type="text/css" href="../_static/jquery-ui-1.10.3.custom.min.css?v=97E0178A" />
+    <link rel="stylesheet" type="text/css" href="../_static/bootstrap-sphinx.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/runestone-custom-sphinx-bootstrap.css?v=5.6.1" />
+    <link rel="stylesheet" type="text/css" href="../_static/theme-overrides.css?v=2DAFE138" />
+    <link rel="stylesheet" type="text/css" href="../_static/assets/lib/lessons/tipped.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/assets/lib/lessons/lessons.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/assets/lib/lessons/apmlblockStyles.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/css/custom.css" />
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/jquery.highlight.js?v=F1C496C8"></script>
+    <script src="../_static/sql-wasm.js?v=D71B5933"></script>
+    <script src="https://cdn.jsdelivr.net/npm/handsontable@7.2.2/dist/handsontable.full.js"></script>
+    <script src="../_static/animationbase.js?v=A043C3A7"></script>
+    <script src="../_static/html4css1.css?v=4533ACD3"></script>
+    <script src="../_static/matrixeq.js?v=D64CFA5A"></script>
+    <script src="../_static/webglinteractive.js?v=2B768384"></script>
+    <script src="../_static/FileSaver.min.js?v=8408C997"></script>
+    <script src="../_static/Blob.js?v=AEC2447"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.emitter.bidi.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.emitter.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.fallbacks.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.messagestore.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.parser.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.language.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega@4.0.0-rc.2/build/vega.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@2.5.0/build/vega-lite.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@3.14.0/build/vega-embed.js"></script>
+    <script src="../_static/runestone.js?v=8A4363EB"></script>
+    <script src="../_static/jquery-ui-1.10.3.custom.min.js?v=2B07FE4F"></script>
+    <script src="../_static/bootstrap-3.4.1/js/bootstrap.min.js"></script>
+    <script src="../_static/jquery-fix.js?v=1226591B"></script>
+    <script src="../_static/bootstrap-sphinx.js"></script>
+    <script src="../_static/jquery.idle-timer.js?v=E942DAF1"></script>
+    <script src="../_static/presenter_mode.js?v=2DF16FB4"></script>
+    <script src="../_static/theme.js?v=D899FB97"></script>
+    <script src="../_static/assets/lib/lessons/tipped.js"></script>
+    <script src="../_static/assets/lib/lessons/Framework2020.js"></script>
+    <script src="../_static/assets/lib/lessons/vocabulary.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="3.5. Paint Pot Refactoring and Documentation" href="Paint-Pot-Refactoring-and-Documentation.html" />
+    <link rel="prev" title="3.3. Representing Images" href="Representing-Images.html" />
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+<link rel="shortcut icon" href="/runestone/static/favicon.ico" type="image/ico" />
+
+<script type="text/javascript">
+  eBookConfig = {};
+  
+    eBookConfig.useRunestoneServices = true;
+    eBookConfig.host = 'http://127.0.0.1:8000' || 'http://127.0.0.1:8000';
+    eBookConfig.app = eBookConfig.host+'/runestone';
+    eBookConfig.course = 'teach-mobilecsp';
+    eBookConfig.basecourse = 'mobilecsp';
+    eBookConfig.isLoggedIn = false;
+    eBookConfig.enableCompareMe = eBookConfig.useRunestoneServices;
+  
+  eBookConfig.ajaxURL = eBookConfig.app+'/ajax/';
+  eBookConfig.logLevel = 10;
+  eBookConfig.loginRequired = false;
+  eBookConfig.build_info = "unknown";
+  eBookConfig.python3 = false;
+  eBookConfig.acDefaultLanguage = 'javascript' ? 'javascript' : 'python'
+  eBookConfig.runestone_version = '5.6.1';
+  eBookConfig.jobehost = '';
+  eBookConfig.proxyuri_runs = '';
+  eBookConfig.proxyuri_files = '';
+  eBookConfig.enable_chatcodes = false ? false : false;
+
+
+</script>
+
+<!-- Ad Serving Headers Only serve ads to Anonymous Users -->
+
+
+
+  </head><body>
+
+
+<!-- Begin navbar -->
+<div id="navbar" class="navbar navbar-default navbar-fixed-top" role="navigation">
+
+  <div class="container">
+
+    <div class="navbar-header">
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type='button' class='navbar-toggle' data-toggle="collapse" data-target=".navbar-ex1-collapse">
+        <span class="icon-bar" aria-label="navbar toggle" class="visuallyhidden">toggle navbar</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+
+      <div>
+        
+          <a class="brand-logo" style='background: transparent url("../_static/img/logo_small.png") no-repeat 0px 0px;' href="/runestone/default/user/login">&nbsp; </a>
+        
+        <a class="navbar-brand" href="../index.html" aria-label="index-page">
+          
+          teach-mobilecsp
+        </a>
+      </div>
+    </div>
+
+
+
+    <div class="navbar-collapse collapse navbar-ex1-collapse">
+      <ul class="nav navbar-nav navbar-right" >
+
+        <li class="divider-vertical"></li>
+
+
+        <!-- social media dropdown -->
+        
+        <li class="dropdown">
+          <a class="dropdown-toggle" href="#" data-toggle="dropdown">
+            <i class="glyphicon glyphicon-globe" style="opacity: 0.9"><span aria-label="Social" class="visuallyhidden">Social</span></i>
+          </a>
+          <ul class="dropdown-menu social-menu">
+              <li>
+                <div>
+                  <b>Runestone in social media:</b>
+                </div>
+                <a href="https://twitter.com/iRunestone">Follow @iRunestone</a>
+                <a href="https://www.facebook.com/RunestoneInteractive">Our Facebook Page</a>
+              </li>
+
+              <li class="divider"></li>
+              <li>
+                <div>
+                  <b>Help support us:</b>
+                </div>
+                <div>
+                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                  <input type="hidden" name="cmd" value="_s-xclick">
+                  <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+                  ">
+                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                  </form>
+
+                </div>
+              </li>
+          </ul>
+        </li><!-- end social media dropdown -->
+
+        <li class="divider-vertical"></li>
+
+        <!-- search dropdown -->
+        <li class="dropdown">
+          <a class="dropdown-toggle" href="#" data-toggle="dropdown">
+            <i class="glyphicon glyphicon-search" style='opacity:0.9;'><span aria-label="Search" class="visuallyhidden">Search</span></i>
+          </a>
+          <ul class='dropdown-menu'>
+            
+                <li><a href='../index.html' aria-label="index-page">Table of Contents</a></li>
+            
+            <li><a href='../genindex.html'>Book Index</a></li>
+            <li class="divider"></li>
+            <li style="width: 240px;">
+              <form class="navbar-search" style="margin:10px;" action="../search.html" method="get">
+                <div class="input-group">
+                  <input type="text" class="form-control" name="q" placeholder="Search this book" />
+                  <span class="input-group-btn">
+                    <button class="btn btn-primary" style="margin:0;" type="submit">
+                      <i class="glyphicon glyphicon-search"></i>
+                    </button>
+                  </span>
+                </div><!-- /input-group -->
+                <input type="hidden" name="check_keywords" value="yes" />
+                <input type="hidden" name="area" value="default" />
+              </form>
+            </li>
+          </ul>
+        </li>
+        <!-- end search dropdown -->
+
+        <li class="divider-vertical"></li>
+
+        
+        <!-- user account dropdown -->
+        <li class="dropdown">
+          <a class="dropdown-toggle" href="#" data-toggle="dropdown">
+            <i class="glyphicon glyphicon-user" style="opacity:0.9;"><span aria-label="User" class="visuallyhidden">User</span></i>
+          </a>
+          <ul class="dropdown-menu user-menu">
+            <li><span class='loggedinuser'></span></li>
+            <li class="divider"></li>
+            <li><a href='/runestone/assignments/chooseAssignment.html'>Assignments</a></li>
+            <li><a href='/runestone/assignments/practice'>Practice</a></li>
+            <li class="divider"></li>
+            
+            <li><a href='/runestone/default/courses'>Change Course</a></li>
+			      <li class="divider"></li>
+            <li id="ip_dropdown_link"><a href='/runestone/admin/index'>Instructor's Page</a></li>
+            
+            <li><a href='/runestone/dashboard/studentreport'>Progress Page</a></li>
+            <li class="divider"></li>
+            
+            <li><a href="/runestone/default/user/profile" id="profilelink">Edit Profile</a></li>
+            <li><a href="/runestone/default/user/change_password" id="passwordlink">Change Password</a></li>
+            <li><a href="/runestone/default/user/register" id="registerlink">Register</a></li>
+            
+            <li class='loginout'><a href='#'>Login</a></li> <!-- correct link populated by addNavbarLoginLink() -->
+			<!-- dark mode toggle -->
+             <li><label class="theme-switch" for="checkbox">
+					  <input type="checkbox" id="checkbox" onchange="switchTheme()" />
+							<div class="slider round"></div>
+					</label>Dark Mode</li>
+			 </ul>
+        </li>
+        <!-- end user account dropdown -->
+        
+        <li class="divider-vertical"></li>
+        <!-- <li id="scratch_ac_link"><a href="javascript:ACFactory.toggleScratchActivecode()">Scratch ActiveCode</a></li> -->
+
+        <!-- <li class="dropdown">             -->
+          <li id="scratch_ac_link" class="dropdown"><a href="javascript:ACFactory.toggleScratchActivecode()">
+              <i class="glyphicon glyphicon-pencil" style="opacity:0.9;"><span aria-label="Scratch Activecode" class="visuallyhidden">Scratch Activecode</span></i></a></li>
+        <!-- </li> -->
+
+        <li class="divider-vertical"></li>
+
+        
+        <!-- help menu dropdown -->
+        <li class="dropdown">
+          <a class="dropdown-toggle" href="#" data-toggle="dropdown">
+            <i class="glyphicon glyphicon-question-sign" style="opacity:0.9;"><span aria-label="Help" class="visuallyhidden">Help</span></i>
+          </a>
+          <ul class="dropdown-menu user-menu">
+            <li><a href='http://runestoneinteractive.org/pages/faq.html'>FAQ</a></li>
+            <li><a href='https://runestone.academy/runestone/static/instructorguide/index.html'>Instructors Guide</a></li>
+            <li class="divider"></li>
+            <li><a href='http://runestoneinteractive.org'>About Runestone</a></li>
+            <li><a href='/runestone/default/reportabug?course=teach-mobilecsp&page=Paint-Pot-Projects'>Report A Problem</a></li>
+          </ul>
+        </li>
+        <!-- end help menu dropdown -->
+
+        <li class="divider-vertical"></li>
+      
+      </ul>
+
+      <ul class="nav navbar-nav">
+        <li class="divider-vertical"></li>
+        
+          
+          <li class="divider-vertical"></li>
+        
+        <!-- 
+          
+  <li id="relations-prev" title="Previous Chapter - <span class="section-number">3.3. </span>Representing Images" data-toggle="tooltip">
+    <a href="Representing-Images.html" >
+      <i class='glyphicon glyphicon-backward' style='opacity:0.9;'></i>
+    </a>
+  </li>
+  
+  <li id="relations-next" title='Next Chapter - <span class="section-number">3.5. </span>Paint Pot Refactoring and Documentation' data-toggle="tooltip" >              
+    <a href="Paint-Pot-Refactoring-and-Documentation.html" >
+        <i class='glyphicon glyphicon-forward' style='opacity:0.9;'></i>
+    </a>
+  </li>
+  <li class="divider-vertical"></li>
+
+<script type="text/javascript">
+  opts = {'placement':'bottom',
+          'selector': '',
+          'delay': { show: 100, hide: 50}
+         };
+
+  $('#relations-prev').tooltip(opts);
+  $('#relations-next').tooltip(opts);
+</script>
+        -->
+        
+          <li></li>
+        
+      </ul>
+
+      </div> <!-- navbar -->
+
+
+
+
+
+
+
+    </div> <!-- container -->
+  </div>
+</div>
+
+
+<div class="container" id="continue-reading"></div>
+
+<div class="container" id="main-content" role="main">
+<!-- Ad Serving for Runestone Campaign -->
+
+
+  
+  <a href="../index.html"><img class="align-center" src="../_static/MobileCSPLogo.png" width="250px"/></a><div class="section" id="paint-pot-projects">
+<h1><span class="section-number">3.4. </span>Paint Pot Projects<a class="headerlink" href="#paint-pot-projects" title="Permalink to this headline">¶</a></h1>
+    <div class="MCSP-lesson-content">
+<script>
+$(document).ready(function() {
+      generateFrameworkTable(EKmapping['3.04']);
+      generateHovers();
+  });
+
+</script>
+<p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=151" target="_blank" title="">This lesson</a> extends the app started in the 'Paint Pot Tutorial'.  Students work in pairs to complete several challenges to enhance the app, such as adding a 4th button and changing the size of the dots, and using the Camera component to replace the Canvas's background image. It reinforces the enduring understandings that programming can be used for creative expression and that collaborating (working in pairs) is an effective way to solve problems. Among other things, it reinforces the enduring understandings that the correct use iterative design and selection are important parts of computer programming. </p>
+<table border="" class="framework" id="genTable" width="100%"></table> <p>
+<!--
+&lt;table class=&quot;framework&quot;&gt;
+  &lt;tbody&gt;
+    &lt;!-- Table heading.  Don&#39;t change.
+    &lt;tr&gt;
+      &lt;th align=&quot;center&quot;&gt;CSP Framework&lt;/th&gt;
+     &lt;!-- &lt;th&gt;Lesson Activities&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;EU&quot;&gt;
+      &lt;td colspan=&quot;2&quot;&gt;&lt;img src=&quot;assets/img/creativity.png&quot; class=&quot;BI-icon&quot;&gt;
+        &lt;div class=&quot;hover bi yui-wk-div&quot; data-id=&quot;CRD&quot;&gt;BI 1: Creative Development&lt;/div&gt;,
+         EU CRD-2: Developers create and innovate using an iterative design process that is user-focused, that incorporates implementation/feedback cycles, and that leaves ample room for experimentation and risk-taking.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;LO&quot;&gt;
+      &lt;td&gt;LO CRD-2.J: Identify inputs and corresponding expected outputs or behaviors that can be used to check the correctness of an algorithm or program.
+        &lt;table class=&quot;hover-tip&quot;&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td class=&quot;ek&quot; data-id=&quot;CRD-2.J.1&quot;&gt;EK CRD-2.J.1&lt;/td&gt;
+              &lt;td class=&quot;ek&quot; data-id=&quot;CRD-2.J.2&quot;&gt;EK CRD-2.J.2&lt;/td&gt;
+              &lt;td class=&quot;ek&quot; data-id=&quot;CRD-2.J.3&quot;&gt;EK CRD-2.J.3&lt;/td&gt;
+              &lt;td class=&quot;skill skill4&quot; data-id=&quot;4.C&quot;&gt;Skill 4.C&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/td&gt;
+     &lt;!-- &lt;td&gt;Test and modify the program until it works correctly.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+
+&lt;!-- &lt;tr class=&quot;LO&quot;&gt;
+      &lt;td&gt;LO 1.2.4: Collaborate in the creation of computational artifacts.
+        &lt;table class=&quot;hover-tip&quot;&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td class=&quot;ek&quot; data-id=&quot;1.2.4A&quot;&gt;EK 1.2.4A&lt;/td&gt;
+              &lt;td class=&quot;ek&quot; data-id=&quot;1.2.4C&quot;&gt;EK 1.2.4C&lt;/td&gt;
+              &lt;td class=&quot;ek&quot; data-id=&quot;1.2.4D&quot;&gt;EK 1.2.4D&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+              &lt;td class=&quot;ek&quot; data-id=&quot;1.2.4E&quot;&gt;EK 1.2.4E&lt;/td&gt;
+             &lt;td class=&quot;ek&quot; data-id=&quot;1.2.4F&quot;&gt;EK 1.2.4F&lt;/td&gt;
+             &lt;td class=&quot;ctp&quot; data-id=&quot;6&quot;&gt;P 6&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/td&gt;
+      &lt;td&gt;Work in pairs to solve several programming tasks.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+
+
+&lt;!--    &lt;tr class=&quot;EU&quot;&gt;
+      &lt;td colspan=&quot;2&quot;&gt;&lt;img src=&quot;assets/img/data.png&quot; class=&quot;BI-icon&quot;&gt;
+        &lt;div class=&quot;hover bi yui-wk-div&quot; data-id=&quot;3&quot;&gt;BI 3: Data and Information&lt;/div&gt;,
+          EU 3.1 - People use computer programs to processs information to gain insight and knowledge.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;LO&quot;&gt;
+      &lt;td&gt;LO 3.1.2: Collaborate when processing information to gain insight and knowledge.
+        &lt;table class=&quot;hover-tip&quot;&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td class=&quot;ek&quot; data-id=&quot;3.1.2B&quot;&gt;EK 3.1.2B&lt;/td&gt;
+              &lt;td class=&quot;ek&quot; data-id=&quot;3.1.2E&quot;&gt;EK 3.1.2E&lt;/td&gt;
+              &lt;td class=&quot;ctp&quot; data-id=&quot;6&quot;&gt;P 6&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/td&gt;
+      &lt;td&gt;Work in pairs to discover how to use the Camera component.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+
+    &lt;tr class=&quot;EU&quot;&gt;
+      &lt;td colspan=&quot;2&quot;&gt;&lt;img src=&quot;assets/img/programming.png&quot; class=&quot;BI-icon&quot;&gt;
+        &lt;div class=&quot;hover bi yui-wk-div&quot; data-id=&quot;AAP&quot;&gt;BI 3: Algorithms and Programming&lt;/div&gt;,
+          EU AAP-2: The way statements are sequenced and combined in a program determines the computed result. Programs incorporate iteration and selection constructs to represent repetition and make decisions to handle varied input values.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;LO&quot;&gt;
+      &lt;td&gt;LO AAP-2.E: For relationships between two variables, expressions, or values: a. Write expressions using relational operators. b. Evaluate expressions that use relational operators.
+        &lt;table class=&quot;hover-tip&quot;&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td class=&quot;ek&quot; data-id=&quot;AAP-2.E.2&quot;&gt;EK AAP-2.E.2&lt;/td&gt;
+              &lt;td class=&quot;skill skill2&quot; data-id=&quot;2.B&quot;&gt;Skill 2.B&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/td&gt;
+     &lt;!-- &lt;td&gt;Develop strategies for extending the program&#39;s functionality.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+
+    &lt;tr class=&quot;LO&quot;&gt;
+      &lt;td&gt;LO AAP-2.H: For selection: a. Write conditional statements. b. Determine the result of conditional statements.
+        &lt;table class=&quot;hover-tip&quot;&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td class=&quot;ek&quot; data-id=&quot;AAP-2.H.2&quot;&gt;EK AAP-2.H.2&lt;/td&gt;
+              &lt;td class=&quot;ek&quot; data-id=&quot;AAP-2.H.3&quot;&gt;EK AAP-2.H.3&lt;/td&gt;
+              &lt;td class=&quot;skill skill2&quot; data-id=&quot;2.B&quot;&gt;Skill 2.B&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/td&gt;
+&lt;!--      &lt;td&gt;Test and modify the program until it works correctly.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+
+    &lt;tr class=&quot;LO&quot;&gt;
+      &lt;td&gt;LO AAP-2.I: For nested selection: a. Write nested conditional statements. b. Determine the result of nested conditional statements.
+        &lt;table class=&quot;hover-tip&quot;&gt;
+          &lt;tbody&gt;
+            &lt;tr &gt;
+              &lt;td class=&quot;ek&quot; data-id=&quot;AAP-2.I.1&quot;&gt;EK AAP-2.I.1&lt;/td&gt;
+              &lt;td class=&quot;ek&quot; data-id=&quot;AAP-2.I.2&quot;&gt;EK AAP-2.I.2&lt;/td&gt;
+              &lt;td class=&quot;skill skill2&quot; data-id=&quot;2.B&quot;&gt;Skill 2.B&lt;/td&gt;
+            &lt;/tr&gt;
+
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/td&gt;
+     &lt;!-- &lt;td&gt;Use the pair-programming approach to complete the programming tasks.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+
+     &lt;!-- &lt;td&gt;Use the pair-programming approach to complete the programming tasks.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;!--   &lt;tr class=&quot;EU&quot;&gt;
+      &lt;td colspan=&quot;2&quot;&gt;&lt;img src=&quot;assets/img/programming.png&quot; class=&quot;BI-icon&quot;&gt;
+        &lt;div class=&quot;hover bi yui-wk-div&quot; data-id=&quot;5&quot;&gt;BI 5: Programming&lt;/div&gt;,
+          EU 5.4 - Programs are developed, maintained, and used by people for different purposes.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;LO&quot;&gt;
+      &lt;td&gt;LO 5.4.1: Evaluate the correctness of a program.
+        &lt;table class=&quot;hover-tip&quot;&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td class=&quot;ek&quot; data-id=&quot;5.4.1E&quot;&gt;EK 5.4.1E&lt;/td&gt;
+              &lt;td class=&quot;ek&quot; data-id=&quot;5.4.1G&quot;&gt;EK 5.4.1G&lt;/td&gt;
+              &lt;td class=&quot;ctp&quot; data-id=&quot;4&quot;&gt;P 4&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/td&gt;
+      &lt;td&gt;Students work in pairs to identify and fix errors in their programs.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+
+    &lt;tr class=&quot;EU&quot;&gt;
+      &lt;td colspan=&quot;2&quot;&gt;&lt;img src=&quot;assets/img/programming.png&quot; class=&quot;BI-icon&quot;&gt;
+        &lt;div class=&quot;hover bi yui-wk-div&quot; data-id=&quot;5&quot;&gt;BI 5: Programming&lt;/div&gt;,
+          EU 5.5 - Programming uses mathematical and logical concepts.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr class=&quot;LO&quot;&gt;
+      &lt;td&gt;LO 5.5.1: Employ appropriate mathematical and logical concepts in programming.
+        &lt;table class=&quot;hover-tip&quot;&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td class=&quot;ek&quot; data-id=&quot;5.5.1D&quot;&gt;EK 5.5.1D&lt;/td&gt;
+              &lt;td class=&quot;ctp&quot; data-id=&quot;1&quot;&gt;P 1&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/td&gt;
+      &lt;td&gt;Students use simple math concepts (incrementing and decrementing a variable) and logic concepts (if/else) to enable the user to increase and decrease the size of the dots drawn by the app.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+
+
+  &lt;/tbody&gt;
+&lt;/table&gt;
+End of Framework table.
+-->
+</p><div class="pd yui-wk-div">
+<h3>Professional Development</h3>
+<p><b>The Student Lesson: </b> Complete the activities for
+    <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=151" target="_blank" title="">Mobile CSP Unit 3 Lesson 3.4: Paint Pot Projects</a>.
+  </p>
+</div>
+<h3>Materials</h3>
+<ul>
+<li>Presentation system (LCD projector/Interactive whiteboard)</li><li>Access to computer, laptop, or Chromebook (install the Companion app on Chromebooks)</li><li>Access to mobile device with the Companion app installed or access to the emulator installed on the computer or laptop. </li><li><a href="https://docs.google.com/document/d/1s7PTuvw0fg03iEVUIW11yvHb1TzZdk6T_woT4grvQZY" target="_blank" title="">Paint Pot Projects handout</a></li>
+</ul><div class="section" id="learning-activities">
+<h2><span class="section-number">3.4.1. </span>Learning Activities<a class="headerlink" href="#learning-activities" title="Permalink to this headline">¶</a></h2>
+<p>
+<h3 id="est-length">Estimated Length: 90 minutes</h3>
+<ul>
+<li><b>Hook/Motivation (5 Minutes):</b> Have the students review and explain how the Paint Pot app was created. Discuss some ideas for enhancements. See hints and suggestions for Paint Pot Projects.</li>
+<li><b>Experiences and Explorations (30 minutes):</b> Students work in pairs on enhancements to Paint Pot; teacher answers questions. If any of the students finish early, have them begin working on their reflections. It's important that students be encouraged to be creative not only in coming up with good ideas for their apps but also in trying to solve their problems that arise during the programming task.  Students should be encouraged to discuss their work and ideas with their partner, with other students, and with the teacher. When a program doesn't work as expected, promote the idea that the student must take on the role of a detective and investigate what is causing the problem. This is what is meant by "debugging".  It's also important for students to test their work thoroughly -- it's often not enough to run the app once and conclude that it is correct.</li>
+<li><b>Rethink, Reflect and/or Revise (10 minutes):</b> In their portfolios, have the students answer the portfolio reflection questions found in the Mobile CSP lesson. Ask students about what issues they encountered while modifying the Paint Pot app? What was helpful in resolving those issues?</li>
+<li><i><b>Optional - Presentations (45 minutes):</b> On a second day, have students finish their enhancements and then share them in mini presentations.</i></li>
+</ul>
+<div class="yui-wk-div" id="accordion">
+<h3 class="ap-classroom">AP Classroom</h3>
+<div class="yui-wk-div">
+<p>The College Board's <a href="http://myap.collegeboard.org" target="_blank" title="AP Classroom Site">AP Classroom</a> provides a question bank and Topic Questions. You may create a formative assessment quiz in AP Classroom, assign the quiz (a set of questions), and then review the results in class to identify and address any student misunderstandings.The following are suggested topic questions that you could assign once students have completed this lesson.</p>
+<h4>Suggested Topic Questions:</h4>
+<ul>
+<li>Topic 3.5 Boolean Expressions</li><li>Create PT Formative Topic 3.b (Rows 2 &amp; 3) – 3 Manage Complexity with Vars<br/></li><li>Create PT Formative Topic 3.c (Row 5) – 4 Selection
+</li><li>Create PT Formative Topic 3.d (Row 6) – 2 Testing Selection
+</li>
+</ul>
+</div>
+<h3 class="assessment">Assessment Opportunities and Solutions</h3>
+<div class="yui-wk-div">
+<h4>Solutions:</h4>
+<ul>
+<li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
+<li><a href="https://drive.google.com/open?id=1Ew-24LbAF53XinhdssJPn4uvB6OWOfnuUxHZ6ezEYpg" target="_blank">Paint Pot Projects Solutions</a>
+</li>
+<li><a href="https://drive.google.com/open?id=1Us4_AJcI_9Xja_1lTTr6RJmI3Ko57W4Kisv7hmXv5cw" target="_blank">Quizly Solutions</a>
+</li>
+<li><a href="https://sites.google.com/a/css.edu/jrosato-cis-1001/" target="_blank">Portfolio Reflection Questions Solutions</a>
+</li>
+</ul>
+<h4>Assessment Opportunities</h4>
+<p>You can examine students’ work on the interactive exercises (by using the <a href="http://course.mobilecsp.org/mobilecsp/teacher" target="_blank" title="Mobile CSP Teacher Dashboard">Mobile CSP Teacher Dashboard</a>) and their portfolio reflection entries to assess their progress on the learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.
+    </p><ul>
+<li><i><b>Interactive Exercises:</b></i> </li><ul><li>Students should be able to initialize and increment a global variable on their own.</li><li>Students should be able to read and write program code that contains conditionals and nested if/else statements.</li></ul>
+<li><i><b>Portfolio Reflections:</b></i> </li><ul><li>Students should be able to code a selection statement in their program and accurately explain how the code segment was created as well as describe its output.</li><li>Students should be able to understand how global variables work to store program data and begin to consider the hardware necessary to have pictures persist in their apps. </li></ul>
+<li><i><b>In the Paint Pot App enhancements, look for:</b></i> </li><ul><li>Correct use of variables </li><li>Correct use of nested if/else statements and conditionals.</li></ul>
+</ul>
+</div>
+<h3 class="diff-practice">Differentiation: More Practice</h3>
+<div class="yui-wk-div">
+<p>Students should try to complete the projects without using the Solutions videos. If they get stuck, encourage them to work with their partner, a neighboring pair, etc. and then to look at the solution videos last.</p>
+</div>
+<h3 class="diff-enrich">Differentiation: Enrichment</h3>
+<div class="yui-wk-div">
+<ul>
+<li>The current app uses buttons to increment and decrement the dot size. Students can explore using other UI components such as a slider to change the dot size.</li>
+<li>Add the ability for the user to change the width of the line drawn during the Dragged event.</li>
+<li>Allow the user to create their own colors using text boxes to set the red, green, and blue values (0 to 255) and the make color block. Read the <a href="http://appinventor.mit.edu/explore/ai2/support/blocks/colors.html" target="_blank">AI2 documentation on colors</a> to learn about creating custom colors.</li>
+</ul>
+</div>
+<h3 class="tips">Teaching Tips: Program Correctness</h3>
+<div class="yui-wk-div">
+<p>Have students exchange apps and test each others in addition to their own. Students will gain insights on how others use their apps and what may need to be improved in the user interface or in the blocks so that it works for all users. Encourage them to start thinking about all possible ways a user might interact with the app - not just the way they expect them to interact.</p>
+<p>Have the students create some test cases for the app. For each test case have the students list the initial condition and/or actions along with the expected result. See the sample test cases given in the lesson for a start.
+</p></div>
+</div> <!-- accordion -->
+<div class="pd yui-wk-div"></div>
+<div class="section" id="professional-development-reflection">
+<h2><span class="section-number">3.4.2. </span>Professional Development Reflection<a class="headerlink" href="#professional-development-reflection" title="Permalink to this headline">¶</a></h2>
+<p>
+<p>Discuss the following questions with other teachers in your professional development program.</p>
+<ul>
+<li>How does this lesson help students toward the enduring understanding that programs can be used for creative expression
+      <div class="hover eu yui-wk-div" data-id="CRD-2">[EU CRD-2]</div> and that working in pairs is an effective way to solve programs <div class="hover eu yui-wk-div" data-id="AAP-2">[EU AAP-2]</div>?</li>
+</ul>
+<p>
+            <div class="runestone alert alert-warning">
+            <ul data-component="multiplechoice" data-question_label="3.4.2.1" data-multipleanswers="true" data-random id="mcsp-3-4-1"  style="visibility: hidden;">
+            <p>Q-1: I am confident I can teach this lesson to my students.</p>
+
+            <li data-component="answer" data-correct id="mcsp-3-4-1_opt_a">Strongly Agree</li><li data-component="feedback"></li>
+            
+            <li data-component="answer" data-correct id="mcsp-3-4-1_opt_b">Agree</li><li data-component="feedback"></li>
+            
+            <li data-component="answer" data-correct id="mcsp-3-4-1_opt_c">Neutral</li><li data-component="feedback"></li>
+            
+            <li data-component="answer" data-correct id="mcsp-3-4-1_opt_d">Disagree</li><li data-component="feedback"></li>
+            
+            <li data-component="answer" data-correct id="mcsp-3-4-1_opt_e">Strongly Disagree</li><li data-component="feedback"></li>
+            
+
+            </ul>
+            </div>
+            <div id="bogus-div">
+<p></p>
+</div>
+        <div class="runestone">
+        <div data-component="fillintheblank" data-question_label="3.4.2.2" id="mcsp-3-4-2"  style="visibility: hidden;">
+            <p>Q-2: What questions do you still have about the lesson or the content presented? <input type="text"></p>
+
+        <script type="application/json">
+            [[{"regex": "^\\s*/.*/i\\s*$", "regexFlags": "", "feedback": "<p>Thank you. We will review these to improve the course.</p>\n"}, {"regex": "^\\s*x\\s*$", "regexFlags": "", "feedback": "<p>Thank you. We will review these to improve the course.</p>\n"}]]
+        </script>
+
+        </div>
+        </div>
+            <div id="bogus-div">
+<p></p>
+</div>
+
+
+</p>
+</div>
+</div></div>
+</div>
+
+
+  <div id=scprogresscontainer>
+    You have attempted <span id=scprogresstotal></span> of <span id=scprogressposs></span> activities on this page <div id="subchapterprogress"></div>
+  </div>
+  
+      
+<ul>
+  <li id="relations-prev" style="opacity:0.4" onmouseover="mouseOverPrev()" onmouseout="mouseOutPrev()"class="navLink" title='Previous Section - 3.3. Representing Images' data-toggle="tooltip">
+    <a href="Representing-Images.html" aria-label="3.3. Representing Images">
+        <div style="background-color: white; border-style:solid; border-color:lightgrey; border-width:2px; width:100px; height:50px">
+            <i class='prevNav glyphicon glyphicon-chevron-left'  style="top:50%; transform:translateY(-50%)translateX(-50%); left: 50%; color:black;"></i>
+        </div>
+    </a>
+  </li>
+</ul>
+
+  
+<ul>
+  <li id="relations-next" style="opacity:0.4" onmouseover="mouseOverNext()" onmouseout="mouseOutNext()" class="navLink" title='Next Section - 3.5. Paint Pot Refactoring and Documentation' data-toggle="tooltip" >
+    <a href="Paint-Pot-Refactoring-and-Documentation.html" aria-label="3.5. Paint Pot Refactoring and Documentation">
+      <div style="background-color: white; border-style:solid; border-color:lightgrey; border-width:2px; width:100px; height:50px">
+          <i id="relationsNextIcon" class='nextNav glyphicon glyphicon-chevron-right' style="top:50%; transform:translateY(-50%)translateX(-50%); left: 50%; color:black; "></i>
+      </div>
+    </a>
+  </li>
+</ul>
+
+<script type="text/javascript">
+
+  $('#relations-prev').tooltip({'placement':'right', 'selector': '', 'delay': { show: 100, hide: 50}});
+  $('#relations-next').tooltip({'placement':'left', 'selector': '', 'delay': { show: 100, hide: 50}});
+
+</script>
+
+<script>
+	function mouseOverPrev() {
+		document.getElementById("relations-prev").style.opacity=1;
+	}
+
+	function mouseOutPrev() {
+		document.getElementById("relations-prev").style.opacity=0.4;
+	}
+	function mouseOverNext() {
+		document.getElementById("relations-next").style.opacity=1;
+	}
+
+	function mouseOutNext() {
+		document.getElementById("relations-next").style.opacity=0.4;
+	}
+</script>
+  
+</div>
+<footer class="footer">
+  <div class="container">
+    <p class="pull-right">
+      
+      
+      <span id='numuserspan'></span><span class='loggedinuser'></span>
+      
+      
+      | <a href="#">Back to top</a>
+      
+    </p>
+    <p>
+        &copy; Copyright Mobile CSP.
+      Created using <a href="http://runestoneinteractive.org/">Runestone</a> 5.6.1.
+    </p>
+  </div>
+</footer>
+
+
+
+
+<script> getSwitch(); </script>
+
+
+  </body>
+</html>

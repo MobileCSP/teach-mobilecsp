@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>6.3. Network Architecture &#8212; Teach Mobile CSP</title>
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/basic.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/accessibility.css?v=50109A2C" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/handsontable@7.2.2/dist/handsontable.full.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/CodeChat.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/matrixeq.css?v=58BC228F" />
+    <link rel="stylesheet" type="text/css" href="../_static/webgldemo.css?v=B36B48D" />
+    <link rel="stylesheet" type="text/css" href="../_static/webglinteractive.css?v=910DF1E1" />
+    <link rel="stylesheet" type="text/css" href="../_static/bootstrap-3.4.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/presenter_mode.css?v=9FF1320F" />
+    <link rel="stylesheet" type="text/css" href="../_static/jquery-ui-1.10.3.custom.min.css?v=97E0178A" />
+    <link rel="stylesheet" type="text/css" href="../_static/bootstrap-sphinx.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/runestone-custom-sphinx-bootstrap.css?v=5.6.1" />
+    <link rel="stylesheet" type="text/css" href="../_static/theme-overrides.css?v=2DAFE138" />
+    <link rel="stylesheet" type="text/css" href="../_static/assets/lib/lessons/tipped.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/assets/lib/lessons/lessons.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/assets/lib/lessons/apmlblockStyles.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/css/custom.css" />
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/jquery.highlight.js?v=F1C496C8"></script>
+    <script src="../_static/sql-wasm.js?v=D71B5933"></script>
+    <script src="https://cdn.jsdelivr.net/npm/handsontable@7.2.2/dist/handsontable.full.js"></script>
+    <script src="../_static/animationbase.js?v=A043C3A7"></script>
+    <script src="../_static/html4css1.css?v=4533ACD3"></script>
+    <script src="../_static/matrixeq.js?v=D64CFA5A"></script>
+    <script src="../_static/webglinteractive.js?v=2B768384"></script>
+    <script src="../_static/FileSaver.min.js?v=8408C997"></script>
+    <script src="../_static/Blob.js?v=AEC2447"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.emitter.bidi.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.emitter.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.fallbacks.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.messagestore.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.parser.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.i18n/1.0.5/jquery.i18n.language.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega@4.0.0-rc.2/build/vega.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@2.5.0/build/vega-lite.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@3.14.0/build/vega-embed.js"></script>
+    <script src="../_static/runestone.js?v=8A4363EB"></script>
+    <script src="../_static/jquery-ui-1.10.3.custom.min.js?v=2B07FE4F"></script>
+    <script src="../_static/bootstrap-3.4.1/js/bootstrap.min.js"></script>
+    <script src="../_static/jquery-fix.js?v=1226591B"></script>
+    <script src="../_static/bootstrap-sphinx.js"></script>
+    <script src="../_static/jquery.idle-timer.js?v=E942DAF1"></script>
+    <script src="../_static/presenter_mode.js?v=2DF16FB4"></script>
+    <script src="../_static/theme.js?v=D899FB97"></script>
+    <script src="../_static/assets/lib/lessons/tipped.js"></script>
+    <script src="../_static/assets/lib/lessons/Framework2020.js"></script>
+    <script src="../_static/assets/lib/lessons/vocabulary.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="6.4. IP Addresses and Domain Names" href="IP-Addresses-and-Domain-Names.html" />
+    <link rel="prev" title="6.2. Computer Networking" href="Computer-Networking.html" />
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+<link rel="shortcut icon" href="/runestone/static/favicon.ico" type="image/ico" />
+
+<script type="text/javascript">
+  eBookConfig = {};
+  
+    eBookConfig.useRunestoneServices = true;
+    eBookConfig.host = 'http://127.0.0.1:8000' || 'http://127.0.0.1:8000';
+    eBookConfig.app = eBookConfig.host+'/runestone';
+    eBookConfig.course = 'teach-mobilecsp';
+    eBookConfig.basecourse = 'mobilecsp';
+    eBookConfig.isLoggedIn = false;
+    eBookConfig.enableCompareMe = eBookConfig.useRunestoneServices;
+  
+  eBookConfig.ajaxURL = eBookConfig.app+'/ajax/';
+  eBookConfig.logLevel = 10;
+  eBookConfig.loginRequired = false;
+  eBookConfig.build_info = "unknown";
+  eBookConfig.python3 = false;
+  eBookConfig.acDefaultLanguage = 'javascript' ? 'javascript' : 'python'
+  eBookConfig.runestone_version = '5.6.1';
+  eBookConfig.jobehost = '';
+  eBookConfig.proxyuri_runs = '';
+  eBookConfig.proxyuri_files = '';
+  eBookConfig.enable_chatcodes = false ? false : false;
+
+
+</script>
+
+<!-- Ad Serving Headers Only serve ads to Anonymous Users -->
+
+
+
+  </head><body>
+
+
+<!-- Begin navbar -->
+<div id="navbar" class="navbar navbar-default navbar-fixed-top" role="navigation">
+
+  <div class="container">
+
+    <div class="navbar-header">
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type='button' class='navbar-toggle' data-toggle="collapse" data-target=".navbar-ex1-collapse">
+        <span class="icon-bar" aria-label="navbar toggle" class="visuallyhidden">toggle navbar</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+
+      <div>
+        
+          <a class="brand-logo" style='background: transparent url("../_static/img/logo_small.png") no-repeat 0px 0px;' href="/runestone/default/user/login">&nbsp; </a>
+        
+        <a class="navbar-brand" href="../index.html" aria-label="index-page">
+          
+          teach-mobilecsp
+        </a>
+      </div>
+    </div>
+
+
+
+    <div class="navbar-collapse collapse navbar-ex1-collapse">
+      <ul class="nav navbar-nav navbar-right" >
+
+        <li class="divider-vertical"></li>
+
+
+        <!-- social media dropdown -->
+        
+        <li class="dropdown">
+          <a class="dropdown-toggle" href="#" data-toggle="dropdown">
+            <i class="glyphicon glyphicon-globe" style="opacity: 0.9"><span aria-label="Social" class="visuallyhidden">Social</span></i>
+          </a>
+          <ul class="dropdown-menu social-menu">
+              <li>
+                <div>
+                  <b>Runestone in social media:</b>
+                </div>
+                <a href="https://twitter.com/iRunestone">Follow @iRunestone</a>
+                <a href="https://www.facebook.com/RunestoneInteractive">Our Facebook Page</a>
+              </li>
+
+              <li class="divider"></li>
+              <li>
+                <div>
+                  <b>Help support us:</b>
+                </div>
+                <div>
+                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                  <input type="hidden" name="cmd" value="_s-xclick">
+                  <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+                  ">
+                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                  </form>
+
+                </div>
+              </li>
+          </ul>
+        </li><!-- end social media dropdown -->
+
+        <li class="divider-vertical"></li>
+
+        <!-- search dropdown -->
+        <li class="dropdown">
+          <a class="dropdown-toggle" href="#" data-toggle="dropdown">
+            <i class="glyphicon glyphicon-search" style='opacity:0.9;'><span aria-label="Search" class="visuallyhidden">Search</span></i>
+          </a>
+          <ul class='dropdown-menu'>
+            
+                <li><a href='../index.html' aria-label="index-page">Table of Contents</a></li>
+            
+            <li><a href='../genindex.html'>Book Index</a></li>
+            <li class="divider"></li>
+            <li style="width: 240px;">
+              <form class="navbar-search" style="margin:10px;" action="../search.html" method="get">
+                <div class="input-group">
+                  <input type="text" class="form-control" name="q" placeholder="Search this book" />
+                  <span class="input-group-btn">
+                    <button class="btn btn-primary" style="margin:0;" type="submit">
+                      <i class="glyphicon glyphicon-search"></i>
+                    </button>
+                  </span>
+                </div><!-- /input-group -->
+                <input type="hidden" name="check_keywords" value="yes" />
+                <input type="hidden" name="area" value="default" />
+              </form>
+            </li>
+          </ul>
+        </li>
+        <!-- end search dropdown -->
+
+        <li class="divider-vertical"></li>
+
+        
+        <!-- user account dropdown -->
+        <li class="dropdown">
+          <a class="dropdown-toggle" href="#" data-toggle="dropdown">
+            <i class="glyphicon glyphicon-user" style="opacity:0.9;"><span aria-label="User" class="visuallyhidden">User</span></i>
+          </a>
+          <ul class="dropdown-menu user-menu">
+            <li><span class='loggedinuser'></span></li>
+            <li class="divider"></li>
+            <li><a href='/runestone/assignments/chooseAssignment.html'>Assignments</a></li>
+            <li><a href='/runestone/assignments/practice'>Practice</a></li>
+            <li class="divider"></li>
+            
+            <li><a href='/runestone/default/courses'>Change Course</a></li>
+			      <li class="divider"></li>
+            <li id="ip_dropdown_link"><a href='/runestone/admin/index'>Instructor's Page</a></li>
+            
+            <li><a href='/runestone/dashboard/studentreport'>Progress Page</a></li>
+            <li class="divider"></li>
+            
+            <li><a href="/runestone/default/user/profile" id="profilelink">Edit Profile</a></li>
+            <li><a href="/runestone/default/user/change_password" id="passwordlink">Change Password</a></li>
+            <li><a href="/runestone/default/user/register" id="registerlink">Register</a></li>
+            
+            <li class='loginout'><a href='#'>Login</a></li> <!-- correct link populated by addNavbarLoginLink() -->
+			<!-- dark mode toggle -->
+             <li><label class="theme-switch" for="checkbox">
+					  <input type="checkbox" id="checkbox" onchange="switchTheme()" />
+							<div class="slider round"></div>
+					</label>Dark Mode</li>
+			 </ul>
+        </li>
+        <!-- end user account dropdown -->
+        
+        <li class="divider-vertical"></li>
+        <!-- <li id="scratch_ac_link"><a href="javascript:ACFactory.toggleScratchActivecode()">Scratch ActiveCode</a></li> -->
+
+        <!-- <li class="dropdown">             -->
+          <li id="scratch_ac_link" class="dropdown"><a href="javascript:ACFactory.toggleScratchActivecode()">
+              <i class="glyphicon glyphicon-pencil" style="opacity:0.9;"><span aria-label="Scratch Activecode" class="visuallyhidden">Scratch Activecode</span></i></a></li>
+        <!-- </li> -->
+
+        <li class="divider-vertical"></li>
+
+        
+        <!-- help menu dropdown -->
+        <li class="dropdown">
+          <a class="dropdown-toggle" href="#" data-toggle="dropdown">
+            <i class="glyphicon glyphicon-question-sign" style="opacity:0.9;"><span aria-label="Help" class="visuallyhidden">Help</span></i>
+          </a>
+          <ul class="dropdown-menu user-menu">
+            <li><a href='http://runestoneinteractive.org/pages/faq.html'>FAQ</a></li>
+            <li><a href='https://runestone.academy/runestone/static/instructorguide/index.html'>Instructors Guide</a></li>
+            <li class="divider"></li>
+            <li><a href='http://runestoneinteractive.org'>About Runestone</a></li>
+            <li><a href='/runestone/default/reportabug?course=teach-mobilecsp&page=Network-Architecture'>Report A Problem</a></li>
+          </ul>
+        </li>
+        <!-- end help menu dropdown -->
+
+        <li class="divider-vertical"></li>
+      
+      </ul>
+
+      <ul class="nav navbar-nav">
+        <li class="divider-vertical"></li>
+        
+          
+          <li class="divider-vertical"></li>
+        
+        <!-- 
+          
+  <li id="relations-prev" title="Previous Chapter - <span class="section-number">6.2. </span>Computer Networking" data-toggle="tooltip">
+    <a href="Computer-Networking.html" >
+      <i class='glyphicon glyphicon-backward' style='opacity:0.9;'></i>
+    </a>
+  </li>
+  
+  <li id="relations-next" title='Next Chapter - <span class="section-number">6.4. </span>IP Addresses and Domain Names' data-toggle="tooltip" >              
+    <a href="IP-Addresses-and-Domain-Names.html" >
+        <i class='glyphicon glyphicon-forward' style='opacity:0.9;'></i>
+    </a>
+  </li>
+  <li class="divider-vertical"></li>
+
+<script type="text/javascript">
+  opts = {'placement':'bottom',
+          'selector': '',
+          'delay': { show: 100, hide: 50}
+         };
+
+  $('#relations-prev').tooltip(opts);
+  $('#relations-next').tooltip(opts);
+</script>
+        -->
+        
+          <li></li>
+        
+      </ul>
+
+      </div> <!-- navbar -->
+
+
+
+
+
+
+
+    </div> <!-- container -->
+  </div>
+</div>
+
+
+<div class="container" id="continue-reading"></div>
+
+<div class="container" id="main-content" role="main">
+<!-- Ad Serving for Runestone Campaign -->
+
+
+  
+  <a href="../index.html"><img class="align-center" src="../_static/MobileCSPLogo.png" width="250px"/></a><div class="section" id="network-architecture">
+<h1><span class="section-number">6.3. </span>Network Architecture<a class="headerlink" href="#network-architecture" title="Permalink to this headline">¶</a></h1>
+    <div class="MCSP-lesson-content">
+<script>
+ $(document).ready(function() {
+      generateFrameworkTable(EKmapping['6.03']);
+      generateHovers();
+  });
+
+</script>
+<p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=25&amp;lesson=102" target="_blank" title="">This lesson</a>
+  dives deeper into how the Internet works, exploring the addressing system used to send data. Students watch
+  a series of lectures and use several networking tools, such as <i>ping</i> and <i>traceroute</i> to observe
+  the workings  of the Internet. </p>
+<table border="" class="framework" id="genTable" width="100%"></table>
+<div class="pd yui-wk-div">
+<h3>Professional Development</h3>
+<p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=25&amp;lesson=102" target="_blank" title="">Mobile CSP Unit 6: Lesson 6.3 Network Architecture</a>.
+  </p>
+</div>
+<h3>Materials</h3>
+<ul>
+<li>Computer lab with projection system</li>
+<li><a href="https://docs.google.com/presentation/d/1g7NmzbMvyBYLZwe2NtWXSurW4D7o-uCKYCdI2yvDFIc" target="_blank" title="">Slides</a> :
+     This is slide deck contains 60 slides) and is broken into two parts, with corresponding videos, for this lesson.
+     It is meant to be interspersed with two hands-on POGIL activities.
+  </li>
+<li>Videos, embedded in student lesson.  There are 2 videos:  Video 1 (7:47) and Video 2 (7:15).
+  </li>
+<li><a href="https://docs.google.com/document/d/1vCMjrLWMzU-bs1zv8Btu-rjrcvzQ21J0HarznLgL30g/edit?usp=sharing" target="_blank">Printouts for TCP/IP Packet Routing Activity</a> for each group of 4 in the class and <b>scissors</b> needed to cut out packets in page 3. Or use this new <a href="https://docs.google.com/presentation/d/145iS_7CrMP8n9uek7EX7uvfjjIBKsdhj0JHpuQelp1s/edit?usp=sharing" target="_blank">synchronous online version of the packet routing activity with editable slides</a> - do File/Make a Copy and change the Share permissions to anyone can edit.</li>
+</ul><div class="section" id="learning-activities">
+<h2><span class="section-number">6.3.1. </span>Learning Activities<a class="headerlink" href="#learning-activities" title="Permalink to this headline">¶</a></h2>
+<p>
+<h3 id="est-length">Estimated Length: 90 minutes</h3>
+<ul>
+<li><b>Hook/Motivation (10 minutes):</b>  Ask the students: You are at home writing an e-mail to a friend
+     who is at their home. When you press 'Send', how does the e-mail get to your friend's computer? Show this short video called <a href="https://www.youtube.com/watch?v=ewrBalT_eBM" target="_blank">A Packet's Tale</a>.
+     <b>Explanation:</b> Explain that information is sent in packets over the Internet, between
+     servers, from one IP address to another. You may want to assign <a href="https://www.youtube.com/watch?v=PBWhzz_Gn10" target="_blank">this longer video about packets traveling through the internet</a> from the still curious section as a homework assignment the night before class.
+  </li>
+<li><b>Experiences and Explorations (70 minutes):</b>
+<ul>
+<li><b>Lecture, Part 1:</b> Video 1 (slides 1-37, video 7:47) focuses on basic Internet
+        architecture and introduces the concept of packet switching. It explains the motivation
+        behind the Internet's decentralized, redundant architecture, where messages are divided
+        into small packets that are routed independently from host to host. The lecture/video
+        contains two possible pause points, one that uses the <i>ping</i> utility to test the
+        reachability of a host on the internet, and a second point that uses the <i>traceroute</i>
+        utility to trace the routing of packets.  Breaking up the video to try these utilities
+        will be good preparation for the following POGIL activity.
+      </li>
+<li><b>POGIL Activity 1 (20 minutes) -  Using Ping and Traceroute to Investigate the Internet</b> (15 minutes).
+        The video ends with the following question -- <i>Does the geographical location of hosts
+        on the Internet affect latency</i> -- in other words, do messages take longer to reach hosts
+        that are farther away geographically?  Students are asked to use the ping and traceroute
+        utilities to explore this question.  <b>Answer: </b> All things being equal, the further
+        messages have to travel, the longer it should take.  However, not all things are equal. There
+        are different types of channels over which the packets get routed, some faster than others.
+        More importantly, the routes will take a number of hops -- the more hops, typically, the
+        more latency.
+      </li>
+<li><b>Lecture, Part 2:</b> The second video (slides 38-60, video 7:18) focuses on the Internet's
+        abstraction hierarchy and shows, through the example of a web page request, how the different
+        protocols work together to route the message's packets from source to destination. It describes
+        the TCP/IP protocol, emphasizing the different roles they play in the message routing.
+      </li>
+<li><b>POGIL Activity 2 -  TCP/IP Packet Routing </b> (30 minutes). This hands-on activity asks
+        students to play the roles of the different abstraction layers.  POGIL teams of 4 broken into
+        application layer, transmission layer, internet layer, and link layer. As teacher you will create
+        a <i><b>routing table</b></i>, that students will use to distribute messages (on paper) from one
+        classmate in one POGIL group to another classmate in a different POGIL group.  The activity closely
+        mirrors the Internet abstraction hierarchy. The activity should progress as follows:
+        <ul>
+<li>Print out  <a href="https://docs.google.com/document/d/1vCMjrLWMzU-bs1zv8Btu-rjrcvzQ21J0HarznLgL30g/edit?usp=sharing" target="_blank">Packet Switching Activity handouts</a> for each team of 4 in your class and provide scissors or cut out the packets on page 3.  </li>
+<li>Or use this new <a href="https://docs.google.com/presentation/d/145iS_7CrMP8n9uek7EX7uvfjjIBKsdhj0JHpuQelp1s/edit?usp=sharing" target="_blank">synchronous online version of the packet routing activity with editable slides</a> - do File/Make a Copy and change the Share permissions to anyone can edit.
+            <p>Here is a video of a Mobile CSP teacher, Deddie Quillen, setting up the handouts for her class:<br/><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube-nocookie.com/embed/VYv_pKhaKYc?rel=0" width="560"></iframe></p></li>
+<li>Ask or assign students into teams of 4. Show the routing table on page 1 of the handout on the projector or board and assign an IP address to each group which they should write down on their handouts. Or you could prepare this in advance and write the assigned IP addresses and group leaders on the handouts you give out as in the video above.</li>
+<li>This activity works best with the teacher as the conductor leading the class through each step. Direct the teams through the activity:
+              <ol>
+<li>First have the application layer student in each team write a message (try to make sure each team will receive a message by telling them who to write the message to);</li>
+<li>Then have the transport layer student break the message into packets,</li>
+<li>Then have the internet layer add the IP addresses,</li>
+<li>Then have the link layer pass the packets to another group. Have them mix them up and pass different packets to different groups (the packets take different routes through the network). </li>
+<li>When a group receives a packet they should pass it back up through the layers and follow the directions until they receive their complete message. If the internet layer realizes that the packet is not for them, s/he should pass it back down to the link layer to give to another group.</li>
+<li>After each team sends and receives a message, have them discuss the discussion questions in their groups and then as a class. </li>
+</ol>
+<b>Answers:</b>
+<ol>
+<li><b>Packet Order:</b> the order of the packets does not matter since the TCP header will tell you how to order them, e.g. packet 2 of 3.</li>
+<li><b>Missing Packets:</b> You could steal one of the packets during the activity to see what happens. If there is a missing packet, the TCP layer will know which packet is missing from the TCP headers, e.g. packet 2 of 3. A message needs to be sent to the sender to let them know that a packet is missing and to ask the sender to send it again. For this, we would need a sender IP address in the IP header as well as the recipient's IP address. Packets in real life contain both addresses in the IP header.</li>
+<li><b>Corrupted Packets:</b> How do you know you got the right data? Usually packets have a checksum (or parity bits) to check that you got all the bits. </li>
+<li><b>Security/Privacy:</b> In this simulation, it would be very easy to read everyone's messages. There's no security or privacy. <b>Packet sniffers</b> in real life can capture packets in a network and read them unless they are encrypted. You will probably need to introduce the terms encryption and packet sniffers to the class.</li>
+</ol>
+</li>
+</ul>
+</li></ul>
+</li>
+<li><b>Rethink, Reflect and/or Revise (10 minutes):</b> Review how the Internet works,
+    including the important terms covered in the videos. Students should complete a
+    reflection on their portfolio based on the POGIL activities and complete the interactive exercises.
+  </li>
+</ul>
+<div class="yui-wk-div" id="accordion">
+<h3 class="ap-classroom">AP Classroom</h3>
+<div class="yui-wk-div">
+<p>The College Board's <a href="http://myap.collegeboard.org" target="_blank" title="AP Classroom Site">AP Classroom</a> provides a question bank and Topic Questions. You may create a formative assessment quiz in AP Classroom, assign the quiz (a set of questions), and then review the results in class to identify and address any student misunderstandings.The following are suggested topic questions that you could assign once students have completed this lesson.</p>
+<h4>Suggested Topic Questions:</h4>
+<ul>
+<li>Topic 4.1 The Internet</li>
+<li>Topic 4.2 Fault Tolerance</li>
+</ul>
+</div>
+<h3 class="assessment">Assessment Opportunities</h3>
+<div class="yui-wk-div">
+<h4>Solutions:</h4>
+<ul>
+<li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
+<li><a href="https://drive.google.com/open?id=1Us4_AJcI_9Xja_1lTTr6RJmI3Ko57W4Kisv7hmXv5cw" target="_blank">Quizly Solutions</a>
+</li>
+<li><a href="https://sites.google.com/a/css.edu/jrosato-cis-1001/" target="_blank">Portfolio Reflection Questions Solutions</a>
+</li>
+</ul>
+<h4>Assessment Opportunities</h4>
+<p>You can examine students’ work on the interactive exercise and their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.</p>
+<ul>
+<li><i><b>Interactive Exercises:</b></i> </li>
+<li><i><b>Portfolio Reflections:</b></i>
+<br/>LO X.X.X - Students should be able to ...
+      </li>
+<li><i><b>In the XXX App, look for:</b></i>
+</li>
+</ul>
+</div>
+<h3 class="diff-practice">Differentiation: More Practice</h3>
+<div class="yui-wk-div">
+<p>If students are struggling with lesson concepts, have them review the following resources:</p>
+<ul>
+<li><a href="http://www.internetsociety.org/internet" rel="nofollow" target="_blank">Internet FAQ</a> — the Internet Society's page provides concise answers to frequently asked questions about the Internet, including what it is and how it works.</li>
+<li>Watch <a href="https://www.youtube.com/watch?v=PBWhzz_Gn10" target="_blank">Warriors of the Net</a>, a classic 12 minute animated video about packets traveling through the Internet.</li>
+</ul>
+</div>
+<h3 class="bk-knowledge">Background Knowledge</h3>
+<div class="yui-wk-div">
+<ul>
+<li><a href="http://www.internetsociety.org/internet" rel="nofollow" target="_blank">Internet FAQ</a> — the Internet Society's page provides concise answers to frequently asked questions about the Internet, including what it is and how it works.</li>
+<li><a href="http://www.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm" rel="nofollow" target="_blank">Whitepaper</a> — a fairly concise but authoritative explanation of Internet infrastructure. </li>
+<li><a href="http://en.wikipedia.org/wiki/Internet" rel="nofollow" target="_blank">Wikipedia</a> — an authoritative and comprehensive resource with around 90 references to original sources.</li>
+<li>Watch <a href="https://www.youtube.com/watch?v=PBWhzz_Gn10" target="_blank">Warriors of the Net</a>, a classic 12 minute animated video about packets traveling through the Internet.</li>
+</ul>
+</div>
+</div> <!-- accordion -->
+<div class="pd yui-wk-div"></div>
+<div class="section" id="professional-development-reflection">
+<h2><span class="section-number">6.3.2. </span>Professional Development Reflection<a class="headerlink" href="#professional-development-reflection" title="Permalink to this headline">¶</a></h2>
+<p>
+<p>Discuss the following questions with other teachers in your professional development program.</p>
+<ul>
+<li>Explain how the various levels of abstraction influence characteristics of the Internet? This really combines two of the courses big ideas: abstraction and the Internet. <div class="hover eu yui-wk-div" data-id="6.1">[EU 6.1]</div></li> <!-- for an EU -->
+</ul>
+<!-- These are the PD exit slips.  We should have corresponding exit slips for use after the classroom lesson. -->
+            <div class="runestone alert alert-warning">
+            <ul data-component="multiplechoice" data-question_label="6.3.2.1" data-multipleanswers="true" data-random id="mcsp-6-3-1"  style="visibility: hidden;">
+            <p>Q-1: I am confident I can teach this lesson to my students.</p>
+
+            <li data-component="answer" data-correct id="mcsp-6-3-1_opt_a">Strongly Agree</li><li data-component="feedback"></li>
+            
+            <li data-component="answer" data-correct id="mcsp-6-3-1_opt_b">Agree</li><li data-component="feedback"></li>
+            
+            <li data-component="answer" data-correct id="mcsp-6-3-1_opt_c">Neutral</li><li data-component="feedback"></li>
+            
+            <li data-component="answer" data-correct id="mcsp-6-3-1_opt_d">Disagree</li><li data-component="feedback"></li>
+            
+            <li data-component="answer" data-correct id="mcsp-6-3-1_opt_e">Strongly Disagree</li><li data-component="feedback"></li>
+            
+
+            </ul>
+            </div>
+            <div id="bogus-div">
+<p></p>
+</div>
+        <div class="runestone">
+        <div data-component="fillintheblank" data-question_label="6.3.2.2" id="mcsp-6-3-2"  style="visibility: hidden;">
+            <p>Q-2: What questions do you still have about the lesson or the content presented? <input type="text"></p>
+
+        <script type="application/json">
+            [[{"regex": "^\\s*/.*/i\\s*$", "regexFlags": "", "feedback": "<p>Thank you. We will review these to improve the course.</p>\n"}, {"regex": "^\\s*x\\s*$", "regexFlags": "", "feedback": "<p>Thank you. We will review these to improve the course.</p>\n"}]]
+        </script>
+
+        </div>
+        </div>
+            <div id="bogus-div">
+<p></p>
+</div>
+
+
+</div>
+</div></div>
+</div>
+
+
+  <div id=scprogresscontainer>
+    You have attempted <span id=scprogresstotal></span> of <span id=scprogressposs></span> activities on this page <div id="subchapterprogress"></div>
+  </div>
+  
+      
+<ul>
+  <li id="relations-prev" style="opacity:0.4" onmouseover="mouseOverPrev()" onmouseout="mouseOutPrev()"class="navLink" title='Previous Section - 6.2. Computer Networking' data-toggle="tooltip">
+    <a href="Computer-Networking.html" aria-label="6.2. Computer Networking">
+        <div style="background-color: white; border-style:solid; border-color:lightgrey; border-width:2px; width:100px; height:50px">
+            <i class='prevNav glyphicon glyphicon-chevron-left'  style="top:50%; transform:translateY(-50%)translateX(-50%); left: 50%; color:black;"></i>
+        </div>
+    </a>
+  </li>
+</ul>
+
+  
+<ul>
+  <li id="relations-next" style="opacity:0.4" onmouseover="mouseOverNext()" onmouseout="mouseOutNext()" class="navLink" title='Next Section - 6.4. IP Addresses and Domain Names' data-toggle="tooltip" >
+    <a href="IP-Addresses-and-Domain-Names.html" aria-label="6.4. IP Addresses and Domain Names">
+      <div style="background-color: white; border-style:solid; border-color:lightgrey; border-width:2px; width:100px; height:50px">
+          <i id="relationsNextIcon" class='nextNav glyphicon glyphicon-chevron-right' style="top:50%; transform:translateY(-50%)translateX(-50%); left: 50%; color:black; "></i>
+      </div>
+    </a>
+  </li>
+</ul>
+
+<script type="text/javascript">
+
+  $('#relations-prev').tooltip({'placement':'right', 'selector': '', 'delay': { show: 100, hide: 50}});
+  $('#relations-next').tooltip({'placement':'left', 'selector': '', 'delay': { show: 100, hide: 50}});
+
+</script>
+
+<script>
+	function mouseOverPrev() {
+		document.getElementById("relations-prev").style.opacity=1;
+	}
+
+	function mouseOutPrev() {
+		document.getElementById("relations-prev").style.opacity=0.4;
+	}
+	function mouseOverNext() {
+		document.getElementById("relations-next").style.opacity=1;
+	}
+
+	function mouseOutNext() {
+		document.getElementById("relations-next").style.opacity=0.4;
+	}
+</script>
+  
+</div>
+<footer class="footer">
+  <div class="container">
+    <p class="pull-right">
+      
+      
+      <span id='numuserspan'></span><span class='loggedinuser'></span>
+      
+      
+      | <a href="#">Back to top</a>
+      
+    </p>
+    <p>
+        &copy; Copyright Mobile CSP.
+      Created using <a href="http://runestoneinteractive.org/">Runestone</a> 5.6.1.
+    </p>
+  </div>
+</footer>
+
+
+
+
+<script> getSwitch(); </script>
+
+
+  </body>
+</html>

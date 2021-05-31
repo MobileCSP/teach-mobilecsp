@@ -1,0 +1,19 @@
+h1, h2 { 
+    color:  #70d549; 
+    border-bottom: 5px groove #00b3e3;
+}
+
+strong {
+    color:  #0550FF; /*#1E90FF;  #00b3e3*/
+    background-color: ghostwhite;
+    font-weight: bolder;
+}
+
+a {
+  text-decoration: underline !important;
+}
+
+td { 
+     text-align: left; 
+     padding: 5px;
+}
