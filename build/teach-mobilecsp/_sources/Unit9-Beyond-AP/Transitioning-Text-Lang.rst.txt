@@ -1,0 +1,21 @@
+.. raw:: html 
+
+    <a href="../index.html"><img class="align-center" src="../_static/MobileCSPLogo.png" width="250px"/></a>
+
+Transitioning to Text-Based Languages and CS A
+==============================================
+
+.. raw:: html
+
+	<p>Explore the materials posted on the student site under <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=149&lesson=202" target="_blank" title="">Transitioning to Text Based Languages and CS A</a>. If your school offers CS A, this may be a good time to introduce students to text-based programming and get them excited to take CS A or other programming languages. There are also fun tutorials listed for Python and web design and programming.</p>
+	
+	<p>Other suggestions from teachers include:</p>
+	
+	<ul>
+	  <li>Celebrate! Host an app day where students share apps with the school and community (great recruiting technique)</li>
+	  <li>Help students teach younger kids about computing - work with your elementary and middle schools, either in the classroom or in an afterschool event</li>
+	  <li>Have students explore computing careers and redo your classroom with that information</li>
+	  <li>Have students create another app project, data visualization, impact project, etc.</li>
+	  <li>Other ideas? Share them in the discussion forum...</li>
+	</ul>	 
+	

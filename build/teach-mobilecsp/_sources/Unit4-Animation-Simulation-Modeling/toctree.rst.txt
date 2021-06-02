@@ -21,3 +21,6 @@ Animation, Simulation, & Modeling
 	Abstraction-Inside-the-CPU-optional.rst
 	Impacts-of-CS-Privacy-Explore-Curricular-Activity.rst
 	Wrap-Up.rst
+	apcreate1.rst
+	midterm.rst
+	
