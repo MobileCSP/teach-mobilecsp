@@ -1,0 +1,12 @@
+# Ignore unique build info
+build_info
+build
+_pycache_
+*.txt
+nongit/
+savedsources/
+
+
+
+
+
