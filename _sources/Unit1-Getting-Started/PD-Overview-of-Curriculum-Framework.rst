@@ -31,7 +31,7 @@ PD Overview of Curriculum Framework
     <p></p>
     </div>
 
-</p>
+	</p>
     <h3><br/>The Framework:</h3>
     <p>For information about the CS Principles Framework and Course Assessments, <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course" target="_blank" title="">please review the Course details as provided by the College Board</a>. Further details about the Big ideas and Computational Thinking Practices of the CS Principles framework are provided below. <b><i>Big ideas</i></b> convey themes that should be taught across units developed in a typical college computer science course.  <b><i>Computational Thinking Practices</i></b> include further refined skills to help teach not just content, but a way of thinking. Additionally, Big Ideas are broken down further into Enduring Understandings, Learning Objectives, and Essential Knowledge statements. The <b><i>learning objectives</i></b> are more specific, giving teachers and students a clearer understanding of the course objectives. Each of these will be explored and reflected upon in more depth as they arise in the Mobile CSP lessons.</p>
     <!--&lt;h3&gt;2019-2020&lt;/h3&gt;
@@ -42,7 +42,7 @@ PD Overview of Curriculum Framework
     solve personal, societal, and global problems. This course emphasizes these creative aspects of computing. Students in this course will use tools and techniques of computer
     science to create interesting and relevant artifacts with characteristics that are enhanced by computation.&lt;/p&gt;
    
-    &lt;h4&gt;Essential Questions:&lt;/h4&gt;
+    &lt;h4&gt;<b>Essential Questions:</b>&lt;/h4&gt;
     &lt;ul&gt;
     &lt;li&gt;How can a creative development process affect the creation of computational artifacts?&lt;/li&gt;
     &lt;li&gt;How can computing and the use of computational tools foster creative expression?&lt;/li&gt;
@@ -57,7 +57,7 @@ PD Overview of Curriculum Framework
     communicating with people as well as with machines. Students in this course will learn to work with multiple levels of abstraction while engaging with 
     computational problems and systems, use models and simulations that simplify complex topics in graphical, textual, and tabular formats, and use snapshots
     of models and simulation outputs to understand how data is changing, identify patterns, and recognize abstractions.&lt;/p&gt;
-    &lt;h4&gt;Essential Questions:&lt;/h4&gt;
+    &lt;h4&gt;<b>Essential Questions:</b>:&lt;/h4&gt;
     &lt;ul&gt;
     &lt;li&gt;How are vastly different kinds of data, physical phenomena, and mathematical concepts represented on a computer?&lt;/li&gt;
     &lt;li&gt;How does abstraction help us in writing programs, creating computational artifacts and solving problems?&lt;/li&gt;
@@ -73,7 +73,7 @@ PD Overview of Curriculum Framework
     Computation and computer science facilitate and enable a new understanding of data and information that contributes 
     knowledge to the world. Students in the course will work with data using a variety of computational tools and 
     techniques to better understand the many ways in which data is transformed into information and knowledge.&lt;/p&gt;
-    &lt;h4&gt;Essential Questions:&lt;/h4&gt;
+    &lt;h4&gt;<b>Essential Questions:</b>:&lt;/h4&gt;
     &lt;ul&gt;
     &lt;li&gt;How can computation be employed to help people process data and information to gain insight and knowledge?&lt;/li&gt;
     &lt;li&gt;How can computation be employed to facilitate exploration and discovery when working with data?&lt;/li&gt;
@@ -91,7 +91,7 @@ PD Overview of Curriculum Framework
     aspects of computing. Students in this course will work with algorithms in many ways: they will develop and express
     original algorithms, they will implement algorithms in some language, and they will analyze algorithms both analytically
     and empirically.&lt;/p&gt;
-    &lt;h4&gt;Essential Questions:&lt;/h4&gt;
+    &lt;h4&gt;<b>Essential Questions:</b>:&lt;/h4&gt;
     &lt;ul&gt;
     &lt;li&gt;How are algorithms implemented and executed on computers and computational devices?&lt;/li&gt;
     &lt;li&gt;Why are some languages better than others when used to implement algorithms?&lt;/li&gt;
@@ -107,7 +107,7 @@ PD Overview of Curriculum Framework
     computational artifacts including music, images, visualizations, and more. In this course, programming will enable
     exploration and is the object of study. This course will introduce students to the concepts and techniques related to 
     writing programs, translating human intention into computational artifacts.&lt;/p&gt;
-    &lt;h4&gt;Essential Questions:&lt;/h4&gt;
+    &lt;h4&gt;<b>Essential Questions:</b>:&lt;/h4&gt;
     &lt;ul&gt;
     &lt;li&gt;How are programs developed to help people, organizations, or society solve problems?&lt;/li&gt;
     &lt;li&gt;How are programs used for creative expression, to satisfy personal curiosity, or to create new knowledge?&lt;/li&gt;
@@ -124,7 +124,7 @@ PD Overview of Curriculum Framework
     helped enable the Internet are also critical in the implementation of computational solutions. Students in this course
     will gain insight into how the Internet operates, study characteristics of the Internet and systems built upon it,
     and analyze important concerns such as cybersecurity.&lt;/p&gt;
-    &lt;h4&gt;Essential Questions:&lt;/h4&gt;
+    &lt;h4&gt;<b>Essential Questions:</b>:&lt;/h4&gt;
     &lt;ul&gt;
     &lt;li&gt;What is the Internet, how is it built, and how does it function?&lt;/li&gt;
     &lt;li&gt;What aspects of the Internet&#39;s design and development have helped it scale and flourish?&lt;/li&gt;
@@ -139,7 +139,7 @@ PD Overview of Curriculum Framework
     lead to new understandings, new discoveries, and new disciplines. Students in this course will become familiar with
     many ways in which computing enables innovation, and they will analyze the potential benefits and harmful effects of
     computing in a number of contexts.&lt;/p&gt;
-    &lt;h4&gt;Essential Questions:&lt;/h4&gt;
+    &lt;h4&gt;<b>Essential Questions:</b>:&lt;/h4&gt;
     &lt;ul&gt;
     &lt;li&gt;How does computing enhance communication, interaction, and cognition?&lt;/li&gt;
     &lt;li&gt;How does computing enable innovation?&lt;/li&gt;
@@ -220,7 +220,7 @@ PD Overview of Curriculum Framework
     and reflecting, designing, prototyping, and testing. Additionally, collaboration is an important
     tool to use at any phase of development because considering multiple perspectives allows for
     improvement of innovations.</p>
-    <h4>Essential Questions:</h4>
+    <h4><b>Essential Questions:</b>:</h4>
     <ul>
     <li>How can a creative development process affect the creation of computational artifacts?</li>
     <li>How can computing and the use of computational tools foster creative expression?</li>
@@ -233,7 +233,7 @@ PD Overview of Curriculum Framework
     allowing users to create new information or knowledge to solve problems through the interpretation of
     this data. Computers store data digitally, which means that the data must be manipulated in order to
     be presented in a useful way to the user.</p>
-    <h4>Essential Questions:</h4>
+    <h4><b>Essential Questions:</b>:</h4>
     <ul>
     <li>How can computation be employed to help people process data and information to gain insight and knowledge?</li>
     <li>How can computation be employed to facilitate exploration and discovery when working with data?</li>
@@ -248,7 +248,7 @@ PD Overview of Curriculum Framework
     elements of abstraction, by breaking problems down into interacting pieces, each with their own
     purpose, makes writing complex programs easier. Programmers need to think algorithmically and use
     abstraction to define and interpret processes that are used in a program.</p>
-    <h4>Essential Questions:</h4>
+    <h4><b>Essential Questions:</b>:</h4>
     <ul>
     <li>How are algorithms implemented and executed on computers and computational devices?</li>
     <li>Why are some languages better than others when used to implement algorithms?</li>
@@ -264,7 +264,7 @@ PD Overview of Curriculum Framework
     </div>
     <h3>Big Idea 4: Computer Systems and Networks (CSN)</h3>
     <div><p>Computer systems and networks are used to transfer data. One of the largest and most commonly used networks is the Internet. Through a series of protocols, the Internet can be used to send and receive information and ideas throughout the world. Transferring and processing information can be slow when done on a single computer but leveraging multiple computers to do the work at the same time can significantly shorten the time it takes to complete tasks or solve problems.</p>
-    <h4>Essential Questions:</h4>
+    <h4><b>Essential Questions:</b>:</h4>
     <ul>
     <li>What is the Internet, how is it built, and how does it function?</li>
     <li>What aspects of the Internet's design and development have helped it scale and flourish?</li>
@@ -276,7 +276,7 @@ PD Overview of Curriculum Framework
     we need to be aware of privacy, security, and ethical issues. As programmers, we need to understand
     how our programs will be used and be responsible for the consequences. As computer users, we need
     to understand how to protect ourselves and our privacy when using a computer.</p>
-    <h4>Essential Questions:</h4>
+    <h4><b>Essential Questions:</b>:</h4>
     <ul>
     <li>How does computing enhance communication, interaction, and cognition?</li>
     <li>How does computing enable innovation?</li>

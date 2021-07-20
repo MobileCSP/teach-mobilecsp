@@ -53,7 +53,7 @@ Learning Activities
 .. raw:: html
 
     <p>
-    <h3 style="font-style:italic; background: url(assets/img/time.png) left center no-repeat; background-size:1.5em 1.5em; padding-left:2em;">Estimated Length: 45 minutes</h3>
+    <h3 id="est-length">Estimated Length: 15-45 minutes</h3>
     <ul>
     <li><b>Hook/Motivation (5 minutes):</b> Ask students to think about a time when they struggled with learning something new. Have them quietly write a few sentences about how that made them feel and what they did in response to having to struggle.</li>
     <li><b>Experiences and Explorations (25 minutes):</b> Watch and discuss this video from Khan Academy, <a href="https://www.youtube.com/watch?v=WtKJrB5rOKs" target="_blank">Grow your brain</a>, that covers the science behind how the brain learns new ideas. Here are some starter dicussion questions:
@@ -82,7 +82,7 @@ Learning Activities
     <h3 class="ap-classroom">AP Classroom</h3>
     <div class="yui-wk-div">
     <p>The College Board's <a href="http://myap.collegeboard.org" target="_blank" title="AP Classroom Site">AP Classroom</a> provides a question bank and Topic Questions. You may create a formative assessment quiz in AP Classroom, assign the quiz (a set of questions), and then review the results in class to identify and address any student misunderstandings.The following are suggested topic questions that you could assign once students have completed this lesson.</p>
-    <h4>There are no suggested topic questions for this lesson as it is an introductory and setup lesson.</h4>
+    <p><b>There are no suggested topic questions for this lesson as it is an introductory and setup lesson.</b></p>
     </div>
     <h3 style="background: url(assets/img/success.png) no-repeat left center; background-size: 1.5em 1.5em;">Assessment Opportunities</h3>
     <div class="yui-wk-div">

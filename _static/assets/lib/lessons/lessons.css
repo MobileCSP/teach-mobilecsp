@@ -3,13 +3,24 @@
   width: 100%;
 }
 
+
 table.framework { 
   border-collapse: collapse; 
   background-color: lightgrey; 
 }
 
+div.pogil table { 
+  border-collapse: collapse; 
+  border: 1px solid lightgrey; 
+}
+
+
 table.framework th { 
   font-size: 1.2em; 
+}
+
+table {
+	vertical-align: text-top;
 }
 
 .EU { 
@@ -29,36 +40,6 @@ table.framework th {
 
 .LO > td { 
   vertical-align: top; 
-}
-
-.skill1 { 
- color: white;
- background-color: #c403ad;
-}
-
-.skill2 { 
- color: white;
- background-color: #587edd;
-}
-
-.skill3 { 
- color: white;
- background-color: #ba5503;
-}
-
-.skill4 { 
- color: white;
- background-color: #f7d218;
-}
-
-.skill5 { 
- color: white;
- background-color: #23827a;
-}
-
-.skill6 { 
- color: white;
- background-color: #ffae33;
 }
 
 .hover-tip { 
@@ -121,42 +102,95 @@ table.framework th {
   display: inline;
 }
 
-/* styles for the student side */
+/** Headings with Icons **/
+#introduction-and-goals {
+  background: url(../../img/introandgoalsicon.png) no-repeat; 
+  background-size: 2.5em;
+  padding-left: 2.7em;
+  display: block;
+}
 
-  #self-check {
-  background: url(../../img/target.png) no-repeat left center;
-  background-size:1.5em 1.5em; padding-left: 1.75em;}
-  #still-curious {
-  background: url(../../img/brain.png) no-repeat left center; 
-background-size:1.5em 1.5em; padding-left: 1.75em;}
-  .pogil {background-color: lightgrey; border-top: 3px #6c7a95 solid; padding: 0 .3em; }
-  #portfolio {background-color: lightgrey; border-top: 3px #6c7a95 solid; padding: 0 .3em; }
-  #portfolio h2 {
-  background: url(../../img/notepad-2.png) no-repeat left center; background-size:1.5em 1.5em; padding-left: 1.75em;}
+#learning-activities {
+  background: url(../../img/learningactivities.png) no-repeat; 
+  background-size: 2.5em;
+  padding-left: 2.7em;
+  display: block;
+}
+
 #explore-activity {
-  background: url(../../img/explore.png) no-repeat left center; 
-background-size:1.5em 1.5em; padding-left: 1.75em;}
+  background: url(../../img/explore.png) no-repeat; 
+  background-size: 2.5em;
+  padding-left: 2.7em;
+  display: block;
+}
 
-/* styles for the teach side */
-  img.BI-icon { width:1.5em; height:1.5em; vertical-align:middle; }
+#summary {
+  background: url(../../img/summary.png) no-repeat; 
+  background-size: 2.5em;
+  padding-left: 2.7em;
+  display: block;
+}
 
-  #est-length { font-style:italic; background: url("../../img/time.png") no-repeat left center; background-size:1.5em 1.5em; padding-left:2em; }
-  #explore { font-style:italic; background: url("../../img/explore.png") no-repeat left center; background-size:1.5em 1.5em; padding-left:2em; }
-  #accordion h3.bk-knowledge { background: url("../../img/info.png") no-repeat left center; background-size: 1.5em 1.5em; }
-  #accordion h3.assessment { background: url("../../img/success.png") no-repeat left center; background-size: 1.5em 1.5em; }
-  #accordion h3.diff-practice { background: url("../../img/edit.png") no-repeat left center; background-size: 1.5em 1.5em; }
-  #accordion h3.diff-enrich { background: url("../../img/star.png") no-repeat left center; background-size: 1.5em 1.5em; }
-  #accordion h3.tips { background: url("../../img/idea.png") no-repeat left center; background-size: 1.5em 1.5em; }
-  #accordion h3.ap-classroom { background: url("../../img/APResources.png") no-repeat left center; background-size: 1.5em 1.5em; }
-  
+#still-curious {
+  background: url(../../img/brain.png) no-repeat; 
+  background-size: 2.5em;
+  padding-left: 2.7em;
+  display: block;
+}
 
-  #accordion h3 { font-weight: bold; padding-left: 1.75em}
-  #accordion div { font-family: Arial, sans-serif; font-size: 13px; }
-   #accordion a:link, #accordion a:visited {
-       color: blue;
-       text-decoration: none;
-   }
-   #accordion a:hover, #accordion a:active {
-       color: blue;
-       text-decoration: underline;
-   }
+#self-check {
+  background: url(../../img/target.png) no-repeat; 
+  background-size: 2.5em;
+  padding-left: 2.7em;
+  display: block;
+}
+
+#reflection-for-your-portfolio {
+  background: url(../../img/notepad-2.png) no-repeat; 
+  background-size: 2.5em;
+  padding-left: 2.7em;
+  display: block;
+}
+
+.pogil {
+  background-color: lightgrey;
+  border-top: 3px #6c7a95 solid; 
+  padding: 0 .3em;
+}
+
+#portfolio {
+  background-color: lightgrey; 
+  border-top: 3px #6c7a95 solid; 
+  padding: 0 .3em; 
+}
+
+#est-length { 
+	/*background: url(../../img/time.png) no-repeat left center; 
+	background-size:1.2em 1.2em; padding-left: 2em;  
+*/
+  background: url(../../img/time.png) no-repeat; 
+  background-size: 1em;
+  padding-left: 1.3em;
+  display: block;
+  font-size: 15px;
+}
+
+#accordion h3 { 
+	   font-weight: bold; 
+	   padding-left: 1.75em;
+}
+
+#accordion div { 
+	   font-family: Arial, sans-serif; 
+	   font-size: 13px; 
+}
+
+#accordion a:link, #accordion a:visited {
+	   color: blue;
+	   text-decoration: none;
+}
+
+#accordion a:hover, #accordion a:active {
+	   color: blue;
+	   text-decoration: underline;
+}

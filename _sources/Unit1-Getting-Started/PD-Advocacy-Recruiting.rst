@@ -10,8 +10,8 @@ PD Advocacy  Recruiting
         <div class="gcb-lesson-content" data-question-batch-id="L67" data-scored="False">
     
 
-AP® Equity and Access Policy
------------------------------
+AP<sup>®</sup> Equity and Access Policy
+----------------------------------------
 
 .. raw:: html
 

@@ -56,7 +56,7 @@ Learning Activities
     <h3 class="ap-classroom">AP Classroom</h3>
     <div class="yui-wk-div">
     <p>The College Board's <a href="http://myap.collegeboard.org" target="_blank" title="AP Classroom Site">AP Classroom</a> provides a question bank and Topic Questions. You may create a formative assessment quiz in AP Classroom, assign the quiz (a set of questions), and then review the results in class to identify and address any student misunderstandings. The following are suggested topic questions that you could assign once students have completed this lesson.</p>
-    <h4><div class="yui-wk-div" style="font-weight: 400;"></div></h4><h4>There are no suggested topic questions for this lesson as it is a setup lesson.</h4>
+    <div class="yui-wk-div" style="font-weight: 400;"><p><b>There are no suggested topic questions for this lesson as it is a setup lesson.</b></p></div>
     </div>
     <h3 class="assessment">Assessment Opportunities</h3>
     <div class="yui-wk-div"><p>Use the e-mails that students send to you to keep track of student names, Gmail addresses, and Google portfolio URLs.<br/><br/>The Google portfolios can be used by students to document their answers to the reflection questions at the end of each lesson as well as to post their Create programming project development. It is recommended that you review and grade student work on their portfolios on a regular basis (e.g. at the end of each unit). <a>Here is an example rubric</a> that can be used to grade student portfolios.</p></div>
