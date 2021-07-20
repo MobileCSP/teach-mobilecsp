@@ -22,55 +22,7 @@ Impacts of CS Who Owns the Bits
     <p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=26&amp;lesson=81" target="_blank" title="">Unit 7: Lesson 7.8 Who Owns the Bits?</a>. 
     </p>
     </div>
-    <!--
-    &lt;h2&gt;2. Review the Lesson Plan&lt;/h2&gt;
-    &lt;h3&gt;Content Standards (CS)&lt;/h3&gt;
-    &lt;br&gt;&lt;br&gt;&lt;table&gt;
-       &lt;tbody&gt;&lt;tr&gt;
-           &lt;th width=&quot;33%&quot;&gt;Learning Objectives&lt;br&gt;(What students must be able to do)&lt;/th&gt;
-           &lt;th&gt;Essential Knowledge&lt;br&gt;(What students need to know)&lt;/th&gt;
-       &lt;/tr&gt;
-         &lt;tr&gt;
-           &lt;td&gt;7.1.1 Explain how computing innovations affect communication, interaction, and cognition.[P4]&lt;/td&gt;
-           &lt;td&gt;7.1.1E Widespread access to information facilitates the identification of problems, development of solutions, and dissemination of results. 
-             &lt;br&gt;&lt;br&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
     
-         
-       &lt;tr&gt;
-           &lt;td&gt;7.2.1 Explain how computing has impacted innovations in other fields. [P1]&lt;/td&gt;
-           &lt;td&gt;7.2.1C Computing enables innovation by providing access to and sharing of information.
-           &lt;br&gt;7.2.1D Open access and Creative Commons have enabled broad access to digital information.
-          &lt;/td&gt;
-        &lt;/tr&gt;
-       &lt;tr&gt;
-           &lt;td&gt;7.3.1 Analyze the beneficial and harmful effects of computing. [P4]&lt;/td&gt;
-           &lt;td&gt;7.3.1A Innovations enabled by computing raise legal and ethical concerns.
-           &lt;br&gt;7.3.1B Commercial access to music and movie downloads and streaming raises legal and ethical concerns.
-           &lt;br&gt;7.3.1C Access to digital content via peer-to-peer networks raises legal and ethical concerns.
-             &lt;br&gt;7.3.1F Open source and licensing of software and content raise legal and ethical concerns. 
-             &lt;br&gt;7.3.1N Widespread access to digitized information raises questions about intellectual property.
-           &lt;br&gt;7.3.1O Creation of digital audio, video, and textual content by combining existing content has been impacted by copyright concerns.
-           &lt;br&gt;7.3.1P The Digital Millenium Copyright Act (DMCA) has been a benefit and a challenge in making copyrighted digital material widely available.
-             &lt;br&gt;7.3.1Q Open source and free software have practical, business, and ethical impacts on widespread access to programs, libraries, and code. 
-           &lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/tbody&gt;&lt;/table&gt;
-    
-    
-    &lt;h3&gt;Student Objectives (Knowledge and Skills)&lt;/h3&gt;
-    &lt;ul&gt;
-       &lt;li&gt;Identify copyrighted material and proper use.&lt;/li&gt;
-       &lt;li&gt;Identify peer-to-peer networks. &lt;/li&gt;
-       &lt;li&gt;Describe open access and creative commons and how they allow the legal sharing of digital information. &lt;/li&gt;
-    &lt;/ul&gt;
-    
-    &lt;h3&gt;Assessment/Evidence&lt;/h3&gt;
-    &lt;ul&gt;
-    &lt;li&gt;Formative Assessment: Portfolio entry on Blown to Bits Chapter 6.&lt;/li&gt;
-    &lt;/ul&gt;
-    -->
     <h3>Materials</h3><ul>
     <li><a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter6.pdf" target="_blank" title="">Blown to Bits: Chapter 6 (original)</a></li><li><i><a href="https://drive.google.com/file/d/1DrdNv5qL6cqaehEBlyRqqUEc5D5XUyWt/view?usp=sharing" target="_blank" title="">New Blown to Bits</a></i>: Chapter 6 (13th grade reading level on the Fry Graph Readability Formula)</li>
     <li><a href="https://docs.google.com/document/d/1YYyLFl7ZAwQ0QLITECVIDF7pY4W6UjmhXAijTt0QVF8/edit?usp=sharing" target="_blank">Anticipation Guide</a></li>
@@ -104,20 +56,20 @@ Day 2
     <h3 class="ap-classroom">AP Classroom</h3>
     <div class="yui-wk-div">
     <p>The College Board's <a href="http://myap.collegeboard.org" target="_blank" title="AP Classroom Site">AP Classroom</a> provides a question bank and Topic Questions. You may create a formative assessment quiz in AP Classroom, assign the quiz (a set of questions), and then review the results in class to identify and address any student misunderstandings.The following are suggested topic questions that you could assign once students have completed this lesson.</p>
-    <h4>Suggested Topic Questions:</h4>
+    <p><b>Suggested Topic Questions:</b></p>
     <ul>
     <li>Topic 5.5. Legal and Ethical Concerns</li>
     </ul>
     </div>
     <h3 class="assessment">Assessment Opportunities and Solutions</h3>
     <div class="yui-wk-div">
-    <h4>Solutions:</h4>
+    <p><b>Solutions:</b></p>
     <ul>
     <li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li><a href="https://sites.google.com/a/css.edu/jrosato-cis-1001/" target="_blank">Portfolio Reflection Questions Solutions</a>
     </li>
     </ul>
-    <h4>Assessment Opportunities</h4>
+    <p><b>Assessment Opportunities</b></p>
     <p>You can examine students’ work on the interactive exercise and their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.</p>
     </div>
     <h3 class="diff-practice">Differentiation: More Practice</h3>

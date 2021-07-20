@@ -60,7 +60,7 @@ Learning Activities
 	  <li>Explain that in preparation for the Create Performance Task, students will need to be able to respond to prompts about their code. As practice, students will use this already developed Learning Game app. Preview the app with students and allow them to see how the app works and review the code.</li>
 	</ul>
 	
-	<h4>Experiences and Explorations (165 minutes):<br><ul><li>Enhancements (40-75 minutes) - <span style="font-weight: normal;">Assign the enhancements activity. Give students time, as a class or in pairs, to try adding the suggested enhancements to the code.&nbsp; Students can use the enhancement progress tracking to document their progress on the suggested enhancements. Note that none of the enhancements will influence the written activity. The enhancements are for helping students to understand how the game works (i.e. how the game is programmed). Save approximately 15 minutes to review the enhancement solutions with the class. be sure to provide feedback and address any questions students may have.</span></li><li>Create Performance Task Write-Up Activity (90 minutes) - <span style="font-weight: normal;">After completing and reviewing the enhancements, assign the students the Create Task prompts. Ask them to work </span>independantly <span style="font-weight: normal;">to&nbsp;fill in the submission document with their written responses.&nbsp;</span></li></ul></h4>
+	<h4>Experiences and Explorations (165 minutes)</h4>:<ul><li>Enhancements (40-75 minutes) - <span style="font-weight: normal;">Assign the enhancements activity. Give students time, as a class or in pairs, to try adding the suggested enhancements to the code.&nbsp; Students can use the enhancement progress tracking to document their progress on the suggested enhancements. Note that none of the enhancements will influence the written activity. The enhancements are for helping students to understand how the game works (i.e. how the game is programmed). Save approximately 15 minutes to review the enhancement solutions with the class. be sure to provide feedback and address any questions students may have.</span></li><li>Create Performance Task Write-Up Activity (90 minutes) - <span style="font-weight: normal;">After completing and reviewing the enhancements, assign the students the Create Task prompts. Ask them to work </span>independantly <span style="font-weight: normal;">to&nbsp;fill in the submission document with their written responses.&nbsp;</span></li></ul></h4>
 	
 	<h4>Rethink, Reflect and/or Revise (10 minutes):</h4>
 	<ul>
@@ -71,11 +71,11 @@ Learning Activities
 	<h3 class="ap-classroom">AP Classroom</h3>
 	 <div class="yui-wk-div">
 	 <p>The College Board's <a href="http://myap.collegeboard.org" target="_blank" title="AP Classroom Site">AP Classroom</a> provides a question bank and Topic Questions. You may create a formative assessment quiz in AP Classroom, assign the quiz (a set of questions), and then review the results in class to identify and address any student misunderstandings.The following are suggested topic questions that you could assign once students have completed this lesson.</p>
-	   <h4>Suggested Topic Questions: <span style="font-weight: normal;">Create Formative PT Questions</span><br></h4>
+	   <p><b>Suggested Topic Questions:</b></p> <span style="font-weight: normal;">Create Formative PT Questions</span><br></h4>
 	</div>
 	<h3 class="assessment">Assessment Opportunities</h3>
 	 <div class="yui-wk-div">
-	   <h4>Solutions:</h4>
+	   <p><b>Solutions:</b></p>
 	   <ul>
 	     <li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li><li><a href="https://docs.google.com/document/d/1LnPo5bxkhkCdZwo8lYZV490438quJBOVgn7E0C9UE8s/" target="_blank" title="">Enhancement and Written Response Sample Solutions</a></li>
 	<li><a href="https://drive.google.com/open?id=1Us4_AJcI_9Xja_1lTTr6RJmI3Ko57W4Kisv7hmXv5cw" target="_blank">Quizly Solutions</a>
@@ -84,7 +84,7 @@ Learning Activities
 	</li>
 	   </ul>
 	
-	   <h4>Assessment Opportunities</h4>
+	   <p><b>Assessment Opportunities</b></p>
 	   <p>You can examine students’ work on the enhancement activities, written responses, and interactive exercises to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.
 	   </p><ul>
 	     <li><i><b>Interactive Exercises:</b></i> 

@@ -349,8 +349,20 @@ Professional Development Reflection
 	   <li>What questions do you have about how to implement the performance task in class? Do you need any clarification on the role of teachers for this performance task? (See College Board's Course and Exam Description, pg. 169-171 for role of teachers in the CREATE task.)</li>
 	   <li>Review the <a href="https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-2021-create-performance-task-scoring-guidelines.pdf" target="_blank" title="">CREATE - Programming Performance Task Scoring Guidelines</a>, paying attention to the content areas (rows) and the descriptors for each performance quality (columns). What areas are you comfortable assessing? What areas do you have questions about?</li>
 	   <li>Review the Essential Knowledge statements under each learning objective for the Big Idea of Programming (see the curriculum framework in the CED). Students have now completed a few units of the course, but have more to learn about programming. Which of the essential knowledge statements do you feel are not applicable at this point in the course (i.e. that students should not be evaluated against on this task)?</li>
-	 </ul>
-	 <question quid="6215215582543872" weight="0" instanceid="FpdBnV1dTATy"></question>
-	 <question quid="5669044724170752" weight="0" instanceid="DoUYOuvnTJE6"></question>
-	 <question quid="6301546908221440" weight="0" instanceid="BZESQmmssquP"></question>
-	</div>
+	   </ul>
+
+.. shortanswer:: mcsp-4-14-1
+
+    This lesson was given _________ total minutes of class time in my course. (For example, I used two 40 minute class periods on this lesson for a total of 80 minutes.)
+    
+.. poll:: mcsp-4-14-2
+    :option_1:  Very successful
+    :option_2:  Successful
+    :option_3:  Ok
+    :option_4:	Problematic
+    :option_5: 	Very problematic
+
+.. shortanswer:: mcsp-4-14-3
+
+	Please elaborate on whether there was enough time for the lesson, how you approached the lesson, whether you assigned homework, what was problematic (if anything), and anything else you want to share about this lesson.
+    

@@ -62,11 +62,11 @@ Learning Activities
     <h3 class="ap-classroom">AP Classroom</h3>
     <div class="yui-wk-div">
     <p>The College Board's <a href="http://myap.collegeboard.org" target="_blank" title="AP Classroom Site">AP Classroom</a> provides a question bank and Topic Questions. You may create a formative assessment quiz in AP Classroom, assign the quiz (a set of questions), and then review the results in class to identify and address any student misunderstandings.The following are suggested topic questions that you could assign once students have completed this lesson.</p>
-    <h4>Suggested Topic Questions:</h4>
+    <p><b>Suggested Topic Questions:</b></p>
     </div>
     <h3 class="assessment">Assessment Opportunities and Solutions</h3>
     <div class="yui-wk-div">
-    <b>Solutions:</b><br/>
+    <p><b>Solutions:</b></p>
     <ul>
     <li>Note: Assessments are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li><a href="https://drive.google.com/open?id=16_X06XONPJOldkQdBXDdEN4_FGZvJfOGQ6TkQ39RCFg" target="_blank">Caesar Cipher Exercise Solutions</a></li>

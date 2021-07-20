@@ -63,11 +63,11 @@ Learning Activities
     <h3 class="ap-classroom">AP Classroom</h3>
     <div class="yui-wk-div">
     <p>The College Board's <a href="http://myap.collegeboard.org" target="_blank" title="AP Classroom Site">AP Classroom</a> provides a question bank and Topic Questions. You may create a formative assessment quiz in AP Classroom, assign the quiz (a set of questions), and then review the results in class to identify and address any student misunderstandings.The following are suggested topic questions that you could assign once students have completed this lesson.</p>
-    <h4>Suggested Topic Questions:</h4>
+    <p><b>Suggested Topic Questions:</b></p>
     </div>
     <h3 class="assessment">Assessment Opportunities</h3>
     <div class="yui-wk-div">
-    <h4>Solutions:</h4>
+    <p><b>Solutions:</b></p>
     <ul>
     <li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li><a href="https://drive.google.com/open?id=1Us4_AJcI_9Xja_1lTTr6RJmI3Ko57W4Kisv7hmXv5cw" target="_blank">Quizly Solutions</a>
@@ -75,7 +75,7 @@ Learning Activities
     <li><a href="https://sites.google.com/a/css.edu/jrosato-cis-1001/" target="_blank">Portfolio Reflection Questions Solutions</a>
     </li>
     </ul>
-    <h4>Assessment Opportunities</h4>
+    <p><b>Assessment Opportunities</b></p>
     <p>You can examine students’ work on the interactive exercise and their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.</p>
     <ul>
     <li><i><b>Interactive Exercises:</b></i> </li>
@@ -104,11 +104,11 @@ Learning Activities
     <p>This could be a nice way to tie together algorithms and data representation.
     In particular, it provides a practical example of using base-4 arithmetic.  
     
-    </p><blockquote>
-    <b>Introduction:</b> In the video of the Korean kids on the track, they are performing a
+    </p>
+    <p><b>Introduction:</b> In the video of the Korean kids on the track, they are performing a
     radix sort of 3-digit numbers. The algorithm first sorts the numbers into 
     buckets by their 1s digit, then by their 10s digit, and then by their 100s
-    digit.  This is an example of a <i>base-10 radix sort</i>.
+    digit.  This is an example of a <i>base-10 radix sort</i>.</p>
     
     <p><b>Activity: </b> After watching and understanding that example, have the class 
     watch <a href="http://www.youtube.com/watch?v=ZVvl2MT2HHI">this video (1:29) 
@@ -117,12 +117,13 @@ Learning Activities
     
     </p><p>The trick here is that <i>base-4</i> arithmetic is being used. So the cards are
     numbered as follows:
-    </p><blockquote>
-    <table>
+    </p>
+  
+    <table border="1">
     <tbody><tr><th>Card</th><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8 </td><td>9</td><td>10</td><td>J</td><td>Q</td><td>K</td><td>A</td></tr>
     <tr><th>Base 4</th><td>02</td><td>03</td><td>10</td><td>11</td><td>12</td><td>13</td><td>20</td><td>21</td><td>22</td><td>23</td><td>30</td><td>31</td><td>32</td></tr>
     </tbody></table>
-    </blockquote>
+    
     <p>In the video, the cards are first sorted into buckets by the base-4 1s digit. Then you 
     by the base-4 4s digit.  
     

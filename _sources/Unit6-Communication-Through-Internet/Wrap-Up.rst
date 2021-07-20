@@ -34,7 +34,7 @@ Unit Assessments
     <p>
     <h3 class="ap-classroom">AP Classroom</h3>
     <div class="yui-wk-div">Please review College Board's guidelines for the use of topic questions in AP Classroom (detailed in <a href="https://course.mobilecsp.org/teach_mobilecsp/unit?unit=1&amp;lesson=144" target="_blank" title="">Teach 1.16</a>).</div><p>The following are the suggested topics that you could assign once students have completed this unit. (<span style="font-style: italic;">Note: Before adding questions to their formative assessment, teachers should review the questions in each topic to ensure that the questions are appropriate for their students depending on what was covered in this unit. It is <span style="font-weight: bold;">not</span> necessary to assign <span style="font-weight: bold;">all</span> of the questions.)</span><br/></p><p></p>
-    <h4>Suggested Topics:<br/><ul><li><span style="font-weight: normal;">Topic 4.1 The Internet</span></li>
+    <p><b>Suggested Topics:</b></p><ul><li><span style="font-weight: normal;">Topic 4.1 The Internet</span></li>
     <li><span style="font-weight: normal;">Topic 4.2 Fault Tolerance</span></li>
     <li><span style="font-weight: normal;">Topic 5.2 Digital Divide</span></li>
     <li><span style="font-weight: normal;">Topic 5.6 Safe Computing</span></li></ul><div class="yui-wk-div"><span style="font-style: italic; font-weight: 400;">*Need help creating a quiz in AP Classroom? There are teacher tutorials available under the Help menu in the top right hand corner of AP Classroom.</span></div></h4>

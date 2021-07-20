@@ -32,7 +32,7 @@ Course Information:
 
 	<p>In addition to our College Board endorsed curriculum, Mobile CSP also offers a professional development (PD) to teachers where they can learn the content of the course and how to effectively teach the materials to their high school level students. There are 2 tracks that teachers can take to complete the Mobile CSP training (Table A). <em>Completing the graduate course is optional</em>. Teachers do not need to complete graduate credit to participate in our offered professional development. However, successfully completing the PD is a prerequisite for enrolling in the Mobile CSP graduate level course. Teachers cannot enroll in the graduate level course without first completing the PD. Teachers must enroll in and complete the graduate level course to receive graduate credit (teachers will not be given graduate credit for simply completing the PD, enrollment in the graduate course is required to receive graduate credit).</p>
 	
-	<table class="framework" style="text-align: center">
+	<table border="1" class="framework" style="text-align: center">
 	 <tbody>
 	   <tr>
 	     <th colspan="3">Table A: Tracks for receiving graduate credit and completing the Mobile CSP training</th>
@@ -72,7 +72,7 @@ Course Information:
 	
 	<p>The College of St. Scholastica EDU 5777: Mobile CSP graduate level course requires that teachers successfully completed the PD and includes a reflection component (completed by end of fall 2019) where teachers further develop their computer science content knowledge and ability to effectively teach the Mobile CSP curriculum. Depending on the PD format that teachers complete, they are eligible to receive 2-3 graduate credits after completing the PD and enrolling in the EDU 5777 course (Table B). To receive graduate credit, teachers must enroll in and complete all requirements of the EDU 5777 course which are in addition to the PD requirements.</p>
 	
-	<table class="framework" style="text-align: center">
+	<table border="1" class="framework" style="text-align: center">
 	 <tbody>
 	   <tr>
 	     <th colspan="3">Table B: Graduate credit offerings by type of PD completed</th>

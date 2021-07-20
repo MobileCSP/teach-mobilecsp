@@ -51,7 +51,7 @@ Learning Activities
     <h3 class="ap-classroom">AP Classroom</h3>
     <div class="yui-wk-div">
     <p>The College Board's <a href="http://myap.collegeboard.org" target="_blank" title="AP Classroom Site">AP Classroom</a> provides a question bank and Topic Questions. You may create a formative assessment quiz in AP Classroom, assign the quiz (a set of questions), and then review the results in class to identify and address any student misunderstandings.The following are suggested topic questions that you could assign once students have completed this lesson.</p>
-    <h4>Suggested Topic Questions:</h4>
+    <p><b>Suggested Topic Questions:</b></p>
     <ul>
     <li>Topic 3.9 Developing Algorithms</li>
     <li>Topic 3.12 Calling Procedures</li>
@@ -60,7 +60,7 @@ Learning Activities
     </div>
     <h3 class="assessment">Assessment Opportunities and Solutions</h3>
     <div class="yui-wk-div">
-    <h4>Solutions:</h4>
+    <p><b>Solutions:</b></p>
     <ul>
     <li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li><a href="https://drive.google.com/open?id=1I88Dqdhj1Lvi_3Bxl0TazZtAYDXjOCOdH5JY13tgbDs" target="_blank">Logo 2 Project Solutions</a>
@@ -72,7 +72,7 @@ Learning Activities
     <li><a href="https://sites.google.com/a/css.edu/jrosato-cis-1001/" target="_blank">Portfolio Reflection Questions Solutions</a>
     </li>
     </ul>
-    <h4>Assessment Opportunities</h4>
+    <p><b>Assessment Opportunities</b></p>
     <p>You can examine students’ work on the interactive exercise and their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.</p>
     <ul>
     <li><i><b>Interactive Exercises:</b></i> </li>

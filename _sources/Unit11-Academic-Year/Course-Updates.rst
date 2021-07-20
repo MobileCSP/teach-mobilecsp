@@ -15,4 +15,4 @@ Course Updates
 	<p>We encourage teachers to <a href="./modules/extra_tabs/render?index=0" target="_blank" title="">report a problem</a> when they see one.
 	</p>
 	
-	<iframe src="https://docs.google.com/document/d/1kpKG7KMA2p118vrba9MT7F_pYGqoEJjpYagCMzn9qTY/pub?embedded=true" width="85%" height="2000"></iframe>
+	<p><iframe src="https://docs.google.com/document/d/1kpKG7KMA2p118vrba9MT7F_pYGqoEJjpYagCMzn9qTY/pub?embedded=true" width="85%" height="2000"></iframe></p>

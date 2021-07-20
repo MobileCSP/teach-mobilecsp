@@ -51,14 +51,14 @@ Learning Activities
     <h3 class="ap-classroom">AP Classroom</h3>
     <div class="yui-wk-div">
     <p>The College Board's <a href="http://myap.collegeboard.org" target="_blank" title="AP Classroom Site">AP Classroom</a> provides a question bank and Topic Questions. You may create a formative assessment quiz in AP Classroom, assign the quiz (a set of questions), and then review the results in class to identify and address any student misunderstandings.The following are suggested topic questions that you could assign once students have completed this lesson.</p>
-    <h4>Suggested Topic Questions:</h4>
+    <p><b>Suggested Topic Questions:</b></p>
     <ul>
     <li>Topic 3.11 Binary Search</li>
     </ul>
     </div>
     <h3 class="assessment">Assessment Opportunities and Solutions</h3>
     <div class="yui-wk-div">
-    <h4>Solutions:</h4>
+    <p><b>Solutions:</b></p>
     <b>POGIL Solutions:</b><br/>
     <ul>
     <li>Here is the guessing game <a href="http://appinventor.trincoll.edu/csp/webapps/search/binarysearch.html" target="_blank">pseudocode</a> and an explanation of how binary search works.</li>
@@ -74,7 +74,7 @@ Learning Activities
     <li><a href="https://sites.google.com/a/css.edu/jrosato-cis-1001/" target="_blank">Portfolio Reflection Questions Solutions</a>
     </li>
     </ul>
-    <h4>Assessment Opportunities</h4>
+    <p><b>Assessment Opportunities</b></p>
     <p>You can examine students’ work on the interactive exercise and their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.</p>
     <ul>
     <li><i><b>Interactive Exercises:</b></i> </li>

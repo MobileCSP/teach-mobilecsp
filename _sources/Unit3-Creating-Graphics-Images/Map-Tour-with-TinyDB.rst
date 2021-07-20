@@ -51,11 +51,11 @@ Learning Activities
     <h3 class="ap-classroom">AP Classroom</h3>
     <div class="yui-wk-div">
     <p>The College Board's <a href="http://myap.collegeboard.org" target="_blank" title="AP Classroom Site">AP Classroom</a> provides a question bank and Topic Questions. You may create a formative assessment quiz in AP Classroom, assign the quiz (a set of questions), and then review the results in class to identify and address any student misunderstandings.The following are suggested topic questions that you could assign once students have completed this lesson.</p>
-    <h4>Suggested Topic Questions:<br/><ul><li><span style="font-weight: normal;">Topic 3.2 Data Abstraction</span><br/></li><li><span style="font-weight: 400;">Topic 3.10 Lists</span><br/></li></ul></h4>
+    <p><b>Suggested Topic Questions:</b></p><br/><ul><li><span style="font-weight: normal;">Topic 3.2 Data Abstraction</span><br/></li><li><span style="font-weight: 400;">Topic 3.10 Lists</span><br/></li></ul></h4>
     </div>
     <h3 aria-controls="ui-id-2" aria-expanded="false" aria-selected="false" class="assessment ui-accordion-header ui-state-default ui-corner-all" id="ui-id-1" role="tab" tabindex="0">Assessment Opportunities and Solutions</h3>
     <div aria-hidden="true" aria-labelledby="ui-id-1" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom yui-wk-div" id="ui-id-2" role="tabpanel" style="display: none;">
-    <h4>Solutions:</h4>
+    <p><b>Solutions:</b></p>
     <ul>
     <li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li><a href="https://drive.google.com/open?id=1g87RA0YQaumslPzsNQpk-oZ-KLn-Rdy1" target="_blank">Map Tour with Tiny DB without enhancements .aia file</a>
@@ -69,7 +69,7 @@ Learning Activities
     <li><a href="https://sites.google.com/a/css.edu/jrosato-cis-1001/" target="_blank">Portfolio Reflection Questions Solutions</a>
     </li>
     </ul>
-    <h4>Assessment Opportunities</h4>
+    <p><b>Assessment Opportunities</b></p>
     <p>You can examine students’ work on the interactive exercise and their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.</p>
     <ul>
     <li><i><b>Interactive Exercises:</b></i> </li>
