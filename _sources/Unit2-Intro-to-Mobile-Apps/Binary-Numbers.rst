@@ -67,11 +67,11 @@ Learning Activities
     <h3 class="ap-classroom">AP Classroom</h3>
     <div class="yui-wk-div">
     <p>The College Board's <a href="http://myap.collegeboard.org" target="_blank" title="AP Classroom Site">AP Classroom</a> provides a question bank and Topic Questions. You may create a formative assessment quiz in AP Classroom, assign the quiz (a set of questions), and then review the results in class to identify and address any student misunderstandings.The following are suggested topic questions that you could assign once students have completed this lesson.</p>
-    <h4>Suggested Topic Questions:<br/><ul><li><span style="font-weight: normal;">Topic 2.1 Binary Numbers</span></li></ul></h4>
+    <p><b>Suggested Topic Questions:</b></p><ul><li><span style="font-weight: normal;">Topic 2.1 Binary Numbers</span></li></ul></h4>
     </div>
     <h3 aria-controls="ui-id-2" aria-expanded="false" aria-selected="false" class="assessment ui-accordion-header ui-state-default ui-corner-all" id="ui-id-1" role="tab" tabindex="0">Assessment Opportunities and Solutions</h3>
     <div aria-hidden="true" aria-labelledby="ui-id-1" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom yui-wk-div" id="ui-id-2" role="tabpanel" style="display: none;">
-    <h4>Solutions:</h4>
+    <p><b>Solutions:</b></p>
     <ul>
     <li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li>
@@ -83,7 +83,7 @@ Learning Activities
     <li><a href="https://sites.google.com/a/css.edu/jrosato-cis-1001/" target="_blank">Portfolio Reflection Questions Solutions</a>
     </li>
     </ul>
-    <h4>Assessment Opportunities</h4>
+    <p><b>Assessment Opportunities</b></p>
     <ul>
     <li>Formative Assessment: <a href="https://docs.google.com/file/d/0B5ZVxaK8f0u9NDBQZjhDTlFXY1k/edit" target="_blank">Base conversion worksheet</a>
            <a href="https://docs.google.com/file/d/0B6fFiZdZdzwSajVaUGRhMldOS2c" target="_blank">Completed base conversion worksheet</a>

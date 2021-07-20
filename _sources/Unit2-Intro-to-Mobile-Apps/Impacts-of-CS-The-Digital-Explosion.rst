@@ -104,11 +104,11 @@ Learning Activities
     <h3 class="ap-classroom">AP Classroom</h3>
     <div class="yui-wk-div">
     <p>The College Board's <a href="http://myap.collegeboard.org" target="_blank" title="AP Classroom Site">AP Classroom</a> provides a question bank and Topic Questions. You may create a formative assessment quiz in AP Classroom, assign the quiz (a set of questions), and then review the results in class to identify and address any student misunderstandings. The following are suggested topic questions that you could assign once students have completed this lesson.</p>
-    <h4>Suggested Topic Questions:<br/><ul><li><span style="font-weight: 400;">Topic 2.1 Binary Numbers</span></li></ul></h4>
+    <p><b>Suggested Topic Questions:</b></p><br/><ul><li><span style="font-weight: 400;">Topic 2.1 Binary Numbers</span></li></ul></h4>
     </div>
     <h3 class="assessment">Assessment Opportunities</h3>
     <div class="yui-wk-div">
-    <h4>Solutions:</h4>
+    <p><b>Solutions:</b></p>
     <ul>
     <li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li><a href="https://drive.google.com/open?id=1Us4_AJcI_9Xja_1lTTr6RJmI3Ko57W4Kisv7hmXv5cw" target="_blank">Quizly Solutions</a>
@@ -116,7 +116,7 @@ Learning Activities
     <li><a href="https://sites.google.com/a/css.edu/jrosato-cis-1001/" target="_blank">Portfolio Reflection Questions Solutions</a>
     </li>
     </ul>
-    <h4>Assessment Opportunities</h4>
+    <p><b>Assessment Opportunities</b></p>
     <p>You can examine students’ work on the interactive exercise and their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.
         </p><ul>
     <li><i><b>Portfolio Reflections:</b></i>
@@ -143,8 +143,9 @@ Learning Activities
     <h3 class="bk-knowledge">Background Knowledge: Reading in the Content Area</h3>
     <div class="yui-wk-div">
     <p>Included below are the second set of videos on reading in the content area. These videos discuss strategies to use during reading and after reading.</p>
-    <h4>Reading in the Content Area, Part 3</h4>
+    <p><b>Reading in the Content Area, Part 3</b></p>
     <div class="video yui-wk-div">
+    
 .. youtube:: IgbtU3VKtN8
         :width: 650
         :height: 415
@@ -156,7 +157,7 @@ Learning Activities
     <p></p>
     </div>
 
-</div>
+	</div>
     <h4>Reading in the Content Area, Part 4</h4>
     <div class="video yui-wk-div">
     
@@ -171,7 +172,7 @@ Learning Activities
     <p></p>
     </div>
 
-</div>
+	</div>
     </div>
     <h3 class="tips">Teaching Tips: Setting the Stage for Blown to Bits</h3>
     <div class="yui-wk-div">
