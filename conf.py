@@ -21,8 +21,7 @@ from sphinx.errors import ExtensionError
 #sys.path.insert(0, os.path.abspath('../modules'))
 
 # Changed 5/24/2020: 
-from runestone import runestone_static_dirs, runestone_extensions, script_files, css_files
-#from runestone import runestone_static_dirs, runestone_extensions
+from runestone import runestone_static_dirs, runestone_extensions, css_files
 #from runestone import runestone_static_dirs, runestone_extensions, setup
 import pkg_resources
 
@@ -239,22 +238,40 @@ html_show_copyright = True
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'PythonCoursewareProjectdoc'
 
+import json
+
 # custom  files in _static
-custom_css_files = [ 'assets/lib/lessons/tipped.css', 'assets/lib/lessons/lessons.css', 'assets/lib/lessons/apmlblockStyles.css', 'css/custom.css' ]
+custom_css_files = [ 'assets/lib/lessons/tipped.css', 'assets/lib/lessons/lessons.css', 'assets/lib/lessons/apmlblockStyles.css','css/custom.css' ]
 custom_js_files = ['assets/lib/lessons/tipped.js', 'assets/lib/lessons/Framework2020.js','assets/lib/lessons/vocabulary.js']
 
 def setup(app):
-    for f in script_files:
+    """
+    A normal Runestone project will import this function into its conf.py
+    This setup will run after all of the extensions, so it is a good place
+    for us to include our common javascript and css files.
+    This could be expanded if there is additional initialization or customization
+    we wanted to do for all projects.
+    """
+    # Include JS and CSS produced by webpack. See `webpack static imports <webpack_static_imports>`_.
+    with open(pkg_resources.resource_filename("runestone", "dist/webpack_static_imports.json"), "r", encoding="utf-8") as f:
+        wb_imports = json.load(f)
+        script_files = wb_imports["js"]
+        _css_files = css_files + wb_imports["css"]
+
+    for jsfile in script_files:
         try:
-            app.add_autoversioned_javascript(f)
+            app.add_autoversioned_javascript(jsfile)
         except ExtensionError:
-            app.add_js_file(f)
-    for f in css_files:
+            app.add_js_file(jsfile)
+    for cssfile in _css_files:
         try:
-            app.add_autoversioned_stylesheet(f)
+            app.add_autoversioned_stylesheet(cssfile)
         except ExtensionError:
-            app.add_css_file(f)
+            app.add_css_file(cssfile)
+
+    app.config.html_static_path.append("dist/")
+
     for c in custom_css_files:
-        app.add_stylesheet(c)
+        app.add_css_file(c)
     for c in custom_js_files:
-        app.add_javascript(c)
+        app.add_js_file(c)
