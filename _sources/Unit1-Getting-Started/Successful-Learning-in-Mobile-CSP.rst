@@ -143,21 +143,13 @@ Professional Development Reflection
     <p>
     <p>This lesson sets the tone for the students in the course and in the classroom environment, but it is something that needs to be reinforced by the teacher on a regular basis. One example of this includes the feedback students receive from the quiz questions at the end of each lesson on the student side. These have been adapted from a variety of materials related to growth mindset (see list under Background Knowledge). Discuss with other teachers in your professional development program how you could continue to cultivate a growth mindset in your students throughout the year, either through the additional activities and resources mentioned above or other ways that might be more appropriate for your situation?</p>
     
-.. mchoice:: mcsp-1-6-1
-    :random:
-    :practice: T
-    :answer_a: Strongly Agree
-    :feedback_a: 
-    :answer_b: Agree
-    :feedback_b: 
-    :answer_c: Neutral
-    :feedback_c: 
-    :answer_d: Disagree
-    :feedback_d: 
-    :answer_e: Strongly Disagree
-    :feedback_e: 
-    :correct: a,b,c,d,e
-
+.. poll:: mcsp-1-6-1
+    :option_1: Strongly Agree
+    :option_2: Agree
+    :option_3: Neutral
+    :option_4: Disagree
+    :option_5: Strongly Disagree
+  
     I am confident I can teach this lesson to my students.
 
 

@@ -97,21 +97,13 @@ Professional Development Reflection
     <li>Review the Explore Project Rubric, paying attention to the content areas (rows) and the descriptors for each performance quality (columns). What areas are you comfortable assessing? What areas do you have questions about?</li>
     </ul>
     
-.. mchoice:: mcsp-6-12-1
-    :random:
-    :practice: T
-    :answer_a: Very successful
-    :feedback_a: 
-    :answer_b: Successful
-    :feedback_b: 
-    :answer_c: Ok
-    :feedback_c: 
-    :answer_d: Problematic 
-    :feedback_d: 
-    :answer_e: Very problematic
-    :feedback_e: 
-    :correct: a,b,c,d,e
-
+.. poll:: mcsp-6-12-1
+    :option_1: Very successful
+    :option_2: Successful
+    :option_3: Ok
+    :option_4: Problematic 
+    :option_5: Very problematic
+  
     In terms of my ability to teach this lesson and the students' apparent engagement and level of comprehension, I feel that this lesson was:
 
 

@@ -230,21 +230,13 @@ Professional Development Reflection
     <!-- These are the PD exit slips.  We should have corresponding exit slips for use after the classroom lesson. -->
     <p>
     
-.. mchoice:: mcsp-2-9-1
-    :random:
-    :practice: T
-    :answer_a: Strongly Agree
-    :feedback_a: 
-    :answer_b: Agree
-    :feedback_b: 
-    :answer_c: Neutral
-    :feedback_c: 
-    :answer_d: Agree
-    :feedback_d: 
-    :answer_e: Disagree
-    :feedback_e: 
-    :correct: a,b,c,d,e
-
+.. poll:: mcsp-2-9-1
+    :option_1: Strongly Agree
+    :option_2: Agree
+    :option_3: Neutral
+    :option_4: Agree
+    :option_5: Disagree
+  
     I am confident I can teach this lesson to my students.
 
 

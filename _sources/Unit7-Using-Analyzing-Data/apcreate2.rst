@@ -7,14 +7,6 @@ Create: Programming Performance Task #2 - INSTRUCTOR MATERIALS
 
 .. raw:: html
 
-	<!-- Copy these lines to the top of the lesson's HTML code.  -->
-	<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-	<script type="text/javascript" src="assets/lib/lessons/tipped.js"></script>
-	<script type="text/javascript" src="assets/lib/lessons/Framework2020.js"></script>
-	<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
-	<link rel="stylesheet" type="text/css" href="assets/lib/lessons/tipped.css">
-	<link rel="stylesheet" type="text/css" href="assets/lib/lessons/lessons.css">
-	<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 	<script>
 	 $(function() {
 	   $( "#accordion" ).accordion({
@@ -199,7 +191,7 @@ Create: Programming Performance Task #2 - INSTRUCTOR MATERIALS
 	</ul>
 	
 Learning Activities
-=================================================================
+-------------------------------------
 
 .. raw:: html
 
@@ -299,7 +291,7 @@ Learning Activities
 	<div class="pd yui-wk-div">
 
 Professional Development Reflection
-=================================================================
+-------------------------------------
 
 .. raw:: html
 
@@ -308,148 +300,25 @@ Professional Development Reflection
 	   <li>What questions do you have about how to implement the performance task in class? Do you need any clarification on the role of teachers for this performance task? (See College Board's Course and Exam Description, pg. 82-83 for role of teachers in the CREATE Performance Task.)</li>
 	   <li>Review the <a href="https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-2021-create-performance-task-scoring-guidelines.pdf" target="_blank" title="">CREATE - Programming Performance Task Scoring Guidelines </a>, paying attention to the content areas (rows) and the descriptors for each performance quality (columns). What areas are you comfortable assessing? What areas do you have questions about?</li>
 	 </ul>
-	 <question quid="6215215582543872" weight="0" instanceid="FpdBnV1dTATy"></question>
-	 <question quid="5669044724170752" weight="0" instanceid="DoUYOuvnTJE6"></question>
-	 <question quid="6301546908221440" weight="0" instanceid="BZESQmmssquP"></question>
-	 <br>
+	
 	</div>
 	    
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	<!--   Old Version
-	
-1. Complete Student Activities
-=================================================================
 
-.. raw:: html
+.. shortanswer:: mcsp-7-10-1
 
-	<p>Complete the activities for <a href="https://ram8647.appspot.com/mobileCSP/assessment?name=118" target="_blank">Create: Programming Performance Task #2</a>.</p>
-	<p>Students will be completing and submitting their projects through their portfolio sites. If you want them to submit and share with others in the country to receive feedback, they can submit the URL of their project in the Mobile CSP online course. Once they submit their project, they will have access to the peer review dashboard where they will be automatically assigned two other student projects to review.</p>
-	
-2. Review the Lesson Plan
-=================================================================
+    This lesson was given the following total minutes of class time in my course. (For example, I used two 40 minute class periods on this lesson for a total of 80 minutes.)
+    
+.. poll:: mcsp-7-10-2
+   :option_1:  Very successful
+   :option_2:  Successful
+   :option_3:  Ok
+   :option_4:	Problematic
+   :option_5: 	Very problematic
 
-.. raw:: html
+   In terms of my ability to teach this lesson and the students' apparent engagement and level of comprehension, I feel that this lesson was:
 
-	<h3>Content Standards (CS)</h3>
-	<table>
-	  <tbody><tr>
-	      <th width="33%">Enduring Understandings</th>
-	      <th>Learning Objectives<br>(What students must be able to do)</th>
-	  </tr>
-	  <tr>
-	      <td>1.1 Creative development can be an essential process for creating computational artifacts.</td>
-	      <td>1.1.1 Apply a creative development process when creating computational artifacts. [P2]</td>
-	   </tr>
-	  <tr>
-	      <td>1.2 Computing enables people to use creative development processes when using computing tools and techniques to create computational artifacts for creative expression of ideas or to solve a problem.</td>
-	      <td>1.2.1 Create a computational artifact for creative expression. [P2]
-	      <br>1.2.2 Create a computational artifact using computing tools and techniques to solve a problem. [P2]
-	      <br>1.2.3 Create a new computational artifact by combining or modifying existing artifacts. [P2]
-	      <br>1.2.4 Collaborate in the creation of computational artifacts. [P6]
-	      <br>1.2.5 Analyze the correctness, usability, functionality, and suitability of computational artifacts. [P4]</td>
-	   </tr>
-	  <tr>
-	      <td>2.2 Multiple levels of abstraction are used to write programs or to create other computational artifacts.</td>
-	      <td>2.2.1 Develop an abstraction when writing a program or creating other computational artifacts. [P2]
-	      <br>2.2.2 Use multiple levels of abstraction to write programs. [P3]</td>
-	   </tr>
-	  <tr>
-	      <td>4.1 Algorithms are precise sequences of instructions for processes that can be executed by a computer and are implemented using programming languages.</td>
-	      <td>4.1.1 Develop an algorithm for implementation in a program. [P2]
-	      <br>4.1.2 Express an algorithm in a language. [P5]
-	      </td>
-	   </tr>
-	  <tr>
-	      <td>5.1 Programs can be developed to solve problems (to help people, organizations or society); for creative expression; to satisfy personal curiosity or to create new knowledge.</td>
-	      <td>5.1.1 Develop a program for creative expression, to satisfy personal curiosity, or to create new knowledge. [P2]
-	      <br>5.1.2 Develop a correct program to solve problems. [P2]
-	      <br>5.1.3 Collaborate to develop a program. [P6]
-	      </td>
-	   </tr>
-	  <tr>
-	      <td>5.2 People write programs to execute algorithms.</td>
-	      <td>5.2.1 Explain how programs implement algorithms. [P3]
-	      </td>
-	   </tr>
-	  <tr>
-	      <td>5.3 Programming is facilitated by appropriate abstractions.</td>
-	      <td>5.3.1 Use abstraction to manage complexity in programs. [P3]
-	      </td>
-	   </tr>
-	  <tr>
-	      <td>5.4 Programs are developed, maintained, and used by people for different purposes.</td>
-	      <td>5.4.1 Evaluate the correctness of a program. [P4]
-	      </td>
-	   </tr>
-	  <tr>
-	      <td>5.5 Programming uses mathematical and logical concepts.</td>
-	      <td>5.5.1 Employ appropriate mathematical and logical concepts in programming. [P1]
-	      </td>
-	   </tr>
-	</tbody></table>
-	
-	<h3>Student Objectives (Knowledge and Skills)</h3> 
-	<p></p>
-	<ul>
-	  <li>Develop a mobile app from scratch in collaboration with a partner</li>
-	  <li>Design, implement, and debug a mobile app</li>
-	  <li>Create a portfolio write-up and an oral presentation about their project</li></ul>
-	<h4><br></h4><ul>
-	</ul>
-	
-	<h4>Experiences and Explorations</h4>
-	<ul>
-	  <li><b>Organization (5 minutes):</b> Split the students into pairs. You may decide to choose their partner for them or let them pick their own partner. (Note that you should only allow one group of 3 for odd numbers of students, according to College Board.)</li>
-	  <li><b>Explanation (15 minutes):</b> Explain the creative project 3 assignment. Students should follow the assignment process for creative project 2.</li>
-	  <li><b>Review (5 minutes):</b> Give students an opportunity to review the requirements for the task from the College Board. Have them read through the requirements and discuss the task with their partner. Encourage them to carefully review the prompts as well as the scoring rubric.  </li>
-	  <li><b>Brainstorming (30 minutes):</b> Each pair works collaboratively on brainstorming a project idea. 
-	      <br>Each pair should develop drawing(s) of the User Interface, as well as, create a rough storyboard of how their app will function. Here is a wireframe template that can be used. When students are finished, they should meet with the instructor to discuss their idea. If necessary, the pair should make any changes that are needed. When brainstorming is completed, each pair should begin preparing for their elevator pitch by completing the following template: 
-	      <br><i>[name of app] is a [kind of thing it is] for [the people who would use it] that, unlike [similar apps] is able to [the major distinguishing feature of your app]. 
-	  </i></li>
-	  <li><b>Elevator Pitches (30 minutes):</b> Each pair gives an elevator pitch on their project idea using the elevator pitch template. Students may also wish to share the design of their User Interface and explain some of the significant features that the app will have.
-	      <br>Provide an opportunity for students to give feedback to each group, addressing these questions: Is the app presented socially useful why or why not? What is a strength of the proposed app? What suggestions do you have to improve the app? </li>
-	  <li><b>Hands on (~10 hours):</b> Students should work collaboratively to develop, test, and debug their app. Students should follow the User Interface drawings and storyboard that they designed. Students may work on just one computer together and take turns using the mouse or they may work on creating the app in each of their accounts. All work should be saved frequently using the checkpoint button in App Inventor.</li>
-	</ul>
-	
-	<h4>Rethink, Reflect and/or Revise</h4>
-	<ul>
-	   <li><b>Write Up (60-90 minutes):</b> Each student should create a new portfolio page that explains their project. Each pair should have more or less the same content on their individual pages. See How To: Create A Portfolio Write Up.</li>
-	   <li><b>Presentations (varies, 1-2 class periods):</b> Each pair should give a 5-10 minute oral presentation. Their presentation should include a walkthrough of their portfolio page, as well as, include a live demo of their working app.</li>
-	</ul>
-	
-	<h3>Considerations</h3>
-	<p></p>
-	<ul>
-	  <li>At Trinity this project was a two-week out-of-class project that was assigned at the end of week 11 of a 13 week course. During the accelerated teachers professional development course, the assignment was given at the end of the 5th of 6 weeks of the course and teachers were given approximately 9 hours of classroom time to work on their projects. Teachers were able to complete the project, the portfolio, and the presentation within 8 hours, although some may have done additional work at home.</li>
-	  <li>This project should be used after Unit 7 material and is intended to replicate the performance task students will have to complete for the AP Exam in 2016-17.</li>
-	</ul>
-	
-	
-	
-	
-3. After Teaching This Lesson
-=================================================================
 
-.. raw:: html
+.. shortanswer:: mcsp-7-10-3
 
-	<p>Please provide answers to the following prompts:<br><br>
-	<question quid="6215215582543872" weight="0" instanceid="FpdBnV1dTATy">
-	</question>
-	<question quid="5669044724170752" weight="0" instanceid="DoUYOuvnTJE6">
-	</question>
-	<question quid="6301546908221440" weight="0" instanceid="BZESQmmssquP">
-	</question>
-	</p>
-	
-	-->
+	Please elaborate on whether there was enough time for the lesson, how you approached the lesson, whether you assigned homework, what was problematic (if anything), and anything else you want to share about this lesson.
+    

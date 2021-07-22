@@ -25,7 +25,8 @@ Artificial Intelligence and Machine Learning
     </div>
     <h3>Materials</h3>
     <ul>
-    <li>Computer lab with projection system</li><li><a href="https://youtu.be/DG5-UyRBQD4" target="_blank" title="">What is Machine Learning video</a><br/></li>
+    <li>Computer lab with projection system</li>
+    <li> <a href="https://www.youtube.com/watch?v=QghjaS0WQQU&ab_channel=GCFLearnFree.org" target="_blank">Video</a> (2 minutes) on Machine Learning.</li>
     </ul>
     
 
@@ -35,17 +36,20 @@ Learning Activities
 .. raw:: html
 
     <p>
-    <h3 id="est-length">Estimated Length: 45 minutes</h3>
+    <h3 id="est-length">Estimated Length: 70-90 minutes</h3>
     <ul>
     <li><b>Hook/Motivation (5 minutes):</b> Have students try <a href="https://quickdraw.withgoogle.com/" target="_blank">Google Quick Draw</a> which uses machine learning to recognize doodles. Ask students how do you think it learns to recognize them? After 5 guesses, quick draw will show you the summary where you can click on each doodle and it will show you the closest matches. </li>
-    <li><b>Experiences and Explorations (30 minutes):</b>
+    <li><b>Experiences and Explorations (60-80 minutes):</b>
     <ul>
-    <li><b>Video Presentation (10 minutes):</b> Show the <a href="https://youtu.be/DG5-UyRBQD4" target="_blank">What is Machine Learning video</a> embedded in the course page and discuss.
+    <li><b>Video Presentation (10 minutes):</b> Show the  <a href="https://www.youtube.com/watch?v=QghjaS0WQQU&ab_channel=GCFLearnFree.org" target="_blank">video</a> (2 minutes) on Machine Learning embedded in the course page and discuss.
            
        </li>
-    <li><b>Activity (10 minutes):</b> Have the students explore the <a href="https://teachablemachine.withgoogle.com/" target="_blank">Teachable Machine</a> activity embedded in the course. Have them work in pairs to do the suggested experiments. 
+    <li><b>Teachable Machine Activity (20 minutes):</b> Have the students explore the <a href="https://teachablemachine.withgoogle.com/" target="_blank">Teachable Machine</a> activity embedded in the course. Have them work in pairs to do the suggested experiments. 
     </li>
-    <li><b>Activity (10 minutes):</b> Discuss the Negative Impacts of AI embedded on the course page and have students do the Bias in Machine Translation activity.</li>
+    <li> <b>Video Presentation (20 minutes):</b> Show the following <a href="https://www.youtube.com/watch?v=gV0_raKR2UQ&ab_channel=CrashCourse" 
+    target="_blank">video (12 mins)</a> about algorithmic bias and discuss.
+    </li>
+    <li><b>Algorithmic Bias POGIL Activity (20 minutes):</b> <a href="https://docs.google.com/document/d/1c1EeKdVzbUGiBGNa8GE3zamEd9-rBIpDyvQMJB4rXsM/edit?usp=sharing" target="_blank">Worksheet to complete this POGIL Activity</a>. </li>
     </ul>
     </li>
     <li><b>Rethink, Reflect and/or Revise (5 minutes):</b> Discuss the self-check vocabulary, exercises, and reflection questions.</li>
@@ -96,21 +100,13 @@ Professional Development Reflection
     </ul>
     <!-- These are the PD exit slips.  We should have corresponding exit slips for use after the classroom lesson. -->
     
-.. mchoice:: mcsp-7-7-1
-    :random:
-    :practice: T
-    :answer_a: Strongly Agree
-    :feedback_a: 
-    :answer_b: Agree
-    :feedback_b: 
-    :answer_c: Neutral
-    :feedback_c: 
-    :answer_d: Disagree
-    :feedback_d: 
-    :answer_e: Strongly Disagree
-    :feedback_e: 
-    :correct: a,b,c,d,e
-
+.. poll:: mcsp-7-7-1
+    :option_1: Strongly Agree
+    :option_2: Agree
+    :option_3: Neutral
+    :option_4: Disagree
+    :option_5: Strongly Disagree
+  
     I am confident I can teach this lesson to my students.
 
 

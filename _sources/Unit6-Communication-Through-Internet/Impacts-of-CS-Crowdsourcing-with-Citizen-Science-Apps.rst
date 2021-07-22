@@ -79,21 +79,13 @@ Professional Development Reflection
     <li>How does this lesson help prepare students for the scenario-based questions about computing innovations in the exam?</li>
     </ul>
     
-.. mchoice:: mcsp-6-10-1
-    :random:
-    :practice: T
-    :answer_a: Strongly Agree
-    :feedback_a: 
-    :answer_b: Agree
-    :feedback_b: 
-    :answer_c: Neutral
-    :feedback_c: 
-    :answer_d: Disagree
-    :feedback_d: 
-    :answer_e: Strongly Disagree
-    :feedback_e: 
-    :correct: a,b,c,d,e
-
+.. poll:: mcsp-6-10-1
+    :option_1: Strongly Agree
+    :option_2: Agree
+    :option_3: Neutral
+    :option_4: Disagree
+    :option_5: Strongly Disagree
+  
     I am confident I can teach this lesson to my students.
 
 

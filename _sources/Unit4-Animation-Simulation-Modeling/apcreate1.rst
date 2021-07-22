@@ -7,14 +7,6 @@ Create: Programming Performance Task #1 - INSTRUCTOR MATERIALS
 
 .. raw:: html
 
-	<!-- Copy these lines to the top of the lesson's HTML code.  -->
-	<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-	<script type="text/javascript" src="assets/lib/lessons/tipped.js"></script>
-	<script type="text/javascript" src="assets/lib/Framework2020.js"></script>
-	<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
-	<link rel="stylesheet" type="text/css" href="assets/lib/lessons/tipped.css">
-	<link rel="stylesheet" type="text/css" href="assets/lib/lessons/lessons.css">
-	<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 	<script>
 	$(document).ready(function() {
 	     generateFrameworkTable(EKmapping['Create']);
@@ -262,7 +254,7 @@ Create: Programming Performance Task #1 - INSTRUCTOR MATERIALS
 	</ul>
 	
 Learning Activities
-=======================================================
+-----------------------
 
 .. raw:: html
 
@@ -340,7 +332,7 @@ Learning Activities
 	<div class="pd yui-wk-div">
 
 Professional Development Reflection
-=======================================================
+-------------------------------------
 
 .. raw:: html
 
@@ -353,16 +345,18 @@ Professional Development Reflection
 
 .. shortanswer:: mcsp-4-14-1
 
-    This lesson was given _________ total minutes of class time in my course. (For example, I used two 40 minute class periods on this lesson for a total of 80 minutes.)
-    
-.. poll:: mcsp-4-14-2
-    :option_1:  Very successful
-    :option_2:  Successful
-    :option_3:  Ok
-    :option_4:	Problematic
-    :option_5: 	Very problematic
+    This lesson was given the following total minutes of class time in my course. (For example, I used two 40 minute class periods on this lesson for a total of 80 minutes.)
 
+
+.. poll:: mcsp-4-14-2
+   :option_1:  Very successful
+   :option_2:  Successful
+   :option_3:  Ok
+   :option_4:	Problematic
+   :option_5: 	Very problematic
+
+   In terms of my ability to teach this lesson and the students' apparent engagement and level of comprehension, I feel that this lesson was:
+    
 .. shortanswer:: mcsp-4-14-3
 
 	Please elaborate on whether there was enough time for the lesson, how you approached the lesson, whether you assigned homework, what was problematic (if anything), and anything else you want to share about this lesson.
-    
