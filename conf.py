@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 #
-# Problem Solving with Algorithms and Data Structures documentation build configuration file, created by
-# sphinx-quickstart on Thu Oct 27 08:17:45 2011.
 #
 # This file is execfile()d with the current directory set to its containing dir.
 #
@@ -11,7 +9,9 @@
 # All configuration values have a default; values that are commented out
 # serve to show the default.
 
-import sys, os
+import json
+import sys
+import os
 from sphinx.errors import ExtensionError
 
 
@@ -20,9 +20,9 @@ from sphinx.errors import ExtensionError
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #sys.path.insert(0, os.path.abspath('../modules'))
 
-# Changed 5/24/2020: 
-from runestone import runestone_static_dirs, runestone_extensions, css_files
-#from runestone import runestone_static_dirs, runestone_extensions, setup
+# Changed 2021
+#from runestone import runestone_static_dirs, runestone_extensions, css_files
+from runestone import runestone_static_dirs, runestone_extensions, setup
 import pkg_resources
 
 # -- General configuration -----------------------------------------------------
@@ -76,7 +76,7 @@ release = 'beta'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = [ ]
+exclude_patterns = []
 
 # The reST default role (used for this markup: `text`) to use for all documents.
 #default_role = None
@@ -102,8 +102,8 @@ pygments_style = 'sphinx'
 # A string of reStructuredText that will be included at the beginning of every
 # source file that is read.
 rst_prolog = (
-# For fill-in-the-blank questions, provide a convenient means to indicate a blank.
-"""
+    # For fill-in-the-blank questions, provide a convenient means to indicate a blank.
+    """
 .. |blank| replace:: :blank:`x`
 """
 )
@@ -164,14 +164,15 @@ html_theme_options = {
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = ["_templates/plugin_layouts"]
 # new 7/2019 path
-html_theme_path = [pkg_resources.resource_filename('runestone', 'common/project_template/_templates/plugin_layouts')]
+html_theme_path = [pkg_resources.resource_filename(
+    'runestone', 'common/project_template/_templates/plugin_layouts')]
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
 html_title = 'Teach Mobile CSP'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title ='Teach Mobile CSP'
+html_short_title = 'Teach Mobile CSP'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -190,8 +191,8 @@ html_short_title ='Teach Mobile CSP'
 # so a file named "default.css" will overwrite the builtin "default.css".
 
 # Including my static images and css files
-html_static_path =  runestone_static_dirs() + ['_static']
-# 
+html_static_path = runestone_static_dirs() + ['_static']
+#
 #html_static_path = runestone_static_dirs()
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
@@ -238,40 +239,9 @@ html_show_copyright = True
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'PythonCoursewareProjectdoc'
 
-import json
 
 # custom  files in _static
-custom_css_files = [ 'assets/lib/lessons/tipped.css', 'assets/lib/lessons/lessons.css', 'assets/lib/lessons/apmlblockStyles.css','css/custom.css' ]
-custom_js_files = ['assets/lib/lessons/tipped.js', 'assets/lib/lessons/Framework2020.js','assets/lib/lessons/vocabulary.js']
-
-def setup(app):
-    """
-    A normal Runestone project will import this function into its conf.py
-    This setup will run after all of the extensions, so it is a good place
-    for us to include our common javascript and css files.
-    This could be expanded if there is additional initialization or customization
-    we wanted to do for all projects.
-    """
-    # Include JS and CSS produced by webpack. See `webpack static imports <webpack_static_imports>`_.
-    with open(pkg_resources.resource_filename("runestone", "dist/webpack_static_imports.json"), "r", encoding="utf-8") as f:
-        wb_imports = json.load(f)
-        script_files = wb_imports["js"]
-        _css_files = css_files + wb_imports["css"]
-
-    for jsfile in script_files:
-        try:
-            app.add_autoversioned_javascript(jsfile)
-        except ExtensionError:
-            app.add_js_file(jsfile)
-    for cssfile in _css_files:
-        try:
-            app.add_autoversioned_stylesheet(cssfile)
-        except ExtensionError:
-            app.add_css_file(cssfile)
-
-    app.config.html_static_path.append("dist/")
-
-    for c in custom_css_files:
-        app.add_css_file(c)
-    for c in custom_js_files:
-        app.add_js_file(c)
+setup.custom_css_files = ['assets/lib/lessons/tipped.css', 'assets/lib/lessons/lessons.css',
+                          'assets/lib/lessons/apmlblockStyles.css', 'css/custom.css']
+setup.custom_js_files = ['assets/lib/lessons/tipped.js',
+                         'assets/lib/lessons/Framework2020.js', 'assets/lib/lessons/vocabulary.js']
