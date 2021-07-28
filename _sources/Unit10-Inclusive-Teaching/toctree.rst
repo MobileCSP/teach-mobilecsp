@@ -11,3 +11,4 @@ Inclusive & Effective CS Teaching
 
 
 	Inclusive-CS-Teaching.rst
+	resources.rst
