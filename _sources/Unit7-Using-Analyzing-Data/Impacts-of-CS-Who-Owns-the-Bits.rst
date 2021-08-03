@@ -15,11 +15,11 @@ Impacts of CS Who Owns the Bits
       }); 
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=26&amp;lesson=81" target="_blank" title="">This lesson</a> ... </p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Impacts-of-CS-Who-Owns-the-Bits.html" target="_blank" title="">This lesson</a> ... </p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=26&amp;lesson=81" target="_blank" title="">Unit 7: Lesson 7.8 Who Owns the Bits?</a>. 
+    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Impacts-of-CS-Who-Owns-the-Bits.html" target="_blank" title="">Unit 7: Lesson 7.8 Who Owns the Bits?</a>. 
     </p>
     </div>
     

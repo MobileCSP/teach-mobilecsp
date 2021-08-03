@@ -15,7 +15,7 @@ Representing Images
       });
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=34" target="_blank" title="">This lesson</a> reinforces two important enduring understandings. 
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Representing-Images.html" target="_blank" title="">This lesson</a> reinforces two important enduring understandings. 
     First, a variety of abstractions built upon binary sequences can be used 
     to represent all digital data.
     In this lesson, students see how digital sequences can be used to represent images.   
@@ -26,7 +26,7 @@ Representing Images
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p>Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=34" target="_blank" title="">Unit 3 Lesson 3.3: Representing Images</a>. 
+    <p>Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Representing-Images.html" target="_blank" title="">Unit 3 Lesson 3.3: Representing Images</a>. 
     </p></div>
     <h3>Materials</h3>
     <ul>

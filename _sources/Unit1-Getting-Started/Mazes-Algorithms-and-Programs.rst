@@ -15,12 +15,12 @@ Mazes Algorithms and Programs
       }); 
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=19&amp;lesson=69" target="_blank">This lesson</a> provides an introduction to blocks-based programming and basic algorithm and programming terminology. Students are instructed to complete a sample Blockly activity in which they create small programs (scripts), using blocks, to solve mazes. The students are directed to the Angry Birds maze activity. After the instructor demonstrates the program, students may work alone or in pairs. <i>Note: This is the first lesson using the lesson plan format for Mobile CSP. Most of Unit 1 are set up activities and background information for teachers. This lesson plan format will be used more extensively in Units 2-7.</i>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit1-Getting-Started/Mazes-Algorithms-and-Programs.html" target="_blank">This lesson</a> provides an introduction to blocks-based programming and basic algorithm and programming terminology. Students are instructed to complete a sample Blockly activity in which they create small programs (scripts), using blocks, to solve mazes. The students are directed to the Angry Birds maze activity. After the instructor demonstrates the program, students may work alone or in pairs. <i>Note: This is the first lesson using the lesson plan format for Mobile CSP. Most of Unit 1 are set up activities and background information for teachers. This lesson plan format will be used more extensively in Units 2-7.</i>
     </p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=19&amp;lesson=69" target="_blank" title="">Unit 1 Lesson 1.2: Mazes, Algorithms, and Programs</a>. 
+    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit1-Getting-Started/Mazes-Algorithms-and-Programs.html" target="_blank" title="">Unit 1 Lesson 1.2: Mazes, Algorithms, and Programs</a>. 
     </p>
     </div>
     <h3>Materials</h3>

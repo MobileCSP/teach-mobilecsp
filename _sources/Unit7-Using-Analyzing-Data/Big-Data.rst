@@ -15,12 +15,12 @@ Big Data
       }); 
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=26&amp;lesson=87" target="_blank" title="">This lesson</a> includes a series of videos that lay the groundwork for the unit's exploration of data and information. Specifically, it reviews the history of data storage, data sizes, processing large data sets, and the use of data to support innovation in other fields. Students should develop an understanding of how computing enables discovery of connections in information.</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Big-Data.html" target="_blank" title="">This lesson</a> includes a series of videos that lay the groundwork for the unit's exploration of data and information. Specifically, it reviews the history of data storage, data sizes, processing large data sets, and the use of data to support innovation in other fields. Students should develop an understanding of how computing enables discovery of connections in information.</p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson:</b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=26&amp;lesson=87" target="_blank" title="">Mobile CSP Unit 7: Lesson 7.2 Big Data</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Big-Data.html" target="_blank" title="">Mobile CSP Unit 7: Lesson 7.2 Big Data</a>.
       </p>
     </div>
     <h3>Materials</h3>

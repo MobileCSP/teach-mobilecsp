@@ -17,13 +17,13 @@ Map Tour Tutorial
     </script>
     <!-- This is the overview paragraph.  The link URL should be to the corresponding lesson on the student branch. -->
     <p class="overview">
-    <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=101" target="_blank" title="">This lesson</a> introduces Lists as a data abstraction using the new Map component in App Inventor to build a  tour of destinations. </p>
+    <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Map-Tour-Tutorial.html" target="_blank" title="">This lesson</a> introduces Lists as a data abstraction using the new Map component in App Inventor to build a  tour of destinations. </p>
     <!-- This is the framework table, where we describe how this lesson fits into the CSP framework.  -->
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson:</b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=101" target="_blank" title="">Mobile CSP Unit 3, Lesson 3.8: Map Tour Tutorial</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Map-Tour-Tutorial.html" target="_blank" title="">Mobile CSP Unit 3, Lesson 3.8: Map Tour Tutorial</a>.
       </p>
     </div>
     <h3>Materials</h3>
@@ -81,7 +81,7 @@ Learning Activities
     </div>
     <h3 class="diff-practice">Differentiation: More Practice</h3>
     <div class="yui-wk-div">
-    <p>Students can read more about the <a href="http://ai2.appinventor.mit.edu/reference/components/connectivity.html#ActivityStarter" target="_blank">ActivityStarter</a> and the <a href="http://ai2.appinventor.mit.edu/reference/components/userinterface.html#ListPicker" target="_blank">ListPicker</a> in the App Inventor documentation.<br/>Are your students needing more practice with Lists? Have them try the <a href="https://course.mobilecsp.org/teach_mobilecsp/unit?unit=168&amp;lesson=75" target="_blank" title="">Magic 8-Ball app</a>.</p>
+    <p>Students can read more about the <a href="http://ai2.appinventor.mit.edu/reference/components/connectivity.html#ActivityStarter" target="_blank">ActivityStarter</a> and the <a href="http://ai2.appinventor.mit.edu/reference/components/userinterface.html#ListPicker" target="_blank">ListPicker</a> in the App Inventor documentation.<br/>Are your students needing more practice with Lists? Have them try the <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit9-Beyond-AP/Magic-8-Tutorial.html" target="_blank" title="">Magic 8-Ball app</a>.</p>
     </div>
     <h3 class="diff-enrich">Differentiation: Enrichment</h3>
     <div class="yui-wk-div">

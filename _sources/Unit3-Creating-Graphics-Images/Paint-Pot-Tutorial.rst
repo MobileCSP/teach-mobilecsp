@@ -15,14 +15,14 @@ Paint Pot Tutorial
       });
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=150" target="_blank" title="">This lesson</a>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Paint-Pot-Tutorial.html" target="_blank" title="">This lesson</a>
     engages the student in an instructor-led App Inventor tutorial that leads to the creation of a simple "finger painting" app. 
     It reinforces the enduring understanding that programs are developed by people for different purposes, including creative expression. This app introduces App Inventor's Canvas component as well as variables.  Developing this app will extend the student's understanding of the App Inventor development platform and deepen their understanding of the event-driven programming model. 
     
     </p><table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=150" target="_blank" title="">Mobile CSP Unit 3, Lesson 3.2: Paint Pot Tutorial</a>.</p>
+    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Paint-Pot-Tutorial.html" target="_blank" title="">Mobile CSP Unit 3, Lesson 3.2: Paint Pot Tutorial</a>.</p>
     </div>
     <h3>Materials</h3>
     <ul>

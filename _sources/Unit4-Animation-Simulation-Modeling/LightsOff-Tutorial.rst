@@ -15,14 +15,14 @@ LightsOff Tutorial
       });
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=23&amp;lesson=53" target="_blank" title="">This lesson</a> creates an App
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/LightsOff-Tutorial.html" target="_blank" title="">This lesson</a> creates an App
       Inventor version of the classic Whack-a-Mole game. The student will follow an instructor-led tutorial that will introduce the concepts of <i>animation</i>, <i>timing</i>, and <i>randomness</i>. The student will also see again the concept of a <i>programmer-defined procedure</i>, an important abstraction. This lesson reinforces the enduring understanding that procedures are useful abstractions that are used by programmers to structure and simplify programs. 
       
       
     </p><table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=23&amp;lesson=53" target="_blank" title="">Mobile CSP Unit 4, Lesson 4.2:LightsOff Tutorial</a>.
+    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/LightsOff-Tutorial.html" target="_blank" title="">Mobile CSP Unit 4, Lesson 4.2:LightsOff Tutorial</a>.
       </p>
     </div>
     <h3>Materials</h3>

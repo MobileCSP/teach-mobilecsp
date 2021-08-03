@@ -15,12 +15,12 @@ Real World Models
       });
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=23&amp;lesson=67" target="_blank" title="">This lesson</a> wraps up our study of modeling and simulation by focusing on large scale real-world models.  It reenforces the enduring understanding that models and simulations are abstractions that enable us to acquire new knowledge about the world. </p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/Real-World-Models.html" target="_blank" title="">This lesson</a> wraps up our study of modeling and simulation by focusing on large scale real-world models.  It reenforces the enduring understanding that models and simulations are abstractions that enable us to acquire new knowledge about the world. </p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson: </b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=23&amp;lesson=67" target="_blank" title="">Unit 4 Lesson 4.8 Real World Models</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/Real-World-Models.html" target="_blank" title="">Unit 4 Lesson 4.8 Real World Models</a>.
       </p>
     </div>
     <h3>Materials</h3>

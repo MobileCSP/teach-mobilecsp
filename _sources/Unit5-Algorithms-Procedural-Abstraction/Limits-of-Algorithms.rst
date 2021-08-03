@@ -15,11 +15,11 @@ Limits of Algorithms
       });
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=24&amp;lesson=162" target="_blank" title="">This lesson</a> focuses on the limits of computing - are there problems that computers cannot solve? Are there problems that they cannot solve in a reasonable time? Students explore these concepts through short lectures and POGIL activities that look at classic problems, such as the traveling salesman problem.</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit5-Algorithms-Procedural-Abstraction/Limits-of-Algorithms.html" target="_blank" title="">This lesson</a> focuses on the limits of computing - are there problems that computers cannot solve? Are there problems that they cannot solve in a reasonable time? Students explore these concepts through short lectures and POGIL activities that look at classic problems, such as the traveling salesman problem.</p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=24&amp;lesson=162" target="_blank" title="">Mobile CSP Unit 5: Lesson 5.8 Limits of Algorithms</a>.
+    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit5-Algorithms-Procedural-Abstraction/Limits-of-Algorithms.html" target="_blank" title="">Mobile CSP Unit 5: Lesson 5.8 Limits of Algorithms</a>.
       </p>
     </div>
     <h3>Materials</h3>

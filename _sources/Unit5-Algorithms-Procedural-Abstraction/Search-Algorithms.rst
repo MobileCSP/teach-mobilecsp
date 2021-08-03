@@ -15,11 +15,11 @@ Search Algorithms
       });
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=24&amp;lesson=161" target="_blank" title="">This lesson</a> introduces one common group of algorithms: searches. Through a number guessing game, students explore the efficiency of binary and sequential search algorithms as well as write the pseudocode for binary search.</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit5-Algorithms-Procedural-Abstraction/Search-Algorithms.html" target="_blank" title="">This lesson</a> introduces one common group of algorithms: searches. Through a number guessing game, students explore the efficiency of binary and sequential search algorithms as well as write the pseudocode for binary search.</p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=24&amp;lesson=161" target="_blank" title="">Unit 5 Lesson 5.3: Search Algorithms</a>.
+    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit5-Algorithms-Procedural-Abstraction/Search-Algorithms.html" target="_blank" title="">Unit 5 Lesson 5.3: Search Algorithms</a>.
       </p>
     </div>
     <h3>Materials</h3>

@@ -15,14 +15,14 @@ Network Architecture
       }); 
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=25&amp;lesson=102" target="_blank" title="">This lesson</a> 
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit6-Communication-Through-Internet/Network-Architecture.html" target="_blank" title="">This lesson</a> 
       dives deeper into how the Internet works, exploring the addressing system used to send data. Students watch 
       a series of lectures and use several networking tools, such as <i>ping</i> and <i>traceroute</i> to observe 
       the workings  of the Internet. </p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=25&amp;lesson=102" target="_blank" title="">Mobile CSP Unit 6: Lesson 6.3 Network Architecture</a>.
+    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit6-Communication-Through-Internet/Network-Architecture.html" target="_blank" title="">Mobile CSP Unit 6: Lesson 6.3 Network Architecture</a>.
       </p>
     </div>
     <h3>Materials</h3>

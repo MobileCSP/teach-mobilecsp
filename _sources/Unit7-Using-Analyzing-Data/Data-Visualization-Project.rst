@@ -15,12 +15,12 @@ Data Visualization Project
       });
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=26&amp;lesson=165" target="_blank" title="">This lesson</a> reinforces the data skills learned in the previous lesson by having students work in pairs to explore a data set of their own choosing. Students are required to develop hypotheses about their data and then test them by using Google Spreadsheets and Google My Maps to create visualizations.</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Data-Visualization-Project.html" target="_blank" title="">This lesson</a> reinforces the data skills learned in the previous lesson by having students work in pairs to explore a data set of their own choosing. Students are required to develop hypotheses about their data and then test them by using Google Spreadsheets and Google My Maps to create visualizations.</p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson:</b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=26&amp;lesson=165" target="_blank" title="">Mobile CSP Unit 7: Lesson 7.4 Data Visualization Project</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Data-Visualization-Project.html" target="_blank" title="">Mobile CSP Unit 7: Lesson 7.4 Data Visualization Project</a>.
       </p>
     </div>
     <h3>Materials</h3>

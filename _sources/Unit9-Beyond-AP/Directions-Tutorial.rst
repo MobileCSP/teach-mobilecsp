@@ -22,7 +22,7 @@ My Directions Tutorial (Optional)
 	 }); 
 	
 	</script>
-	<p class="overview"><a target="_blank" href="https://course.mobilecsp.org/mobilecsp/unit?unit=149&amp;lesson=105">This lesson</a> is Mobile CSP's Lesson 9.7 My Directions Tutorial. 
+	<p class="overview"><a target="_blank" href="https://runestone.academy/runestone/books/published/mobilecsp/Unit9-Beyond-AP/Directions-Tutorial.html">This lesson</a> is Mobile CSP's Lesson 9.7 My Directions Tutorial. 
 	</p>
 	
 	<table border="" id="genTable" class="framework" width="100%"></table>
@@ -53,7 +53,7 @@ My Directions Tutorial (Optional)
 	<div class="pd yui-wk-div">
 	 <h3>Professional Development</h3>  
 	 <p><b>The Student Lesson: </b> Complete the activities for 
-	   <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=149&amp;lesson=105" target="_blank" title="">Mobile CSP Lesson 9.7: My Directions Tutorial</a>.
+	   <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit9-Beyond-AP/Directions-Tutorial.html" target="_blank" title="">Mobile CSP Lesson 9.7: My Directions Tutorial</a>.
 	 </p>
 	</div>
 	

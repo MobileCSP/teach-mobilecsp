@@ -17,14 +17,14 @@ Impacts of CS The Digital Explosion
     </script>
     <!-- This is the overview paragraph.  The link URL should be to the corresponding lesson on the student branch. -->
     <p class="overview">This is the 
-      <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=1&amp;lesson=62" target="_blank" title="">first lesson</a> that focuses explicitly on the societal impact of computing.  Students will read the first chapter of the <em>Blown to Bits</em> book about the "digital explosion" - i.e., the idea that all of today's content (movies, books, images, sounds, etc.) is represented as bits (0s and 1s) and that the amount of such data is growing exponentially.  In this and future <i>Blown to Bits</i> lessons, students will read and discuss and reflect upon various ways that computing affects their lives.  This is one of the primary ways the global impact of computing, both positive and negative, is reinforced in the course.
+      <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/Impacts-of-CS-The-Digital-Explosion.html" target="_blank" title="">first lesson</a> that focuses explicitly on the societal impact of computing.  Students will read the first chapter of the <em>Blown to Bits</em> book about the "digital explosion" - i.e., the idea that all of today's content (movies, books, images, sounds, etc.) is represented as bits (0s and 1s) and that the amount of such data is growing exponentially.  In this and future <i>Blown to Bits</i> lessons, students will read and discuss and reflect upon various ways that computing affects their lives.  This is one of the primary ways the global impact of computing, both positive and negative, is reinforced in the course.
     </p>
     <!-- This is the framework table, where we describe how this lesson fits into the CSP framework.  -->
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson:</b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=1&amp;lesson=62" target="_blank" title="">Mobile CSP Unit 2 Lesson 2.11: Blown to Bits: The Digital Explosion</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/Impacts-of-CS-The-Digital-Explosion.html" target="_blank" title="">Mobile CSP Unit 2 Lesson 2.11: Blown to Bits: The Digital Explosion</a>.
       </p>
     </div>
     <h3>Materials</h3>

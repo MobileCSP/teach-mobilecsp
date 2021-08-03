@@ -15,12 +15,12 @@ Visualizing Data
       }); 
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=26&amp;lesson=188" target="_blank" title="">This lesson</a> introduces students to data manipulation and visualization using Google spreadsheets and Google My Maps. Students will follow tutorials to learn how to import data and create visualizations of it. These tools will be used in the next lesson where students explore a data set of their own choosing.</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Visualizing-Data.html" target="_blank" title="">This lesson</a> introduces students to data manipulation and visualization using Google spreadsheets and Google My Maps. Students will follow tutorials to learn how to import data and create visualizations of it. These tools will be used in the next lesson where students explore a data set of their own choosing.</p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson:</b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=26&amp;lesson=188" target="_blank" title="">Mobile CSP Unit 7: Lesson 7.3 Visualizing Data</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Visualizing-Data.html" target="_blank" title="">Mobile CSP Unit 7: Lesson 7.3 Visualizing Data</a>.
       </p>
     </div>
     <h3>Materials</h3>

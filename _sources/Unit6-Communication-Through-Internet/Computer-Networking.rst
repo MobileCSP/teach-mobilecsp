@@ -15,7 +15,7 @@ Computer Networking
       });
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=25&amp;lesson=99" target="_blank" title="">This lesson</a> introduces basic concepts and terminology 
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit6-Communication-Through-Internet/Computer-Networking.html" target="_blank" title="">This lesson</a> introduces basic concepts and terminology 
       about the Internet. It consists of three short lectures.  The first introduces basic Internet terminology.
       The second focuses on the <i>client/server</i> model. And the third focuses on Internet performance in terms
       of <i>bandwidth</i> and <i>latency</i>. 
@@ -23,7 +23,7 @@ Computer Networking
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=25&amp;lesson=99" target="_blank" title="">Unit 6: Lesson 6.2 Computer Networking</a>. 
+    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit6-Communication-Through-Internet/Computer-Networking.html" target="_blank" title="">Unit 6: Lesson 6.2 Computer Networking</a>. 
       </p>
     </div>
     <h3>Materials</h3>

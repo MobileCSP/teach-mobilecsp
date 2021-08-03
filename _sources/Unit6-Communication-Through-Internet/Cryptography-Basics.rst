@@ -16,7 +16,7 @@ Cryptography Basics
     
     </script>
     <p class="overview">
-      After introducing students to cryptography in the preceding lesson using the Caesar Cipher app, <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=25&amp;lesson=122" target="_blank" title="">this lesson</a> 
+      After introducing students to cryptography in the preceding lesson using the Caesar Cipher app, <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit6-Communication-Through-Internet/Cryptography-Basics.html" target="_blank" title="">this lesson</a> 
       explores cryptography in depth through the study of additional ciphers. </p>
     <p>
       Information sent over the Internet is visible to others unless encrypted — but then it must also be decrypted so 
@@ -44,7 +44,7 @@ Cryptography Basics
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=25&amp;lesson=122" target="_blank" title="">Mobile CSP Unit 6: Lesson 6.6 Cryptography Basics</a>.
+    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit6-Communication-Through-Internet/Cryptography-Basics.html" target="_blank" title="">Mobile CSP Unit 6: Lesson 6.6 Cryptography Basics</a>.
       </p>
     </div>
     <h3>Materials</h3>

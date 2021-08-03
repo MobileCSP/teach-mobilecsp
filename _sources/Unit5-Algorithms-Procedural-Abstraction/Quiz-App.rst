@@ -15,11 +15,11 @@ Quiz App
       });
     
     </script>
-    <p class="overview"><a href="../mobilecsp/unit?unit=24&amp;lesson=80" target="_blank" title="">This lesson</a> focuses on storing data in parallel lists, where the data at each index is related. Students create a basic quiz app with lists of pictures, questions, and answers. The programming portion of the app emphasizes iterating over a list, where the user controls moving to the next item in the list, including how to handle reaching the end of the list. This lesson reinforces the enduring understanding that data is processed to gain insight and knowledge.</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit5-Algorithms-Procedural-Abstraction/Quiz-App.html" target="_blank" title="">This lesson</a> focuses on storing data in parallel lists, where the data at each index is related. Students create a basic quiz app with lists of pictures, questions, and answers. The programming portion of the app emphasizes iterating over a list, where the user controls moving to the next item in the list, including how to handle reaching the end of the list. This lesson reinforces the enduring understanding that data is processed to gain insight and knowledge.</p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p>Complete the activities for <a href="../mobilecsp/unit?unit=24&amp;lesson=80" target="_blank" title="">Mobile CSP Unit 5: Lesson 5.5  Quiz App</a>.</p>
+    <p>Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit5-Algorithms-Procedural-Abstraction/Quiz-App.html" target="_blank" title="">Mobile CSP Unit 5: Lesson 5.5  Quiz App</a>.</p>
     </div>
     <h3>Materials</h3>
     <ul>

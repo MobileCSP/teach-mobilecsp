@@ -15,12 +15,12 @@ Logo Part 1
       });
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=23&amp;lesson=166" target="_blank" title="">This lesson</a> reinforces the use of procedures as abstraction in programming, but introduces how procedures can help reduce the complexity of algorithms. Students use an app based on the Logo programming environment that has pre-defined procedures to move a turtle around the screen and draw lines. Through a series of drawing exercises, students will be encouraged to use procedures to define each exercise, or parts of an exercise.</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/Logo-Part-I.html" target="_blank" title="">This lesson</a> reinforces the use of procedures as abstraction in programming, but introduces how procedures can help reduce the complexity of algorithms. Students use an app based on the Logo programming environment that has pre-defined procedures to move a turtle around the screen and draw lines. Through a series of drawing exercises, students will be encouraged to use procedures to define each exercise, or parts of an exercise.</p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson:</b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=23&amp;lesson=166" target="_blank" title="">Mobile CSP Unit 4 Lesson 4.4: Logo Part 1</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/Logo-Part-I.html" target="_blank" title="">Mobile CSP Unit 4 Lesson 4.4: Logo Part 1</a>.
       </p>
     </div>
     <h3>Materials</h3>

@@ -16,13 +16,13 @@ I Have a Dream Part 2  Explore Curricular Activity
     </script>
     <!-- This is the overview paragraph.  The link URL should be to the corresponding lesson on the student branch. -->
     <p class="overview">
-    <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=1&amp;lesson=56" target="_blank" title="">This lesson</a> extends the app begun in Part I of the 'I Have a Dream Tutorial' by adding a second button and an if/else algorithm to its code. The if/else construct is one of the essential building block for algorithms. It enables the app to select between two different behaviors depending on the user's action. This reinforces the enduring understanding that algorithms are a precise sequence of instructions executed by a computer.
+    <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/I-Have-a-Dream-Part-2-Explore-Curricular-Activity.html" target="_blank" title="">This lesson</a> extends the app begun in Part I of the 'I Have a Dream Tutorial' by adding a second button and an if/else algorithm to its code. The if/else construct is one of the essential building block for algorithms. It enables the app to select between two different behaviors depending on the user's action. This reinforces the enduring understanding that algorithms are a precise sequence of instructions executed by a computer.
     </p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson: </b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=1&amp;lesson=56" target="_blank" title="">Mobile CSP Unit 2 Lesson 2.4: I Have a Dream, Part 2</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/I-Have-a-Dream-Part-2-Explore-Curricular-Activity.html" target="_blank" title="">Mobile CSP Unit 2 Lesson 2.4: I Have a Dream, Part 2</a>.
       </p>
     </div>
     <h3>Materials</h3><ul><li>

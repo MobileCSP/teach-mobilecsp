@@ -15,11 +15,11 @@ Coin Flip Simulation Tutorial
       }); 
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=23&amp;lesson=64" target="_blank" title="">This lesson</a> reinforces the enduring understanding that <i>models and simulations use abstraction to generate new understanding and knowledge</i>.  The students will follow an instructor-led tutorial that shows how to build an app that simulates a coin flip using if/else and loops.  The lesson asks the student to think more deeply about the concept of <i>randomness</i>, which was introduced in the LightsOff simulation app. Subsequent lessons in this unit will also explore randomness and how it is used in modeling and simulation.  </p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/Coin-Flip-Simulation-Tutorial.html" target="_blank" title="">This lesson</a> reinforces the enduring understanding that <i>models and simulations use abstraction to generate new understanding and knowledge</i>.  The students will follow an instructor-led tutorial that shows how to build an app that simulates a coin flip using if/else and loops.  The lesson asks the student to think more deeply about the concept of <i>randomness</i>, which was introduced in the LightsOff simulation app. Subsequent lessons in this unit will also explore randomness and how it is used in modeling and simulation.  </p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p>Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=23&amp;lesson=64" target="_blank" title="">Mobile CSP Unit 4 Lesson 4.5: Coin Flip Simulation Tutorial</a>. 
+    <p>Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/Coin-Flip-Simulation-Tutorial.html" target="_blank" title="">Mobile CSP Unit 4 Lesson 4.5: Coin Flip Simulation Tutorial</a>. 
     
     </p></div>
     <h3>Materials</h3>

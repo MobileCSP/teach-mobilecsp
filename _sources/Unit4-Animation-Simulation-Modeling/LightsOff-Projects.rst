@@ -15,13 +15,13 @@ LightsOff Projects
       }); 
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=23&amp;lesson=55" target="_blank" title="">This lesson</a> extends the app started in the 'LightsOff Tutorial'.  Students work in pairs to complete several small challenges to enhance the app, such as customizing the appearance of the app and changing the speed of the animation as the game progresses. It reinforces the enduring understandings that programming can be used for creative expression and that collaborating (working in pairs) is an effective way to solve problems.</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/LightsOff-Projects.html" target="_blank" title="">This lesson</a> extends the app started in the 'LightsOff Tutorial'.  Students work in pairs to complete several small challenges to enhance the app, such as customizing the appearance of the app and changing the speed of the animation as the game progresses. It reinforces the enduring understandings that programming can be used for creative expression and that collaborating (working in pairs) is an effective way to solve problems.</p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <!--   End of Framework table. -->
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson: </b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=23&amp;lesson=55" target="_blank" title="">Mobile CSP Unit 4 Lesson 4.3: LightsOff Projects</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/LightsOff-Projects.html" target="_blank" title="">Mobile CSP Unit 4 Lesson 4.3: LightsOff Projects</a>.
       </p>
     </div>
     <h3>Materials</h3>

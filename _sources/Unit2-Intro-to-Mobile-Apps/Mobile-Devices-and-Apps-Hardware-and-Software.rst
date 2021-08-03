@@ -28,7 +28,7 @@ Mobile Devices and Apps Hardware and Software
     </style>
     <!-- This is the overview paragraph.  The link URL should be to the corresponding lesson on the student branch. -->
     <p class="overview">
-    <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=1&amp;lesson=46" target="_blank" title="">This lesson </a> 
+    <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/Mobile-Devices-and-Apps-Hardware-and-Software.html" target="_blank" title="">This lesson </a> 
       describes the various levels of hardware and software that make up a computer.  The various levels are presented
       as <i>abstraction levels</i>.  On the hardware side, using a smartphone as the computer, we introduce the hardware components that make up these levels and describe their various functions.  On the software side, this lesson shows that App Inventor is an example of a <i>high-level language</i>, a <i>high-level abstraction</i>  whose code needs to be  translated into the binary code (0s and 1s) that the computer can understand.  This lesson is the first of many that
       focuses on the big idea of <i>abstraction</i>. It reinforces the enduring understanding that multiple levels of abstraction are used to write programs or create other computational artifacts.
@@ -40,7 +40,7 @@ Mobile Devices and Apps Hardware and Software
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson: </b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=1&amp;lesson=46" target="_blank" title="">Mobile CSP Unit 2 Lesson 2.5: Mobile Apps and Mobile Devices</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/Mobile-Devices-and-Apps-Hardware-and-Software.html" target="_blank" title="">Mobile CSP Unit 2 Lesson 2.5: Mobile Apps and Mobile Devices</a>.
       </p>
     </div>
     <h3>Materials</h3>

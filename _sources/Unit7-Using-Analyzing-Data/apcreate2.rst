@@ -2,8 +2,8 @@
 
     <a href="../index.html"><img class="align-center" src="../_static/MobileCSPLogo.png" width="250px"/></a>
 
-Create: Programming Performance Task #2 - INSTRUCTOR MATERIALS
-=================================================================
+ASSESSMENT: Create: Programming Performance Task #2 (INSTRUCTOR MATERIALS)
+===========================================================================
 
 .. raw:: html
 
@@ -27,7 +27,7 @@ Create: Programming Performance Task #2 - INSTRUCTOR MATERIALS
 	
 	<!-- This is the overview paragraph.  The link URL should be to the corresponding lesson on the student branch. -->
 	<p class="overview">
-	 <a href="../mobilecsp/assessment?name=118" target="_blank" title="">This assessment</a> is the official CREATE programming performance task. AP students will submit this to the College Board and must not receive help from teachers. Non-AP students should complete this CREATE project working in pairs as a final assessment.  In this programming performance task, students work in pairs to collaboratively develop a mobile app. This includes going through the entire development process of designing, implementing, and debugging a mobile app. Students then document their work by creating a portfolio write-up and share their work through an oral presentation to the class or a recorded video presentation. (Note: the video presentation is required by the College Board.)
+	 <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/apcreate2.html" target="_blank" title="">This assessment</a> is the official CREATE programming performance task. AP students will submit this to the College Board and must not receive help from teachers. Non-AP students should complete this CREATE project working in pairs as a final assessment.  In this programming performance task, students work in pairs to collaboratively develop a mobile app. This includes going through the entire development process of designing, implementing, and debugging a mobile app. Students then document their work by creating a portfolio write-up and share their work through an oral presentation to the class or a recorded video presentation. (Note: the video presentation is required by the College Board.)
 	</p>
 	
 	<table border="" id="genTable" class="framework" width="100%"></table>
@@ -171,7 +171,7 @@ Create: Programming Performance Task #2 - INSTRUCTOR MATERIALS
 	<ul>
 	 <li>Computer lab with projection system</li>
 	 <li>Android or iOS devices, Chromebooks, or emulators</li>
-	<li><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=127&amp;lesson=203" target="_blank" title="">Create Grading Sample page
+	<li><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Create-PT-Samples.html" target="_blank" title="">Create Grading Sample page
 	 </a></li><li><a href="https://docs.google.com/document/d/1zbHDdR-l5JF9xGor-hChrqB8pzCnxgxwMY-vBCZqJYI/edit?usp=sharing" target="_blank"> Create  Task  with Design Thinking Iterative Process Handout</a></li>
 	 <li><a href="https://docs.google.com/drawings/d/1M-DZITeDT9aiPZ7Oz-kXKEGkn0DiFOH1i8idBNlxwCA/edit" target="_blank">Wireframe Design Template</a></li>
 	 <li><a href="https://docs.google.com/document/d/1-4oA9bdqDRse1nYpV2wxHnOIwFNas01TbeRnVSBKQ6I/view" target="_blank" title="">How To: Create an App Video</a></li>
@@ -180,7 +180,7 @@ Create: Programming Performance Task #2 - INSTRUCTOR MATERIALS
 	 <li>For AP classes: <ul>
 	 <li><a href="https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf?course=ap-computer-science-principles#page=4" target="_blank" title="">CREATE Performance Task Description and Instructions </a></li>
 	 <li><a href="https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-2021-create-performance-task-scoring-guidelines.pdf" target="_blank" title="">CREATE Peformance Task Scoring Guidelines </a></li>
-	  <li> <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=127&amp;lesson=203" target="_blank">Create Performance Task Samples in lesson 8.9</a></li>
+	  <li> <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Create-PT-Samples.html" target="_blank">Create Performance Task Samples in lesson 8.9</a></li>
 	 <li><a href="https://docs.google.com/document/d/1B0VUXo-voVro_paLykF153QKtZ-urzrY-JkNFxBZjDA/copy" target="_blank" title="">AP Create template and checklists</a> </li>
 	   <li> <a href="https://sites.google.com/site/mobilecspportfoliohelp/performance-tasks/create-1" target="_blank">Portfolio help site</a></li>
 	<li><a href="https://docs.google.com/document/d/1pM5b-lzji6LYdyBCsHuuBzfjYm4bpEIvtFjC0fX2z3M/" target="_blank" title="">How To: Grade Performance Tasks Electronically</a></li>
@@ -205,7 +205,7 @@ Learning Activities
 	   <ul>
 	   
 	     <li><b>AP Warm Up Activity: Create Grading Rubric (45 mins):</b>
-	AP classes can use the <a href="https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-2021-create-performance-task-scoring-guidelines.pdf" target="_blank" title="">Create Performance Task Scoring Guidelines </a> to grade the two <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=127&amp;lesson=203" target="_blank">Create Performance Task Samples in lesson 8.9</a> to familiarize students with the rubric and Create write-ups. Encourage them to carefully review the prompts as well as the scoring rubric. Also have them review the grading rubric and the College Board student samples so they can see examples of high, medium, and low graded student work.</li>
+	AP classes can use the <a href="https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-2021-create-performance-task-scoring-guidelines.pdf" target="_blank" title="">Create Performance Task Scoring Guidelines </a> to grade the two <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Create-PT-Samples.html" target="_blank">Create Performance Task Samples in lesson 8.9</a> to familiarize students with the rubric and Create write-ups. Encourage them to carefully review the prompts as well as the scoring rubric. Also have them review the grading rubric and the College Board student samples so they can see examples of high, medium, and low graded student work.</li>
 	     <li><b>Explanation:</b> Explain the Create Task. Students should follow the&nbsp;<a href="https://docs.google.com/document/d/1zbHDdR-l5JF9xGor-hChrqB8pzCnxgxwMY-vBCZqJYI/edit?usp=sharing" target="_blank">Create  Task  with Design Thinking Iterative Process Handout</a>. This is divided into 3+ Iterations. Students will be provided with 12 hours of in class time to complete this assessment with minimal help from the instructor.</li>
 	     <li><b>Iteration 1 (45-90 mins):</b> Each pair works collaboratively on brainstorming a project idea. 
 	       <br>Each pair should develop drawing(s) of the User Interface, as well as, create a rough storyboard of how their app will function. Here is a <a href="https://docs.google.com/drawings/d/1ZB7rhEj6-xkbGgnzISvNonuB9Rrjnz13AGkUkTh2CbM/edit?usp=sharing" target="_blank" title="">wireframe template</a> that can be used. 

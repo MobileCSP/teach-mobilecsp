@@ -10,7 +10,7 @@ AP CS Principles Exam Prep
 
 .. raw:: html
 
-	<p>Review the lesson for <a href="../mobilecsp/unit?unit=127&amp;lesson=130" target="_blank">Unit 8: Lesson 8.2 About the CS Principles Exam</a>. 
+	<p>Review the lesson for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit8-AP-Exam-Prep/About-CSP-Exam.html" target="_blank">Unit 8: Lesson 8.2 About the CS Principles Exam</a>. 
 	</p>
 	
 2. Review the Reference Sheet

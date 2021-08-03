@@ -10,7 +10,7 @@ Exam 2 - Final
 
 .. raw:: html
 
-	<p>Review the information on the <a href="../mobilecsp/assessment?name=119" target="_blank">final exam</a>.
+	<p>Review the information on the <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit8-AP-Exam-Prep/exam.html" target="_blank">final exam</a>.
 	</p>
 	
 2. Review the Lesson Plan

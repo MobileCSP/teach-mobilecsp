@@ -22,13 +22,13 @@ Socially Aware App: Broadcast Hub Tutorial
 	
 	</script>
 	
-	<p class="overview"><a target="_blank" href="https://course.mobilecsp.org/mobilecsp/unit?unit=25&amp;lesson=111" title="">This lesson</a> uses the App Inventor ActivityStarter component to set up a mini social network using the concept of a hub — a network component that sends a message received to all other devices connected to the hub. It reinforces the enduring understandings that computing can be used to solve problems (spreading a message among a group), and that computing innovations affect (and are influenced by) social contexts. If phones are available, the hub can be set up to use texting instead of email.</p>
+	<p class="overview"><a target="_blank" href="https://runestone.academy/runestone/books/published/mobilecsp/Unit9-Beyond-AP/Broadcast-Hub-Tutorial.html" title="">This lesson</a> uses the App Inventor ActivityStarter component to set up a mini social network using the concept of a hub — a network component that sends a message received to all other devices connected to the hub. It reinforces the enduring understandings that computing can be used to solve problems (spreading a message among a group), and that computing innovations affect (and are influenced by) social contexts. If phones are available, the hub can be set up to use texting instead of email.</p>
 	
 	<table border id="genTable" class="framework" width="100%"></table> 
 	
 	<div class="pd yui-wk-div">
 	 <h3>Professional Development</h3> 
-	 <p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=25&amp;lesson=111" target="_blank" title="">Mobile CSP Lesson 9.13: Broadcast Hub Tutorial</a>. 
+	 <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit9-Beyond-AP/Broadcast-Hub-Tutorial.html" target="_blank" title="">Mobile CSP Lesson 9.13: Broadcast Hub Tutorial</a>. 
 	 </p>
 	</div>
 	

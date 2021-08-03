@@ -15,10 +15,10 @@ App Inventor Setup
       }); 
     
     </script>
-    <p class="overview">In <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=19&amp;lesson=50" target="_blank" title="">Unit 1 Lesson 1.4: App Inventor Set Up</a>, students  will login to App Inventor for the first time and test an app with their mobile devices or emulator.</p><br/>
+    <p class="overview">In <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit1-Getting-Started/App-Inventor-Setup.html" target="_blank" title="">Unit 1 Lesson 1.4: App Inventor Set Up</a>, students  will login to App Inventor for the first time and test an app with their mobile devices or emulator.</p><br/>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=19&amp;lesson=49" target="_blank" title="">Unit 1 Lesson 1.3: Google Account and Portfolio Set Up</a> and for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=19&amp;lesson=50" target="_blank" title="">Unit 1 Lesson 1.4: App Inventor Set Up</a>. </p>
+    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit1-Getting-Started/Google-Account-and-Portfolio-Setup.html" target="_blank" title="">Unit 1 Lesson 1.3: Google Account and Portfolio Set Up</a> and for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit1-Getting-Started/App-Inventor-Setup.html" target="_blank" title="">Unit 1 Lesson 1.4: App Inventor Set Up</a>. </p>
     </div>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <h3>Materials</h3>
@@ -38,7 +38,7 @@ Learning Activities
     <h3 id="est-length">Estimated Length: 25-45 minutes</h3>
     <ol>
     <li><b>Video (5 mins):</b> Show the intro to App Inventor video from MIT in class. When this video was made, CS was not usually taught in high school! But luckily, things have changed.</li>
-    <li><b>Activity (15-30 minutes):</b> Following the directions in  <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=19&amp;lesson=50" target="_blank" title="">Unit 1 Lesson 1.4: App Inventor Set Up</a>, students should click on the App Inventor template, login to App Inventor with their Gmail accounts and then run the test app on a mobile device or emulator. They can follow the embedded tutorial to the left of the App Inventor screens. This lesson may last longer if there are connection issues at your school. Follow the troubleshooting links above. If you have students whose first language is not English, you may want to have them pull down the language menu where it says English at the top right of App Inventor to switch to their own language. </li>
+    <li><b>Activity (15-30 minutes):</b> Following the directions in  <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit1-Getting-Started/App-Inventor-Setup.html" target="_blank" title="">Unit 1 Lesson 1.4: App Inventor Set Up</a>, students should click on the App Inventor template, login to App Inventor with their Gmail accounts and then run the test app on a mobile device or emulator. They can follow the embedded tutorial to the left of the App Inventor screens. This lesson may last longer if there are connection issues at your school. Follow the troubleshooting links above. If you have students whose first language is not English, you may want to have them pull down the language menu where it says English at the top right of App Inventor to switch to their own language. </li>
     <li><b>Reflection (5 mins): </b> Ask students what they liked about App Inventor so far.</li>
     </ol>
     <h3>Google Accounts</h3>

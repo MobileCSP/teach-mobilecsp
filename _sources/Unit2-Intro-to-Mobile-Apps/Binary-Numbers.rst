@@ -17,7 +17,7 @@ Binary Numbers
     </script>
     <!-- This is the overview paragraph.  The link URL should be to the corresponding lesson on the student branch. -->
     <p class="overview">
-    <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=1&amp;lesson=63" target="_blank" title="">This lesson </a> 
+    <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/Binary-Numbers.html" target="_blank" title="">This lesson </a> 
       reinforces the enduring understanding that binary sequences can be used to represent all digital data through <em>abstraction</em>. Students learn how to convert numbers to and from different number base systems and that numbers may represent different types of data in different contexts. While this unit introduces the binary and other number systems, Unit 3 will take a more in-depth look at the hexadecimal system, including how it is used in computing.
     </p>
     <!-- This is the framework table, where we describe how this lesson fits into the CSP framework.  -->
@@ -25,7 +25,7 @@ Binary Numbers
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson: </b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=1&amp;lesson=63" target="_blank" title="">Mobile CSP Unit 2 Lesson 2.9: Binary Numbers</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/Binary-Numbers.html" target="_blank" title="">Mobile CSP Unit 2 Lesson 2.9: Binary Numbers</a>.
       </p>
     </div>
     <h3>Materials</h3>

@@ -65,7 +65,7 @@ Get Started with Your First Zoom Meeting
     <p></p>
     </div>
 
-</div><br/>
+	</div><br/>
     <h4>Learn more with these <a href="https://support.zoom.us/hc/en-us/articles/206618765-Zoom-Video-Tutorials" target="_blank" title="">Zoom video tutorials</a>.</h4>
     
 

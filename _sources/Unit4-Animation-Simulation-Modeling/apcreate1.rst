@@ -2,8 +2,8 @@
 
     <a href="../index.html"><img class="align-center" src="../_static/MobileCSPLogo.png" width="250px"/></a>
 
-Create: Programming Performance Task #1 - INSTRUCTOR MATERIALS
-=================================================================
+ASSESSMENT: Create: Programming Performance Task #1 (INSTRUCTOR MATERIALS)
+===========================================================================
 
 .. raw:: html
 
@@ -20,7 +20,7 @@ Create: Programming Performance Task #1 - INSTRUCTOR MATERIALS
 	
 	
 	<p class="overview">
-	 <a href="https://course.mobilecsp.org/mobilecsp/assessment?name=57" target="_blank" title="">This assessment</a> is a practice CREATE Task that both AP and Non-AP classes can complete. The CREATE task is a required programming performance task. In this programming performance task, students work in pairs to collaboratively develop a mobile app. This includes going through the entire development process of designing, implementing, and debugging a mobile app. Students then document their work by creating a portfolio write-up and share their work through an oral presentation to the class or a recorded video presentation. (Note: the video demonstration is required by the College Board.)
+	 <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/apcreate1.html" target="_blank" title="">This assessment</a> is a practice CREATE Task that both AP and Non-AP classes can complete. The CREATE task is a required programming performance task. In this programming performance task, students work in pairs to collaboratively develop a mobile app. This includes going through the entire development process of designing, implementing, and debugging a mobile app. Students then document their work by creating a portfolio write-up and share their work through an oral presentation to the class or a recorded video presentation. (Note: the video demonstration is required by the College Board.)
 	</p>
 	<table border="" id="genTable" class="framework" width="100%"></table>
 	
@@ -243,7 +243,7 @@ Create: Programming Performance Task #1 - INSTRUCTOR MATERIALS
 	 <li>For AP classes: <ul>
 	 <li><a href="https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf?course=ap-computer-science-principles#page=4" target="_blank" title="">CREATE Performance Task Description and Instructions </a></li>
 	   <li><a href="https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-2021-create-performance-task-scoring-guidelines.pdf" target="_blank" title="">Create Performance Task Scoring Guidelines </a></li>
-	   <li> <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=127&amp;lesson=203" target="_blank">Create Performance Task Samples in lesson 8.9</a></li>
+	   <li> <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit8-AP-Exam-Prep/Explore-Samples.html" target="_blank">Create Performance Task Samples in lesson 8.9</a></li>
 	 <li><a href="https://docs.google.com/document/d/1B0VUXo-voVro_paLykF153QKtZ-urzrY-JkNFxBZjDA/copy" target="_blank" title="">AP Create template and checklists</a> </li>
 	   <li> <a href="https://sites.google.com/site/mobilecspportfoliohelp/performance-tasks/create-1" target="_blank">Portfolio help site</a></li>
 	<li><a href="https://docs.google.com/document/d/1pM5b-lzji6LYdyBCsHuuBzfjYm4bpEIvtFjC0fX2z3M/" target="_blank" title="">How To: Grade Performance Tasks Electronically</a></li>

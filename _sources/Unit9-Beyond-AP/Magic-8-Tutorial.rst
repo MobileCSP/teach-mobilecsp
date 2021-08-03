@@ -23,14 +23,14 @@ Magic 8 Ball Tutorial and Projects (Optional)
 	
 	</script>
 	
-	<p class="overview"><a target="_blank" href="https://course.mobilecsp.org/mobilecsp/unit?unit=149&lesson=78" title="">This lesson</a> includes both a tutorial that leads the student through the creation of a mobile version of the classic "Magic 8 Ball" game and several programming challenges that students will work in pairs to solve.  The Magic 8 Ball app simulates the Magic 8 Ball game:  when the user asks a question and shakes the device the app will respond with a random prediciton.  The tutorial shows how to use App Inventor's <i>Accelerometer</i> to detect the device's motion and its <i>Text to Speech</i> component to convert text to speech.  Two of the programming tasks involve the use of App Inventor's <i>Clock</i> component and can be quite challenging.  A solution to those is provided in the lesson plan.  In addition to promoting the enduring understanding about the importance of collaboration in designing and writing programs, this lesson also introduces an important new programming abstraction, a <i>list</i>, which is used to store a collection of items in the computer's memory.  It thus also reinforces the enduring understanding that programming is facilitated by appropriate abstractions. 
+	<p class="overview"><a target="_blank" href="https://runestone.academy/runestone/books/published/mobilecsp/Unit9-Beyond-AP/Magic-8-Tutorial.html" title="">This lesson</a> includes both a tutorial that leads the student through the creation of a mobile version of the classic "Magic 8 Ball" game and several programming challenges that students will work in pairs to solve.  The Magic 8 Ball app simulates the Magic 8 Ball game:  when the user asks a question and shakes the device the app will respond with a random prediciton.  The tutorial shows how to use App Inventor's <i>Accelerometer</i> to detect the device's motion and its <i>Text to Speech</i> component to convert text to speech.  Two of the programming tasks involve the use of App Inventor's <i>Clock</i> component and can be quite challenging.  A solution to those is provided in the lesson plan.  In addition to promoting the enduring understanding about the importance of collaboration in designing and writing programs, this lesson also introduces an important new programming abstraction, a <i>list</i>, which is used to store a collection of items in the computer's memory.  It thus also reinforces the enduring understanding that programming is facilitated by appropriate abstractions. 
 	
 	<table border id="genTable" class="framework" width="100%"></table>
 	
 	<div class="pd yui-wk-div">
 	 <h3>Professional Development</h3>  
 	 <p><b>The Student Lesson: </b> Complete the activities for 
-	   <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=149&amp;lesson=78" target="_blank" title="">Mobile CSP Lesson 9.5: Magic 8 Ball Tutorial and Projects</a>.
+	   <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit9-Beyond-AP/Magic-8-Tutorial.html" target="_blank" title="">Mobile CSP Lesson 9.5: Magic 8 Ball Tutorial and Projects</a>.
 	 </p>
 	</div>
 	

@@ -23,13 +23,13 @@ Debugging Pong (Optional)
 	
 	</script>
 	
-	<p class="overview"><a target="_blank" href="../mobilecsp/unit?unit=24&amp;lesson=97">This lesson</a> revisits the Pong game. Now that students understand how it should work correctly, they find bugs in a game that doesn't work correctly. Before, the listen to a presentation that describes what debugging is as well as the different types of bugs in programs. The lesson reinforces their understanding of what it means for a program to work correctly.</p>
+	<p class="overview"><a target="_blank" href="https://runestone.academy/runestone/books/published/mobilecsp/Unit9-Beyond-AP/Debugging-Pong.html">This lesson</a> revisits the Pong game. Now that students understand how it should work correctly, they find bugs in a game that doesn't work correctly. Before, the listen to a presentation that describes what debugging is as well as the different types of bugs in programs. The lesson reinforces their understanding of what it means for a program to work correctly.</p>
 	
 	<table border id="genTable" class="framework" width="100%"></table>
 	
 	<div class="pd yui-wk-div">
 	 <h3>Professional Development</h3> 
-	 <p><b>The Student Lesson:</b> Complete the activities for <a href="../mobilecsp/unit?unit=24&amp;lesson=97" target="_blank">Mobile CSP Lesson 9.10 Debugging Pong</a>.
+	 <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit9-Beyond-AP/Debugging-Pong.html" target="_blank">Mobile CSP Lesson 9.10 Debugging Pong</a>.
 	 </p>
 	</div>
 	

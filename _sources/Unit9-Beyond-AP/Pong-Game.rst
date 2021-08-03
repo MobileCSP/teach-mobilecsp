@@ -23,13 +23,13 @@ The Pong Game (Optional)
 	
 	</script>
 	
-	<p class="overview"><a target="_blank" href="https://course.mobilecsp.org/mobilecsp/unit?unit=24&amp;lesson=96" title="">This lesson</a> reinforces the use of procedural abstraction in programming to generalize solutions. Students have two options: 1) Build Pong from Scratch or 2) Enhance a Basic Pong App. Pong was one of the first computer games and consists of a paddle controlled by the user and a ball, which bounces off the edges. Students add enhancements that should use procedures to provide generalized solutions and require if/else statements.</p>
+	<p class="overview"><a target="_blank" href="https://runestone.academy/runestone/books/published/mobilecsp/Unit9-Beyond-AP/Pong-Game.html" title="">This lesson</a> reinforces the use of procedural abstraction in programming to generalize solutions. Students have two options: 1) Build Pong from Scratch or 2) Enhance a Basic Pong App. Pong was one of the first computer games and consists of a paddle controlled by the user and a ball, which bounces off the edges. Students add enhancements that should use procedures to provide generalized solutions and require if/else statements.</p>
 	
 	<table border id="genTable" class="framework" width="100%"></table>
 	
 	<div class="pd yui-wk-div">
 	 <h3>Professional Development</h3> 
-	 <p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=24&amp;lesson=96" target="_blank" title="">Mobile CSP Lesson 9.9 The Pong Game</a>.
+	 <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit9-Beyond-AP/Pong-Game.html" target="_blank" title="">Mobile CSP Lesson 9.9 The Pong Game</a>.
 	 </p>
 	</div>
 	

@@ -15,12 +15,12 @@ Abstraction Inside the CPU optional
       }); 
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=23&amp;lesson=154" target="_blank" title="">This lesson</a> leads students from a low level programming language to a higher level language in order to illustrate the layers of abstraction at work in a computer. It also illustrates some of the basic concepts around how hardware components work in the computer. There are a number of technical terms that should be reviewed as needed with students.</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/Abstraction-Inside-the-CPU-optional.html" target="_blank" title="">This lesson</a> leads students from a low level programming language to a higher level language in order to illustrate the layers of abstraction at work in a computer. It also illustrates some of the basic concepts around how hardware components work in the computer. There are a number of technical terms that should be reviewed as needed with students.</p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson:</b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=23&amp;lesson=154" target="_blank" title="">Mobile CSP Unit 4 Lesson 4.10: Abstraction: Inside the CPU</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/Abstraction-Inside-the-CPU-optional.html" target="_blank" title="">Mobile CSP Unit 4 Lesson 4.10: Abstraction: Inside the CPU</a>.
       </p>
     </div>
     <h3>Materials</h3>

@@ -7,7 +7,7 @@ Transitioning to Text-Based Languages and CS A
 
 .. raw:: html
 
-	<p>Explore the materials posted on the student site under <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=149&lesson=202" target="_blank" title="">Transitioning to Text Based Languages and CS A</a>. If your school offers CS A, this may be a good time to introduce students to text-based programming and get them excited to take CS A or other programming languages. There are also fun tutorials listed for Python and web design and programming.</p>
+	<p>Explore the materials posted on the student site under <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit9-Beyond-AP/Transitioning-Text-Lang.html" target="_blank" title="">Transitioning to Text Based Languages and CS A</a>. If your school offers CS A, this may be a good time to introduce students to text-based programming and get them excited to take CS A or other programming languages. There are also fun tutorials listed for Python and web design and programming.</p>
 	
 	<p>Other suggestions from teachers include:</p>
 	

@@ -20,5 +20,4 @@ AP CS Principles Exam Prep
 	Resources.rst
 	Create-PT-Samples.rst
 	Explore-Samples.rst
-	Create-PT-Practice.rst
 	exam.rst

@@ -15,7 +15,7 @@ Successful Learning in Mobile CSP
       });
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=19&amp;lesson=126" target="_blank" title="">This lesson</a> reinforces important computational thinking practices. While this lesson does not directly address a learning objective in the CS 
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit1-Getting-Started/Successful-Learning-in-Mobile-CSP.html" target="_blank" title="">This lesson</a> reinforces important computational thinking practices. While this lesson does not directly address a learning objective in the CS 
     Principles framework, it will help students to be more persistent in achieving 
     those learning objectives. However, it is related to many of the dispositions 
     or attitudes needed to be a successful computational thinker 
@@ -30,7 +30,7 @@ Successful Learning in Mobile CSP
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=19&amp;lesson=126" target="_blank" title="">Mobile CSP Unit 1 Lesson 1.6: Successful Learning in Mobile CSP</a>.</p>
+    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/teach-mobilecsp/Unit1-Getting-Started/Successful-Learning-in-Mobile-CSP.html" target="_blank" title="">Mobile CSP Unit 1 Lesson 1.6: Successful Learning in Mobile CSP</a>.</p>
     </div>
     
 
@@ -84,7 +84,7 @@ Learning Activities
     <p>The College Board's <a href="http://myap.collegeboard.org" target="_blank" title="AP Classroom Site">AP Classroom</a> provides a question bank and Topic Questions. You may create a formative assessment quiz in AP Classroom, assign the quiz (a set of questions), and then review the results in class to identify and address any student misunderstandings.The following are suggested topic questions that you could assign once students have completed this lesson.</p>
     <p><b>There are no suggested topic questions for this lesson as it is an introductory and setup lesson.</b></p>
     </div>
-    <h3 style="background: url(assets/img/success.png) no-repeat left center; background-size: 1.5em 1.5em;">Assessment Opportunities</h3>
+    <h3 style="background: url(../_static/assets/img/success.png) no-repeat left center; background-size: 1.5em 1.5em;">Assessment Opportunities</h3>
     <div class="yui-wk-div">
     <ul>
     <li>Have students take the <a href="http://mindsetonline.com/testyourmindset/step1.php" target="_blank">mindset survey</a></li>

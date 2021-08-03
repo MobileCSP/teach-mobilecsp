@@ -19,7 +19,7 @@ Welcome to Mobile CSP
 	<h3>Teacher Branch vs. Student Branch</h3>
 	
 	<p>Content in this branch is specific to instructors, including lesson plans and pedagogy. 
-	In the companion, <a href="https://course.mobilecsp.org/mobilecsp/course" target="_blank" title="">student 
+	In the companion, <a href="https://runestone.academy/runestone/books/published/mobilecsp/index.html" target="_blank" title="">student 
 	branch</a>, the actual Mobile CSP content is presented. You can have your students 
 	register for the other course themselves and use it during the school year.</p>
 	<p>Some teachers find it easier to review the Teach Mobile CSP lesson first, and then complete
@@ -29,7 +29,7 @@ Welcome to Mobile CSP
 	
 	<h3>Unit 1 Outline</h3>
 	
-	In this unit, you will:<br>
+	<p>In this unit, you will:</p>
 	<ul>
 	<li>Learn about the course structure and content</li><li>Review materials provided by the College Board</li>
 	<li>Sign up for email and discussion groups</li>
@@ -62,5 +62,5 @@ Welcome to Mobile CSP
 	           padding: 2px; }
 	</style>
 	
-	<iframe src="https://docs.google.com/spreadsheets/d/10CSYSTF85WRKwZbUNo_19vuCLt6sJXlbU9iBVwemm3U/pubhtml/sheet?headers=false&amp;gid=276056726&amp;range=A1:J9" width="100%" height="600"></iframe>
+	<p><iframe src="https://docs.google.com/spreadsheets/d/10CSYSTF85WRKwZbUNo_19vuCLt6sJXlbU9iBVwemm3U/pubhtml/sheet?headers=false&amp;gid=276056726&amp;range=A1:J9" width="100%" height="600"></iframe></p>
 	

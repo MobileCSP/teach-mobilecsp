@@ -15,12 +15,12 @@ Artificial Intelligence and Machine Learning
       }); 
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=26&amp;lesson=198" target="_blank" title="">This lesson</a> provides an introduction to the fields of Artificial Intelligence and Machine Learning. With machine learning a computer learns how to perform a task or solve a problem not by being given a traditional program to solve the problem, but by being given lots of data examples of correct and incorrect solutions to the problem. </p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Artificial-Intelligence-and-Machine-Learning.html" target="_blank" title="">This lesson</a> provides an introduction to the fields of Artificial Intelligence and Machine Learning. With machine learning a computer learns how to perform a task or solve a problem not by being given a traditional program to solve the problem, but by being given lots of data examples of correct and incorrect solutions to the problem. </p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson:</b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=26&amp;lesson=198" target="_blank" title="">Mobile CSP Unit 7: Lesson on Artificial Intelligence and Machine Learning</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Artificial-Intelligence-and-Machine-Learning.html" target="_blank" title="">Mobile CSP Unit 7: Lesson on Artificial Intelligence and Machine Learning</a>.
       </p>
     </div>
     <h3>Materials</h3>

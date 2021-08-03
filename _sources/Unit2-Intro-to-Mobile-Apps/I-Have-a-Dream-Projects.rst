@@ -16,7 +16,7 @@ I Have a Dream Projects
     </script>
     <!-- This is the overview paragraph.  The link URL should be to the corresponding lesson on the student branch. -->
     <p class="overview">
-    <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=1&amp;lesson=47" target="_blank" title="">This lesson </a> 
+    <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/I-Have-a-Dream-and-Soundboard-Projects.html" target="_blank" title="">This lesson </a> 
       reinforces the enduring understanding that computing requires a creative development process. First, students modify the existing I Have a Dream app to add new functionality. Then, students develop a soundboard app of their own with sounds and images that express a personal interest of theirs. As part of this process, students must describe the functionality of the user interface and reflect on whether or not their program is working correctly. The breadth of soundboard apps created in the class exemplifies the enduring understanding that programs are developed by people for different purposes.
     </p>
     <!-- This is the framework table, where we describe how this lesson fits into the CSP framework.  -->
@@ -24,7 +24,7 @@ I Have a Dream Projects
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson:</b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=1&amp;lesson=47" target="_blank" title="">Mobile CSP Unit 2 Lesson 2.7: I Have a Dream Projects</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/I-Have-a-Dream-and-Soundboard-Projects.html" target="_blank" title="">Mobile CSP Unit 2 Lesson 2.7: I Have a Dream Projects</a>.
       </p>
     </div>
     <h3>Materials</h3>

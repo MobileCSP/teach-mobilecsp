@@ -24,14 +24,14 @@ Multiple Choice Quiz App: List of Lists (Optional)
 	</script>
 	
 	
-	<p class="overview"><a target="_blank" href="https://course.mobilecsp.org/mobilecsp/unit?unit=149&amp;lesson=83" title="">This lesson</a> introduces the concept of a <i>list of lists</i>, where each item in the outer list (instead of being a number, boolean, or text value) is another list, or sublist. Students will also use a ListPicker component to display the answer choices (the sublist) to the user in a user-friendly way.</p>
+	<p class="overview"><a target="_blank" href="https://runestone.academy/runestone/books/published/mobilecsp/Unit9-Beyond-AP/MC-Quiz-App.html" title="">This lesson</a> introduces the concept of a <i>list of lists</i>, where each item in the outer list (instead of being a number, boolean, or text value) is another list, or sublist. Students will also use a ListPicker component to display the answer choices (the sublist) to the user in a user-friendly way.</p>
 	
 	<table border id="genTable" class="framework" width="100%"></table>
 	
 	<div class="pd yui-wk-div">
 	 <h3>Professional Development</h3> 
 	 <p><b>The Student Lesson:</b> Complete the activities for 
-	   <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=149&amp;lesson=83" target="_blank" title="">Mobile CSP Lesson 9.11 Multiple Choice Quiz App: List of Lists</a>.
+	   <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit9-Beyond-AP/MC-Quiz-App.html" target="_blank" title="">Mobile CSP Lesson 9.11 Multiple Choice Quiz App: List of Lists</a>.
 	 </p>
 	</div>
 	

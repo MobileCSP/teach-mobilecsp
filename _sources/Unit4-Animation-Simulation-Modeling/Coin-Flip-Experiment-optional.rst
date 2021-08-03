@@ -15,18 +15,18 @@ Coin Flip Experiment optional
       });
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=23&amp;lesson=68" target="_blank" title="">This lesson</a> reinforces the enduring understanding that <i>models and simulations use abstraction to generate new understanding and knowledge</i>.  In this case students will use the coin flip model in an experiment that aims to test a hypothesis about the quality of App Inventor's random-number generator.  If App Inventor's random-number generator is a good one, then if you simulate a coin flip many times and keep track of the outcomes, it should come up heads around 50% of the time.  Students will use a pre-built app to run the coin-flip experiment many times and tabulate the results. </p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/Coin-Flip-Experiment-optional.html" target="_blank" title="">This lesson</a> reinforces the enduring understanding that <i>models and simulations use abstraction to generate new understanding and knowledge</i>.  In this case students will use the coin flip model in an experiment that aims to test a hypothesis about the quality of App Inventor's random-number generator.  If App Inventor's random-number generator is a good one, then if you simulate a coin flip many times and keep track of the outcomes, it should come up heads around 50% of the time.  Students will use a pre-built app to run the coin-flip experiment many times and tabulate the results. </p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p>Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=23&amp;lesson=68" target="_blank" title="">Mobile CSP Unit 4 Lesson 4.6: Coin Flip Experiment</a>. 
+    <p>Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/Coin-Flip-Experiment-optional.html" target="_blank" title="">Mobile CSP Unit 4 Lesson 4.6: Coin Flip Experiment</a>. 
     
     </p></div>
     <h3>Materials</h3>
     <ul>
     <li>Access to computer, laptop, or Chromebook (install the Companion app on Chromebooks)</li><li>Access to mobile device with the Companion app installed or access to the emulator installed on the computer or laptop.</li><li>Paper and pencil to record observations or access to a spreadsheet</li>
     <li><a href="https://drive.google.com/open?id=1_NfNLWJxaG4qZ2Jd2x8UctDS05twn1h6p-o3XaAcRv0" target="_blank">POGIL Roles</a></li>
-    <li>Pre-built Coin Flip Experiment app (<a href="https://course.mobilecsp.org/mobilecsp/assets/img/CoinFlipExperimentV1_2019QRCode.png" target="_blank" title="">QR code to download APK</a>)</li>
+    <li>Pre-built Coin Flip Experiment app (<a href="../_static/assets/img/CoinFlipExperimentV1_2019QRCode.png" target="_blank" title="">QR code to download APK</a>)</li>
     <li><i>Optional</i> - <a href="http://ai2.appinventor.mit.edu/?repo=templates.appinventor.mit.edu/trincoll/csp/unit4/templates/CoinFlipExperiment/CoinFlipExperimentV1.asc" target="_blank">Source code for app</a> - If you are using the emulator, you will need to download the source code, open it in AI2, and then run the emulator to use the app.</li>
     </ul>
     

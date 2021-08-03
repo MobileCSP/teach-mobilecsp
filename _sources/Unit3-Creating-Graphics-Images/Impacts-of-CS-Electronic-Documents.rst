@@ -17,14 +17,14 @@ Impacts of CS Electronic Documents
     </script>
     <!-- This is the overview paragraph.  The link URL should be to the corresponding lesson on the student branch. -->
     <p class="overview">
-    <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=143" target="_blank" title="">This lesson</a> focuses on some of the positive and negative implications of the fact that today "it's all bits"  -- i.e., all digital information, including text, pictures, videos, and apps, are represented by binary digits. It focuses on the enduring understanding that variety of abstractions built on binary sequences can be used to represent all digital data.  Students will read a section of the <i>Blown to bits</i> that focuses on digital documents. They'll learn about how <i>meta data</i> in a document can be used to identify who created or modified the document, and how the bits that make up an image can be used to hide secret messages, a technique known as <i>steganography</i>. 
+    <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Impacts-of-CS-Electronic-Documents.html" target="_blank" title="">This lesson</a> focuses on some of the positive and negative implications of the fact that today "it's all bits"  -- i.e., all digital information, including text, pictures, videos, and apps, are represented by binary digits. It focuses on the enduring understanding that variety of abstractions built on binary sequences can be used to represent all digital data.  Students will read a section of the <i>Blown to bits</i> that focuses on digital documents. They'll learn about how <i>meta data</i> in a document can be used to identify who created or modified the document, and how the bits that make up an image can be used to hide secret messages, a technique known as <i>steganography</i>. 
     </p>
     <!-- This is the framework table, where we describe how this lesson fits into the CSP framework.  -->
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson:</b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=143" target="_blank" title="">Mobile CSP Unit 3 Lesson 3.10: Blown to Bits: Electronic Documents</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Impacts-of-CS-Electronic-Documents.html" target="_blank" title="">Mobile CSP Unit 3 Lesson 3.10: Blown to Bits: Electronic Documents</a>.
       </p>
     </div>
     <h3>Materials</h3>

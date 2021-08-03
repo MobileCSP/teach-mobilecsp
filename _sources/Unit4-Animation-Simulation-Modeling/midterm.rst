@@ -2,8 +2,8 @@
 
     <a href="../index.html"><img class="align-center" src="../_static/MobileCSPLogo.png" width="250px"/></a>
 
-Exam 1 - Midterm
-=====================
+ASSESSMENT: Exam 1 - Midterm
+=============================
 
 
 1. Complete the Student Activities
@@ -11,7 +11,7 @@ Exam 1 - Midterm
 
 .. raw:: html
 
-	<p>Review the information on the <a href="../mobilecsp/assessment?name=125" target="_blank">midterm exam</a>. 
+	<p>Review the information on the <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/midterm.html" target="_blank">midterm exam</a>. 
 	</p>
 	
 2. Review the Lesson Plan

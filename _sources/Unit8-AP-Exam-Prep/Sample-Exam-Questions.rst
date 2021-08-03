@@ -10,5 +10,5 @@ AP CS Principles Exam Prep
 
 .. raw:: html
 
-	<p>Review the activities for <a href="../mobilecsp/unit?unit=127&lesson=131" target="_blank">Unit 8: Lesson 8.6 Sample Exam Questions</a>. 
+	<p>Review the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit8-AP-Exam-Prep/Sample-Exam-Questions.html" target="_blank">Unit 8: Lesson 8.6 Sample Exam Questions</a>. 
 	</p>

@@ -23,7 +23,7 @@ Tracing Pseudocode Exercises
 	
 	</script>
 	
-	<p class="overview"><a target="_blank" href="https://course.mobilecsp.org/mobilecsp/unit?unit=127&amp;lesson=185" title="">This lesson</a> provides students with an opportunity to practice tracing pseudocode.
+	<p class="overview"><a target="_blank" href="https://runestone.academy/runestone/books/published/mobilecsp/Unit8-AP-Exam-Prep/Tracing-Exercises.html" title="">This lesson</a> provides students with an opportunity to practice tracing pseudocode.
 	</p>
 	
 	<table border id="genTable" class="framework" width="100%"></table>
@@ -31,7 +31,7 @@ Tracing Pseudocode Exercises
 	<div class="pd yui-wk-div">
 	 <h3>Professional Development</h3>  
 	 <p><b>The Student Lesson: </b> Complete the activities for 
-	   <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=127&amp;lesson=185" target="_blank" title="">Mobile CSP Unit 8 Lesson 8.5: Tracing Pseudocode Exercises</a>.
+	   <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit8-AP-Exam-Prep/Tracing-Exercises.html" target="_blank" title="">Mobile CSP Unit 8 Lesson 8.5: Tracing Pseudocode Exercises</a>.
 	 </p>
 	</div>
 	

@@ -10,7 +10,7 @@ PD Advocacy  Recruiting
         <div class="gcb-lesson-content" data-question-batch-id="L67" data-scored="False">
     
 
-AP<sup>®</sup> Equity and Access Policy
+AP® Equity and Access Policy
 ----------------------------------------
 
 .. raw:: html
@@ -52,5 +52,5 @@ Actively Recruiting Students
     <li>Materials for Counselors: <a href="https://www.ncwit.org/project/counselors-computing-c4c" target="_blank">NCWIT's Counselors for Computing</a></li>
     <li><a href="https://youtu.be/oN7prS7pBL8" target="_blank">Webinar</a> on active recruiting strategies and Counselors 4 Computing materials</li>
     </ul>
-    <p>More detailed information on active recruiting, including appropriate messages to use, is available in <a href="https://course.mobilecsp.org/teach_mobilecsp/unit?unit=178&amp;lesson=117" target="_blank" title="">Unit 10: Inclusive and Effective CS Teaching</a>.</p>
+    <p>More detailed information on active recruiting, including appropriate messages to use, is available in <a href="https://runestone.academy/runestone/books/published/teach-mobilecsp/Unit10-Inclusive-Teaching/Inclusive-CS-Teaching.html" target="_blank" title="">Unit 10: Inclusive and Effective CS Teaching</a>.</p>
     </div>

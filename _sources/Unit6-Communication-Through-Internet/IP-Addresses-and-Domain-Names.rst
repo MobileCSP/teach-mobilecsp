@@ -15,11 +15,11 @@ IP Addresses and Domain Names
       }); 
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=25&amp;lesson=190" target="_blank" title="">This lesson</a> has students use a DNS simulator app to send messages to other clients on a router. They learn about DNS, IP addresses, and packets. </p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit6-Communication-Through-Internet/IP-Addresses-and-Domain-Names.html" target="_blank" title="">This lesson</a> has students use a DNS simulator app to send messages to other clients on a router. They learn about DNS, IP addresses, and packets. </p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=25&amp;lesson=190" target="_blank" title="">Mobile CSP Unit 6: Lesson 6.4 IP Addresses and Domain Names</a>.
+    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit6-Communication-Through-Internet/IP-Addresses-and-Domain-Names.html" target="_blank" title="">Mobile CSP Unit 6: Lesson 6.4 IP Addresses and Domain Names</a>.
       </p>
     </div>
     <h3>Materials</h3>

@@ -23,13 +23,13 @@ No Texting While Busy Tutorial (Optional)
 	
 	</script>
 	
-	<p class="overview"><a target="_blank" href="https://course.mobilecsp.org/mobilecsp/unit?unit=149&amp;lesson=110" title="">This lesson</a> explroes the use of the texting component in App Inventor. Specifically, it shows how it can be used to solve a problem — texting while driving — that can cause car accidents. </p>
+	<p class="overview"><a target="_blank" href="https://runestone.academy/runestone/books/published/mobilecsp/Unit9-Beyond-AP/No-Texting-App.html" title="">This lesson</a> explroes the use of the texting component in App Inventor. Specifically, it shows how it can be used to solve a problem — texting while driving — that can cause car accidents. </p>
 	
 	<table border id="genTable" class="framework" width="100%"></table>
 	
 	<div class="pd yui-wk-div">
 	 <h3>Professional Development</h3> 
-	 <p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobileCSP/unit?unit=25&amp;lesson=110" target="_blank" title="">Mobile CSP Lesson 9.12 No Texting While Busy Tutorial</a>.
+	 <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit9-Beyond-AP/No-Texting-App.html" target="_blank" title="">Mobile CSP Lesson 9.12 No Texting While Busy Tutorial</a>.
 	 </p>
 	</div>
 	

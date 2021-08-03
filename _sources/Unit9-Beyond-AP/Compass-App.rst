@@ -25,7 +25,7 @@ Where is North: A Compass App (Optional)
 	
 	<!-- This is the overview paragraph.  The link URL should be to the corresponding lesson on the student branch. -->
 	<p class="overview">
-	 <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=149&amp;lesson=103" target="_blank" title="">This lesson</a> provides an introduction to the Global Positioning System (GPS) as well as how to handle the complexity of many different screen sizes when designing mobile apps. It reinforces the enduring understandings of writing programs to execute algorithms, such as computing the center of a screen's width, as well as demonstrates how the GPS system in the app allows users to interact with their environment. The follow-up lesson is the My Directions Tutorial in Unit 7 which covers how to build an app that uses a Location sensor and Google Maps to get directions from a current location. The Walking Tour app in Unit 3 also reinforces the concept of GPS and identifying locations on a map.
+	 <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit9-Beyond-AP/Compass-App.html" target="_blank" title="">This lesson</a> provides an introduction to the Global Positioning System (GPS) as well as how to handle the complexity of many different screen sizes when designing mobile apps. It reinforces the enduring understandings of writing programs to execute algorithms, such as computing the center of a screen's width, as well as demonstrates how the GPS system in the app allows users to interact with their environment. The follow-up lesson is the My Directions Tutorial in Unit 7 which covers how to build an app that uses a Location sensor and Google Maps to get directions from a current location. The Walking Tour app in Unit 3 also reinforces the concept of GPS and identifying locations on a map.
 	</p>
 	
 	<!-- This is the framework table, where we describe how this lesson fits into the CSP framework.  --> 
@@ -38,7 +38,7 @@ Where is North: A Compass App (Optional)
 	<div class="pd yui-wk-div">
 	 <h4>PROFESSIONAL DEVELOPMENT</h4> 
 	 <p><b>The Student Lesson: </b> Complete the activities for 
-	   <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=149&amp;lesson=103" target="_blank" title="">Mobile CSP Lesson 9.7: Where is North? A Compass App</a>.
+	   <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit9-Beyond-AP/Compass-App.html" target="_blank" title="">Mobile CSP Lesson 9.7: Where is North? A Compass App</a>.
 	 </p>
 	</div>
 	

@@ -15,7 +15,7 @@ I Have a Dream Tutorial
       }); 
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=1&amp;lesson=45" target="_blank" title="">This lesson</a> engages the student in an instructor-led App Inventor tutorial that leads to the creation of a simple sound board app to play Martin Luther King's 'I Have a Dream Speech'.  This is a great example of a socially-useful app which provides multimedia education on African-American history and the civil rights movement. It reinforces the enduring understanding that programs are developed by people for different purposes, including creative expression. In this first app, they also learn about App Inventor's event-driven programming model. Students test the correctness of their program by ensuring the speech plays when the button is pressed.</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/I-Have-a-Dream-Tutorial.html" target="_blank" title="">This lesson</a> engages the student in an instructor-led App Inventor tutorial that leads to the creation of a simple sound board app to play Martin Luther King's 'I Have a Dream Speech'.  This is a great example of a socially-useful app which provides multimedia education on African-American history and the civil rights movement. It reinforces the enduring understanding that programs are developed by people for different purposes, including creative expression. In this first app, they also learn about App Inventor's event-driven programming model. Students test the correctness of their program by ensuring the speech plays when the button is pressed.</p>
     <table border="" class="framework" id="genTable" width="100%"></table> <p>
     <!--
     &lt;table class=&quot;framework&quot;&gt;
@@ -77,7 +77,7 @@ I Have a Dream Tutorial
     -->
     </p><div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=1&amp;lesson=45" target="_blank" title="">Unit 2 Lesson 2.2: I Have a Dream Tutorial</a>. 
+    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/I-Have-a-Dream-Tutorial.html" target="_blank" title="">Unit 2 Lesson 2.2: I Have a Dream Tutorial</a>. 
     </p>
     </div>
     <h3>Materials</h3>

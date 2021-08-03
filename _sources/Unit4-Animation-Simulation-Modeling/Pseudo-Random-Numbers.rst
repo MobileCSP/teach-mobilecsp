@@ -15,11 +15,11 @@ Pseudo Random Numbers
       }); 
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=23&amp;lesson=65" target="_blank" title="">This lesson</a> describes how computers <i><b>model</b></i> randomness using relatively simple mathematical functions, such as modular arithmetic (sometimes called clock arithmetic).  It reinforces the enduring understanding that models use abstractions — in this case mathematical constructs — to represent phenomena.</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/Pseudo-Random-Numbers.html" target="_blank" title="">This lesson</a> describes how computers <i><b>model</b></i> randomness using relatively simple mathematical functions, such as modular arithmetic (sometimes called clock arithmetic).  It reinforces the enduring understanding that models use abstractions — in this case mathematical constructs — to represent phenomena.</p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p>Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=23&amp;lesson=65" target="_blank" title="">Mobile CSP Unit 4 Lesson 4.7: Pseudo Random Numbers</a>. 
+    <p>Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/Pseudo-Random-Numbers.html" target="_blank" title="">Mobile CSP Unit 4 Lesson 4.7: Pseudo Random Numbers</a>. 
     
     </p></div>
     <h3>Materials</h3>

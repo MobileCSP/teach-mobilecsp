@@ -14,12 +14,12 @@ Sorting Algorithms
           generateHovers();
       });
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=24&amp;lesson=76" target="_blank" title="">This lesson</a> introduces sorting algorithms, a frequently used algorithm in programming for processing data sets. It is also an introduction to the relative efficiencies of different algorithms that solve the same problem.</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit5-Algorithms-Procedural-Abstraction/Sorting-Algorithms.html" target="_blank" title="">This lesson</a> introduces sorting algorithms, a frequently used algorithm in programming for processing data sets. It is also an introduction to the relative efficiencies of different algorithms that solve the same problem.</p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson:</b> Complete the activities for 
-        Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=24&amp;lesson=76" target="_blank" title="">Mobile CSP Unit 5 Lesson 5.4: Sorting Algorithms</a>.
+        Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit5-Algorithms-Procedural-Abstraction/Sorting-Algorithms.html" target="_blank" title="">Mobile CSP Unit 5 Lesson 5.4: Sorting Algorithms</a>.
       </p>
     </div>
     <h3>Materials</h3>

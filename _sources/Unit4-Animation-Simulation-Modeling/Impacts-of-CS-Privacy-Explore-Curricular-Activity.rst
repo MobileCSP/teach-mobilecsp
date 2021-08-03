@@ -15,12 +15,12 @@ Impacts of CS Privacy  Explore Curricular Activity
       }); 
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=23&amp;lesson=109" target="_blank" title="">This lesson</a> focuses on the global impact issue of <i>privacy</i> and <i>security</i>.  Students are encouraged to think more deeply about the data trails that they leave as they use computers and what their responsibilities are while developing mobile apps. There is an optional debate activity where students can delve deeper into the topic of privacy.</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/Impacts-of-CS-Privacy-Explore-Curricular-Activity.html" target="_blank" title="">This lesson</a> focuses on the global impact issue of <i>privacy</i> and <i>security</i>.  Students are encouraged to think more deeply about the data trails that they leave as they use computers and what their responsibilities are while developing mobile apps. There is an optional debate activity where students can delve deeper into the topic of privacy.</p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson: </b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=23&amp;lesson=109" target="_blank" title="">Mobile CSP Unit 4 Lesson 4.10: Impacts of CS: Privacy</a></p>
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/Impacts-of-CS-Privacy-Explore-Curricular-Activity.html" target="_blank" title="">Mobile CSP Unit 4 Lesson 4.10: Impacts of CS: Privacy</a></p>
     </div>
     <h3>Materials</h3>
     <ul>

@@ -15,12 +15,12 @@ Parity Error Checking optional
       });
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=30" target="_blank" title="">This lesson</a> is a follow up to the error detection card trick lesson.  It introduces the technical concept of <i>parity error checking</i> where redundant bits added to a data representation can be used to detect certain types of errors. It reinforces the enduring understanding that binary sequences are used to represent and transmit all digital data. </p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Parity-Error-Checking-optional.html" target="_blank" title="">This lesson</a> is a follow up to the error detection card trick lesson.  It introduces the technical concept of <i>parity error checking</i> where redundant bits added to a data representation can be used to detect certain types of errors. It reinforces the enduring understanding that binary sequences are used to represent and transmit all digital data. </p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson: </b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=30" target="_blank" title="">Mobile CSP Unit 3 Lesson 3.6: Parity Error Checking</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Parity-Error-Checking-optional.html" target="_blank" title="">Mobile CSP Unit 3 Lesson 3.6: Parity Error Checking</a>.
       </p>
     </div>
     <h3>Materials</h3>

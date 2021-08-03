@@ -15,11 +15,11 @@ Cryptography Securing the Internet
       }); 
     
     </script>
-    <p class="overview"><a href="../mobilecsp/unit?unit=25&amp;lesson=108" target="_blank">This lesson</a> continues the topic of cryptography, examining cryptographic techniques used to secure data on the Internet. A key concept introduced is that of public and private keys and combining them to ensure secure communication.</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit6-Communication-Through-Internet/Cryptography-Securing-the-Internet.html" target="_blank">This lesson</a> continues the topic of cryptography, examining cryptographic techniques used to secure data on the Internet. A key concept introduced is that of public and private keys and combining them to ensure secure communication.</p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Complete the activities for <a href="../mobilecsp/unit?unit=25&amp;lesson=108" target="_blank">Unit 6: Lesson 6.7 Cryptography: Securing the Internet</a>. 
+    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit6-Communication-Through-Internet/Cryptography-Securing-the-Internet.html" target="_blank">Unit 6: Lesson 6.7 Cryptography: Securing the Internet</a>. 
       </p>
     </div>
     <h3>Materials</h3>

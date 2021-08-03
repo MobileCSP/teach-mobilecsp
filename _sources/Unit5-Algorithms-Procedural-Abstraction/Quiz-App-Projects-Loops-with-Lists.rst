@@ -15,12 +15,12 @@ Quiz App Projects  Loops with Lists
       }); 
     
     </script>
-    <p class="overview"><a href="../mobilecsp/unit?unit=24&amp;lesson=82" target="_blank" title="">This lesson</a> reinforces the use of if/else statements and lists to keep accurate score in the Quiz app and introduces loops with lists by adding a search function which also uses a procedure with a parameter. Students are also given an opportunity to express their creativity by creating their own version of a quiz app on a different topic, and by adding an enhancement of their choosing to the app. The AP CSP pseudocode for lists is also reviewed.</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit5-Algorithms-Procedural-Abstraction/Quiz-App-Projects-Loops-with-Lists.html" target="_blank" title="">This lesson</a> reinforces the use of if/else statements and lists to keep accurate score in the Quiz app and introduces loops with lists by adding a search function which also uses a procedure with a parameter. Students are also given an opportunity to express their creativity by creating their own version of a quiz app on a different topic, and by adding an enhancement of their choosing to the app. The AP CSP pseudocode for lists is also reviewed.</p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson:</b> Complete the activities for 
-        <a href="../mobilecsp/unit?unit=24&amp;lesson=82" target="_blank" title="">Mobile CSP Unit 5: Lesson 5.6 Quiz App Projects</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit5-Algorithms-Procedural-Abstraction/Quiz-App-Projects-Loops-with-Lists.html" target="_blank" title="">Mobile CSP Unit 5: Lesson 5.6 Quiz App Projects</a>.
       </p>
     </div>
     <h3>Materials</h3>

@@ -2,8 +2,8 @@
 
     <a href="../index.html"><img class="align-center" src="../_static/MobileCSPLogo.png" width="250px"/></a>
 
-NonAP Explore Impact of Computing Innovations  INSTRUCTOR MATERIALS
-===================================================================
+ASSESSMENT: Non-AP Explore Impact of Computing Innovations (INSTRUCTOR MATERIALS)
+==================================================================================
 
 .. raw:: html
 
@@ -19,10 +19,10 @@ NonAP Explore Impact of Computing Innovations  INSTRUCTOR MATERIALS
       });
     </script>
     <p class="overview">
-    <a href="https://course.mobilecsp.org/mobilecsp/assessment?name=211" target="_blank" title="">This assessment</a> is a Non-AP Explore impact of a computing innovation project. In this project, students work independently to research a computing innovation related to mobile apps that has had significant impact (both positive and negative) on our society. This includes finding credible, reliable, and recent sources, as well as answering a series of prompts about their chosen innovation. Students then create a computational artifact that demonstrates what they learned about one or more of the effects of the innovation. You may choose to do this project in small groups or as a class.</p>
+    <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit6-Communication-Through-Internet/nonap_explore.html" target="_blank" title="">This assessment</a> is a Non-AP Explore impact of a computing innovation project. In this project, students work independently to research a computing innovation related to mobile apps that has had significant impact (both positive and negative) on our society. This includes finding credible, reliable, and recent sources, as well as answering a series of prompts about their chosen innovation. Students then create a computational artifact that demonstrates what they learned about one or more of the effects of the innovation. You may choose to do this project in small groups or as a class.</p>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Read and review the student activities for the <a href="https://course.mobilecsp.org/mobilecsp/assessment?name=211" target="_blank" title="">Mobile CSP Non-AP Explore: Impact of Computing Innovations assessment</a>.</p>
+    <p><b>The Student Lesson:</b> Read and review the student activities for the <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit6-Communication-Through-Internet/nonap_explore.html" target="_blank" title="">Mobile CSP Non-AP Explore: Impact of Computing Innovations assessment</a>.</p>
     </div>
     <h3>Materials</h3>
     <ul>

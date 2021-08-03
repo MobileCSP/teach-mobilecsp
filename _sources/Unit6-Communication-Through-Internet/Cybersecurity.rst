@@ -14,12 +14,12 @@ Cybersecurity
           generateHovers();
       });  
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=25&amp;lesson=212" target="_blank" title="">This lesson</a> introduces concepts and terminology involved with computer security - how computer systems and data are kept safe. <i>Multi-factor authentication</i> is introduced and explained.</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit6-Communication-Through-Internet/Cybersecurity.html" target="_blank" title="">This lesson</a> introduces concepts and terminology involved with computer security - how computer systems and data are kept safe. <i>Multi-factor authentication</i> is introduced and explained.</p>
     <table border="" class="framework" id="genTable" width="100%">
     </table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Complete the activities for the student lesson.</p>
+    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit6-Communication-Through-Internet/Cybersecurity.html" target="_blank" title="">Mobile CSP Unit 6: Lesson 6.9 Cybersecurity</a></p>
     </div>
     <h3>Materials</h3>
     <ul>

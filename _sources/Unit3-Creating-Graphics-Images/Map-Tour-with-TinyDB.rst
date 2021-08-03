@@ -15,12 +15,12 @@ Map Tour with TinyDB
       });
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=187" target="_blank" title="">This lesson</a> introduces the concept of <i>persistent storage</i> in apps by storing the destinations lists in the Map Tour app in a database called TinyDB, so that it is remembered from the last run of the app. It reinforces the enduring understanding that there are trade-offs in representing digital data, in this case, the differences between storing data in memory (variables) versus persistently (TinyDB).</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Map-Tour-With-TinyDB.html" target="_blank" title="">This lesson</a> introduces the concept of <i>persistent storage</i> in apps by storing the destinations lists in the Map Tour app in a database called TinyDB, so that it is remembered from the last run of the app. It reinforces the enduring understanding that there are trade-offs in representing digital data, in this case, the differences between storing data in memory (variables) versus persistently (TinyDB).</p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson:</b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=187" target="_blank" title="">Mobile CSP Unit 3 Lesson 3.9: Map Tour with TinyDB </a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Map-Tour-With-TinyDB.html" target="_blank" title="">Mobile CSP Unit 3 Lesson 3.9: Map Tour with TinyDB </a>.
       </p>
     </div>
     <h3>Materials</h3>

@@ -15,11 +15,11 @@ Analyzing Algorithms
       }); 
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=24&amp;lesson=95" target="_blank" title="">This lesson</a> has students compare the efficiences of searching and sorting algorithms. Students need to reason about the algorithms and evaluate the experimental data to evaluate their efficiency.</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit5-Algorithms-Procedural-Abstraction/Analyzing-Algorithms.html" target="_blank" title="">This lesson</a> has students compare the efficiences of searching and sorting algorithms. Students need to reason about the algorithms and evaluate the experimental data to evaluate their efficiency.</p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=24&amp;lesson=95" target="_blank" title="">Mobile CSP Unit 5: Lesson 5.7 Analyzing Algorithms</a>.
+    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit5-Algorithms-Procedural-Abstraction/Analyzing-Algorithms.html" target="_blank" title="">Mobile CSP Unit 5: Lesson 5.7 Analyzing Algorithms</a>.
       </p>
     </div>
     <h3>Materials</h3>

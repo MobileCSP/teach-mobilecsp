@@ -16,14 +16,14 @@ The Internet and the Cloud  Explore Curricular Activity
     </script>
     <!-- This is the overview paragraph.  The link URL should be to the corresponding lesson on the student branch. -->
     <p class="overview">
-    <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=1&amp;lesson=146" target="_blank" title="">This lesson </a> 
+    <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/The-Internet-and-the-Cloud-Explore-Curricular-Activity.html" target="_blank" title="">This lesson </a> 
       introduces students to basic concepts of the Internet and cloud computing. The students will complete a group work activity using the POGIL structure. The activities reinforce the enduring understanding that the Internet  and  cloud computing affects how we communicate and interact.
     </p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson:</b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=1&amp;lesson=146" target="_blank" title="">Mobile CSP Unit 2 Lesson 2.6: The Internet and the Cloud</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/The-Internet-and-the-Cloud-Explore-Curricular-Activity.html" target="_blank" title="">Mobile CSP Unit 2 Lesson 2.6: The Internet and the Cloud</a>.
       </p>
     </div>
     <h3>Materials</h3>

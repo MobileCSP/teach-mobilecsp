@@ -17,7 +17,7 @@ Hardware Abstractions Logic Gates
     </script>
     <!-- This is the overview paragraph.  The link URL should be to the corresponding lesson on the student branch. -->
     <p class="overview">
-    <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=1&amp;lesson=156" target="_blank" title="">This lesson </a> provides a second look at computer hardware and software. It drills deeper into the various abstraction levels that make up computer systems.  On the hardware side students are introduced to low-level examples such as gates and flip-flops.  Students see that at the very lowest level computer circuits are made up of logical elements that obey Boolean logic.  On the software side students are introduced to the distinction between high-level languages, such as App Inventor and Python, and low-level machine language, which is based on the binary system (0s and 1s). This lesson reinforces the enduring understanding that multiple levels of abstraction are used in both hardware and software. 
+    <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/Hardware-Abstractions-Logic-Gates.html" target="_blank" title="">This lesson </a> provides a second look at computer hardware and software. It drills deeper into the various abstraction levels that make up computer systems.  On the hardware side students are introduced to low-level examples such as gates and flip-flops.  Students see that at the very lowest level computer circuits are made up of logical elements that obey Boolean logic.  On the software side students are introduced to the distinction between high-level languages, such as App Inventor and Python, and low-level machine language, which is based on the binary system (0s and 1s). This lesson reinforces the enduring understanding that multiple levels of abstraction are used in both hardware and software. 
     </p>
     <!-- This is the framework table, where we describe how this lesson fits into the CSP framework.  -->
     <table border="" class="framework" id="genTable" width="100%"></table>
@@ -26,7 +26,7 @@ Hardware Abstractions Logic Gates
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson: </b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=1&amp;lesson=156" target="_blank" title="">Mobile CSP Unit 2 Lesson 2.10: Hardware and Software Abstractions</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/Hardware-Abstractions-Logic-Gates.html" target="_blank" title="">Mobile CSP Unit 2 Lesson 2.10: Hardware and Software Abstractions</a>.
       </p>
     </div>
     <h3>Materials</h3><p></p><ul><li>Projection system</li><li>Access to computer, laptop, or Chromebook (install the Companion app on Chromebooks)</li><li><a href="https://docs.google.com/presentation/d/1yHx42yEaUzLurEuBOzQWvb0KS3oBsM7xhDh2lETod3M/" target="_blank" title="">Slides</a><br/></li><li>Access to <a href="http://logic.ly/lessons/" target="_blank">Logicly</a></li><li><a href="https://drive.google.com/open?id=1_NfNLWJxaG4qZ2Jd2x8UctDS05twn1h6p-o3XaAcRv0" target="_blank">POGIL Role Cards</a><br/></li></ul><p></p>

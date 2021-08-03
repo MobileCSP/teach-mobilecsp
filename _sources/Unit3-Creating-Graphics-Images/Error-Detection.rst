@@ -15,13 +15,13 @@ Error Detection
       });
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=37" target="_blank" title="">This lesson</a>, which is adapted from <a href="http://csunplugged.org/error-detection/" target="_blank">Computer Science Unplugged</a>, uses a card trick to illustrate how extra bits in a binary sequence can be used to detect certain kinds of errors.  It reinforces the enduring understanding that a variety of abstractions built upon binary sequences can be used to represent all digital data. </p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Error-Detection.html" target="_blank" title="">This lesson</a>, which is adapted from <a href="http://csunplugged.org/error-detection/" target="_blank">Computer Science Unplugged</a>, uses a card trick to illustrate how extra bits in a binary sequence can be used to detect certain kinds of errors.  It reinforces the enduring understanding that a variety of abstractions built upon binary sequences can be used to represent all digital data. </p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <!--   End of Framework table. -->
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson: </b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=37" target="_blank" title="">Mobile CSP Unit 3 Lesson 3.6: Error Detection</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Error-Detection.html" target="_blank" title="">Mobile CSP Unit 3 Lesson 3.6: Error Detection</a>.
       </p>
     </div>
     <h3>Materials</h3>

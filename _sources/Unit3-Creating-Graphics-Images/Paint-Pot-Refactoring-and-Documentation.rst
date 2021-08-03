@@ -15,13 +15,13 @@ Paint Pot Refactoring and Documentation
       });
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=164" target="_blank" title="">This lesson</a> modifies the app enhanced in the 'Paint Pot Projects', not to change any functionality, but to improve the code, a process called <i>refactoring</i>. In this case we will introduce the concept of a <i>programmer-defined procedure</i> that will help reduce the complexity of our code and make it easier to read and maintain. A <i>procedure</i> is a named grouping of instructions that can be used where needed in a program by invoking its name. This is known as 'calling a procedure.' This lesson reinforces the enduring understanding that procedures are useful abstractions that are used by programmers to structure and simplify programs (procedural abstraction). We will also add comments as a way of documenting the purpose of the procedure.</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Paint-Pot-Refactoring-and-Procedural-Abstraction.html" target="_blank" title="">This lesson</a> modifies the app enhanced in the 'Paint Pot Projects', not to change any functionality, but to improve the code, a process called <i>refactoring</i>. In this case we will introduce the concept of a <i>programmer-defined procedure</i> that will help reduce the complexity of our code and make it easier to read and maintain. A <i>procedure</i> is a named grouping of instructions that can be used where needed in a program by invoking its name. This is known as 'calling a procedure.' This lesson reinforces the enduring understanding that procedures are useful abstractions that are used by programmers to structure and simplify programs (procedural abstraction). We will also add comments as a way of documenting the purpose of the procedure.</p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <!--   End of Framework table. -->
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson: </b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=164" target="_blank" title="">Mobile CSP Unit 3 Lesson 3.5: Paint Pot Refactoring and Documentation</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Paint-Pot-Refactoring-and-Procedural-Abstraction.html" target="_blank" title="">Mobile CSP Unit 3 Lesson 3.5: Paint Pot Refactoring and Documentation</a>.
       </p>
     </div>
     <h3>Materials</h3>

@@ -14,11 +14,11 @@ Impacts of CS Crowdsourcing with Citizen Science Apps
           generateHovers();
       }); 
     </script>
-    <p class="overview"><a href="../mobilecsp/unit?unit=25&amp;lesson=163" target="_blank">This lesson</a> explores a computing innovation, citizen science apps, which use crowdsourcing to solve science problems. This lesson also gives students an opportunity to practice analyzing a computing innovation for its purpose, the data it uses and produces, and potential beneficial and harmful effects. </p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit6-Communication-Through-Internet/Impacts-of-CS-Crowdsourcing-with-Citizen-Science-Apps.html" target="_blank">This lesson</a> explores a computing innovation, citizen science apps, which use crowdsourcing to solve science problems. This lesson also gives students an opportunity to practice analyzing a computing innovation for its purpose, the data it uses and produces, and potential beneficial and harmful effects. </p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Complete the activities for <a href="../mobilecsp/unit?unit=25&amp;lesson=163" target="_blank">Mobile CSP Unit 6: Lesson 6.10 Impacts of CS: Crowdsourcing with Citizen Science Apps</a>.
+    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit6-Communication-Through-Internet/Impacts-of-CS-Crowdsourcing-with-Citizen-Science-Apps.html" target="_blank">Mobile CSP Unit 6: Lesson 6.10 Impacts of CS: Crowdsourcing with Citizen Science Apps</a>.
       </p>
     </div>
     <h3>Materials</h3>

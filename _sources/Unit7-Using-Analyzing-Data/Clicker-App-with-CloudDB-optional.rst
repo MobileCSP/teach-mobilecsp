@@ -15,11 +15,11 @@ Clicker App with CloudDB optional
       }); 
     
     </script>
-    <p class="overview">In <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=26&amp;lesson=196" target="_blank" title="">this lesson</a>, students create a clicker app to respond thumbs up or thumbs down to a question. CloudDB is used to keep track of the responses.</p>
+    <p class="overview">In <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Clicker-App-with-CloudDB-optional.html" target="_blank" title="">this lesson</a>, students create a clicker app to respond thumbs up or thumbs down to a question. CloudDB is used to keep track of the responses.</p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=26&amp;lesson=196" target="_blank" title="">Mobile CSP Unit 7: Lesson 7.6 Clicker App with CloudDB</a>.
+    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Clicker-App-with-CloudDB-optional.html" target="_blank" title="">Mobile CSP Unit 7: Lesson 7.6 Clicker App with CloudDB</a>.
       </p>
     </div>
     <h3>Materials</h3><ul>

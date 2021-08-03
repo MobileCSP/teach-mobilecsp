@@ -17,7 +17,7 @@ What is Abstraction
     </script>
     <!-- This is the overview paragraph.  The link URL should be to the corresponding lesson on the student branch. -->
     <p class="overview">
-    <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=1&amp;lesson=61" target="_blank" title="">This lesson </a> 
+    <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/What-is-Abstraction.html" target="_blank" title="">This lesson </a> 
       introduces the concept of abstraction, which is one of the seven big ideas.  This will be one of many lessons in the course that focuses on abstraction.  In this first look, the focus is on the everyday concept and promotes the idea hat the process of abstraction is a fundamental element of human thought and language.  Through a number of examples of abstraction in everyday life as well as in computing, students explore and reflect on what abstraction is and how it is exemplified in their own worlds.  This lesson also makes an initial connection to how abstraction is used in programming. The examples of an App Inventor variable and an App Inventor procedure are shown as examples of <i>data abstraction</i> and <i>procedural abstraction</i> respectively, thereby reinforcing the enduring understanding that abstractions are a fundamental element of building computer programs and other computational artifacts. 
     </p>
     <!-- This is the framework table, where we describe how this lesson fits into the CSP framework.  -->
@@ -25,7 +25,7 @@ What is Abstraction
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson: </b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=1&amp;lesson=61" target="_blank" title="">Mobile CSP Unit 2 Lesson 2.8: What is abstraction?</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/What-is-Abstraction.html" target="_blank" title="">Mobile CSP Unit 2 Lesson 2.8: What is abstraction?</a>.
       </p>
     </div>
     <h3>Materials</h3>

@@ -15,11 +15,11 @@ Caesar Cipher App
       }); 
     
     </script>
-    <p class="overview"><a href="../mobilecsp/unit?unit=25&amp;lesson=173" target="_blank" title="">This lesson</a> provides an opportunity to use more complex algorithms and introduces functions and local variables.    </p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit6-Communication-Through-Internet/Caesar-Cipher-App.html" target="_blank" title="">This lesson</a> provides an opportunity to use more complex algorithms and introduces functions and local variables.    </p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
-    <p><b>The Student Lesson:</b> Complete the activities for <a href="../mobilecsp/unit?unit=25&amp;lesson=173" target="_blank" title="">Mobile CSP Unit 6: Lesson 6.5 Caesar Cipher App</a>.
+    <p><b>The Student Lesson:</b> Complete the activities for <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit6-Communication-Through-Internet/Caesar-Cipher-App.html" target="_blank" title="">Mobile CSP Unit 6: Lesson 6.5 Caesar Cipher App</a>.
       </p>
     </div>
     <h3>Materials</h3>

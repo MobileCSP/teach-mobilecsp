@@ -15,7 +15,7 @@ Paint Pot Projects
       }); 
     
     </script>
-    <p class="overview"><a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=151" target="_blank" title="">This lesson</a> extends the app started in the 'Paint Pot Tutorial'.  Students work in pairs to complete several challenges to enhance the app, such as adding a 4th button and changing the size of the dots, and using the Camera component to replace the Canvas's background image. It reinforces the enduring understandings that programming can be used for creative expression and that collaborating (working in pairs) is an effective way to solve problems. Among other things, it reinforces the enduring understandings that the correct use iterative design and selection are important parts of computer programming. </p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Paint-Pot-Projects.html" target="_blank" title="">This lesson</a> extends the app started in the 'Paint Pot Tutorial'.  Students work in pairs to complete several challenges to enhance the app, such as adding a 4th button and changing the size of the dots, and using the Camera component to replace the Canvas's background image. It reinforces the enduring understandings that programming can be used for creative expression and that collaborating (working in pairs) is an effective way to solve problems. Among other things, it reinforces the enduring understandings that the correct use iterative design and selection are important parts of computer programming. </p>
     <table border="" class="framework" id="genTable" width="100%"></table> <p>
     <!--
     &lt;table class=&quot;framework&quot;&gt;
@@ -200,7 +200,7 @@ Paint Pot Projects
     </p><div class="pd yui-wk-div">
     <h3>Professional Development</h3>
     <p><b>The Student Lesson: </b> Complete the activities for 
-        <a href="https://course.mobilecsp.org/mobilecsp/unit?unit=22&amp;lesson=151" target="_blank" title="">Mobile CSP Unit 3 Lesson 3.4: Paint Pot Projects</a>.
+        <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Paint-Pot-Projects.html" target="_blank" title="">Mobile CSP Unit 3 Lesson 3.4: Paint Pot Projects</a>.
       </p>
     </div>
     <h3>Materials</h3>
