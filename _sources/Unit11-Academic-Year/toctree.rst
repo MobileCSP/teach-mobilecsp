@@ -11,7 +11,7 @@ Academic Year
 
 
 	AY-Support.rst
-	Using-Online-Course.rst
+	Using-Instructor-Dashboard.rst
 	Solutions.rst
 	Earning-Grad-Credit.rst
 	Course-Updates.rst
