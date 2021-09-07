@@ -17,3 +17,22 @@ td {
      text-align: left; 
      padding: 5px;
 }
+
+div.pogil table { 
+  border-collapse: collapse; 
+  background-color: lightgrey; 
+}
+
+div.logo-header { 
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+
+div#teacher-logo { 
+  background-color: #70D549;
+}
+
+div#student-logo { 
+  background-color: #00B3E3;
+}
