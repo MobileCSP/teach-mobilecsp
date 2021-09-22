@@ -27,7 +27,7 @@ The Internet and the Cloud  Explore Curricular Activity
       </p>
     </div>
     <h3>Materials</h3>
-    <p></p><ul><li>Access to computer, laptop, or Chromebook (install the Companion app on Chromebooks) </li><li>Video or <a href="https://docs.google.com/presentation/d/1AxexCFAWMwo1qckAa2CK-_m-6Y62wBQtOhc4um_uhuU/edit" target="_blank">Slides</a></li><li><a href="https://docs.google.com/document/d/1vCnh_0xrVIhhNW9ve6ngLeoNfzEVPCj8HleS_9dlPu0" target="_blank" title="">Guided Worksheet:</a> questions to answer during the video/slides</li><li><a href="https://docs.google.com/document/d/1_NfNLWJxaG4qZ2Jd2x8UctDS05twn1h6p-o3XaAcRv0/edit?usp=sharing" target="_blank">POGIL role cards</a></li><li><a href="https://docs.google.com/document/d/1R6u0geqIRmilERAgnlaRfo9Of5qyl0Z0w_35itx1_Qs/" target="_blank">Worksheet for POGIL activity</a></li></ul><p></p>
+    <p></p><ul><li>Access to computer, laptop, or Chromebook (install the Companion app on Chromebooks) </li><li><a href="https://www.youtube.com/watch?v=ZHmW2zdsaTU" target="_blank">Video</a> or <a href="https://docs.google.com/presentation/d/1AxexCFAWMwo1qckAa2CK-_m-6Y62wBQtOhc4um_uhuU/edit" target="_blank">Slides</a></li><li><a href="https://docs.google.com/document/d/1vCnh_0xrVIhhNW9ve6ngLeoNfzEVPCj8HleS_9dlPu0" target="_blank" title="">Guided Worksheet:</a> questions to answer during the video/slides</li><li><a href="https://docs.google.com/document/d/1_NfNLWJxaG4qZ2Jd2x8UctDS05twn1h6p-o3XaAcRv0/edit?usp=sharing" target="_blank">POGIL role cards</a></li><li><a href="https://docs.google.com/document/d/1R6u0geqIRmilERAgnlaRfo9Of5qyl0Z0w_35itx1_Qs/" target="_blank">Worksheet for POGIL activity</a></li></ul><p></p>
 
 Learning Activities
 --------------------
@@ -41,7 +41,7 @@ Learning Activities
     <li><b>Experiences and Explorations (35 minutes):</b>
     <ul>
     <li>Video (10 mins): Present the concepts in the introduction section, which are covered in the
-         <a href="https://www.youtube.com/watch?v=ljCUZHNKoxw" target="_blank">video presentation</a> as well as in the  
+         <a href="https://www.youtube.com/watch?v=ZHmW2zdsaTU" target="_blank">video presentation</a> as well as in the  
          <a href="https://docs.google.com/presentation/d/1AxexCFAWMwo1qckAa2CK-_m-6Y62wBQtOhc4um_uhuU/edit#slide=id.p5" target="_blank">slides</a> and go over the new vocabulary.
       </li>
     <li>POGIL Roles and Teams (5 minutes): Review using <a href="https://course.mobilecsp.org/teach_mobilecsp/unit?unit=178&amp;lesson=179" target="_blank">POGIL groupwork with the resources in unit 10.6</a> and <a href="https://vimeo.com/93407527" target="_blank">the video on POGIL in the classroom</a> from <a href="https://pogil.org/" target="_blank">https://pogil.org</a>. Have the students break up into teams of 3-4 students and review the POGIL roles. They should take on a different role in their team than they did in the last activity.</li>
