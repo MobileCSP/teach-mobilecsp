@@ -20,11 +20,11 @@ PD Joining the Forum
     <a href="https://groups.google.com/d/forum/teaching-mobile-csp" target="_blank">https://groups.google.com/d/forum/teaching-mobile-csp</a> following the directions below. In addition, membership in this forum  gives teachers access to the following folders:
     <ul>
     <li><a href="https://sites.google.com/a/css.edu/jrosato-cis-1001" target="_blank" title="">Portfolio Answer Key</a> website
-        </li><li> <a href="https://drive.google.com/open?id=0B5ZVxaK8f0u9b1EySDI2dFB0Sms" target="_blank">Solutions folder</a> </li>
-    <li><a href="https://drive.google.com/open?id=1Us4_AJcI_9Xja_1lTTr6RJmI3Ko57W4Kisv7hmXv5cw" target="_blank">Quizly Solutions</a>
-    </li><li><a href="https://drive.google.com/drive/u/0/folders/0B5ZVxaK8f0u9ZDlMa3RpS0NhZ1k" target="_blank">Assessments folder</a></li>
-    <li><a href="https://drive.google.com/drive/u/0/folders/0B5ZVxaK8f0u9REQtNTZqTkhrWE0" target="_blank">Text Versions of Lessons</a>
-    </li><li><a href="https://drive.google.com/drive/folders/0B8vlyWrWaiTRbjMtTkgzVi1CM0E?usp=sharing" target="_blank" title="">Resources for Teachers</a></li></ul>
+        </li><li> <a href="https://drive.google.com/drive/folders/0B5ZVxaK8f0u9b1EySDI2dFB0Sms?resourcekey=0-BPmqCeD2gkQ6FuPIRsm8XQ&usp=sharing" target="_blank">Solutions folder</a> </li>
+    <li><a href="https://docs.google.com/document/d/1Us4_AJcI_9Xja_1lTTr6RJmI3Ko57W4Kisv7hmXv5cw/edit?usp=sharing" target="_blank">Quizly Solutions</a>
+    </li><li><a href="https://drive.google.com/drive/folders/0B5ZVxaK8f0u9ZDlMa3RpS0NhZ1k?resourcekey=0-fmTfLGPAxJE7lgEpE0c8Tg&usp=sharing" target="_blank">Assessments folder</a></li>
+    <li><a href="https://drive.google.com/drive/u/0/folders/0B5ZVxaK8f0u9REQtNTZqTkhrWE0?resourcekey=0-PlBt7IvK_5eGoN0sal3G6A" target="_blank">Text Versions of Lessons</a>
+    </li><li><a href="https://drive.google.com/drive/folders/0B8vlyWrWaiTRbjMtTkgzVi1CM0E?resourcekey=0-Uf42tNcEZviJcRaV3Rq6TQ&usp=sharing" target="_blank" title="">Resources for Teachers</a></li></ul>
     <p>
     </p>
 
