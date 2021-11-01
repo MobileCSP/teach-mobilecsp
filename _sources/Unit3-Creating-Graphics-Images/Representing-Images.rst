@@ -64,7 +64,7 @@ Learning Activities
     </li></ul>
     <p>When finished, present a more detailed explanation of run-length encoding, storing images on computers, and other image compression techniques. Mention the trade-off in compression which is quality vs. file size and lossy vs. lossless compression (whether some data is lost when compressing, see this additional <a href="https://optimus.keycdn.com/support/lossy-vs-lossless/" target="_blank">resource</a> on lossy vs. lossless compression). There are several ways you can present this information. If you are new to teaching Mobile CSP, we suggest starting by having students watch the video lecture. As you become more familiar with the lesson and its content, you may decide to use the slides to give the lecture on your own, or guide students through reading the text-based lesson.
           </p><ul>
-    <li>Have students watch the <a href="https://www.youtube.com/watch?v=0sZgmw9ECCo" target="_blank">video</a> of the Mobile CSP version of the lecture</li>
+    <li>Have students watch the <a href="https://www.youtube.com/watch?v=xn3-BAiaJ1k" target="_blank">video</a> of the Mobile CSP version of the lecture</li>
     <li> Use the <a href="https://docs.google.com/presentation/d/1MmKmh7fJKCCfwGzA238VPXZYLkCZvIIUQZ9L-RIDEYQ/edit" target="_blank">slides</a> to give the lecture yourself.</li>
     <li> Have students read the <a href="https://docs.google.com/document/d/1Q4NinpY_-BLSjh9RVO1bD4apZYs4W93WbpX_nbas1Ec/edit" target="_blank">text-based version</a> of the lesson.</li>
     </ul>
