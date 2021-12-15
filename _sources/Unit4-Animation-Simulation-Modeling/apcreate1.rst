@@ -242,7 +242,7 @@ ASSESSMENT: Create: Programming Performance Task #1 (INSTRUCTOR MATERIALS)
 	 <li><a href="https://drive.google.com/open?id=14noR7S7w-ghgnV2cmKXuO4KbYt3RL3vPVJLnvoWr3bk" target="_blank" title="">How To: Share Your App</a></li>
 	 <li>For AP classes: <ul>
 	 <li><a href="https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf?course=ap-computer-science-principles#page=4" target="_blank" title="">CREATE Performance Task Description and Instructions </a></li>
-	   <li><a href="https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-2021-create-performance-task-scoring-guidelines.pdf" target="_blank" title="">Create Performance Task Scoring Guidelines </a></li>
+	   <li><a href="https://apcentral.collegeboard.org/pdf/ap21-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">Create Performance Task Scoring Guidelines </a></li>
 	   <li> <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit8-AP-Exam-Prep/Explore-Samples.html" target="_blank">Create Performance Task Samples in lesson 8.9</a></li>
 	 <li><a href="https://docs.google.com/document/d/1B0VUXo-voVro_paLykF153QKtZ-urzrY-JkNFxBZjDA/copy" target="_blank" title="">AP Create template and checklists</a> </li>
 	   <li> <a href="https://sites.google.com/site/mobilecspportfoliohelp/performance-tasks/create-1" target="_blank">Portfolio help site</a></li>
@@ -292,7 +292,7 @@ Learning Activities
 	   
 	   <h3 class="assessment">Assessment Opportunities and Solutions</h3>
 	 <div class="yui-wk-div">
-	   <p>Summative: See the <a href="https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-2021-create-performance-task-scoring-guidelines.pdf" target="_blank" title="">CREATE Peformance Task Scoring Guidelines </a><span style="color: rgb(255, 0, 0);"></span> from the College Board.</p>
+	   <p>Summative: See the <a href="https://apcentral.collegeboard.org/pdf/ap21-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">CREATE Peformance Task Scoring Guidelines </a><span style="color: rgb(255, 0, 0);"></span> from the College Board.</p>
 	   <p><b>Notes on the College Board Rubric:</b> to be added</p>
 	   </div>
 	   
@@ -339,7 +339,7 @@ Professional Development Reflection
 	 <p>Discuss the following questions with other teachers in your professional development program.</p>
 	 <ul> 
 	   <li>What questions do you have about how to implement the performance task in class? Do you need any clarification on the role of teachers for this performance task? (See College Board's Course and Exam Description, pg. 169-171 for role of teachers in the CREATE task.)</li>
-	   <li>Review the <a href="https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-2021-create-performance-task-scoring-guidelines.pdf" target="_blank" title="">CREATE - Programming Performance Task Scoring Guidelines</a>, paying attention to the content areas (rows) and the descriptors for each performance quality (columns). What areas are you comfortable assessing? What areas do you have questions about?</li>
+	   <li>Review the <a href="https://apcentral.collegeboard.org/pdf/ap21-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">CREATE - Programming Performance Task Scoring Guidelines</a>, paying attention to the content areas (rows) and the descriptors for each performance quality (columns). What areas are you comfortable assessing? What areas do you have questions about?</li>
 	   <li>Review the Essential Knowledge statements under each learning objective for the Big Idea of Programming (see the curriculum framework in the CED). Students have now completed a few units of the course, but have more to learn about programming. Which of the essential knowledge statements do you feel are not applicable at this point in the course (i.e. that students should not be evaluated against on this task)?</li>
 	   </ul>
 
