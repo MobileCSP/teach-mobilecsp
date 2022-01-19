@@ -22,6 +22,9 @@ App Inventor Drills
     <p>App Inventor coding drills are available for each of the units in the course.  They are linked (on both the teacher and student sites) to the <b>Wrap up</b> section of each unit and are designed to be relevant to the coding skills covered in that unit.  Each set of drills comes with an App Inventor template.  These drills can be used as much, or as little, as you would like.</p>
     <h4>Accessing the Drills Through App Inventor</h4>
     <p>If you want to browse the entire collection of drills, you can access them directly through App Inventor.  In App Inventor click on the <i>Projects</i> and then select <i>Import project (aia) from a repository</i>.  This will bring up a dialog window, which has a drop-down menu at the very top.  Select <i><b>Add a new template library URL</b></i> from the drop-down menu. You will be prompted to type in a URL.  Copy and paste the following URL, including the final /:  <b><i>http://templates.appinventor.mit.edu/trincoll/csp/drills2017/</i></b></p>
+	<h4>Accessing the Drills in Google Drive</h4>
+	<p>You can view the drills and their solutions in <a href="https://drive.google.com/drive/folders/0B5ZVxaK8f0u9azJYV2xDRldEYTQ?resourcekey=0-DL5BchlGwgOP-ciRqJoPtA" target="_blank">this folder</a>.
+	</p>
     
 
 Unit Assessments
