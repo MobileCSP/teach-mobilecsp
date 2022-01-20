@@ -2,7 +2,7 @@
 
    <div class="logo-header"  id="teacher-logo"  > <img class="align-center" src="../_static/Mobile_CSP_Logo_White_transparent.png" width="250px"/> </div>
 
-AP CS Principles Exam Prep 
+Create PT Prep & Samples 
 ==========================
 
 .. raw:: html

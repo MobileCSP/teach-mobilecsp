@@ -2,7 +2,7 @@
 
    <div class="logo-header"  id="teacher-logo"  > <img class="align-center" src="../_static/Mobile_CSP_Logo_White_transparent.png" width="250px"/> </div>
 
-Create PT Practice
+Create PT Written Response Practice
 ===================================
 
 .. raw:: html
