@@ -15,7 +15,7 @@ Analyzing Algorithms
       }); 
     
     </script>
-    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit5-Algorithms-Procedural-Abstraction/Analyzing-Algorithms.html" target="_blank" title="">This lesson</a> has students compare the efficiences of searching and sorting algorithms. Students need to reason about the algorithms and evaluate the experimental data to evaluate their efficiency.</p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit5-Algorithms-Procedural-Abstraction/Analyzing-Algorithms.html" target="_blank" title="">This lesson</a> has students compare the efficiencies of searching and sorting algorithms. Students need to reason about the algorithms and evaluate the experimental data to evaluate their efficiency.</p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
