@@ -21,3 +21,4 @@ Algorithms & Procedural Abstraction
 	Parallel-Computing.rst
 	Impacts-of-CS-Web-Searches.rst
 	Wrap-Up.rst
+	Create-PT-Written-Practice.rst
