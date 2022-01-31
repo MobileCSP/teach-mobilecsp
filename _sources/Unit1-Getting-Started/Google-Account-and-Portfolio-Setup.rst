@@ -59,12 +59,19 @@ Learning Activities
     <div class="yui-wk-div" style="font-weight: 400;"><p><b>There are no suggested topic questions for this lesson as it is a setup lesson.</b></p></div>
     </div>
     <h3 class="assessment">Assessment Opportunities</h3>
-    <div class="yui-wk-div"><p>Use the e-mails that students send to you to keep track of student names, Gmail addresses, and Google portfolio URLs.<br/><br/>The Google portfolios can be used by students to document their answers to the reflection questions at the end of each lesson as well as to post their Create programming project development. It is recommended that you review and grade student work on their portfolios on a regular basis (e.g. at the end of each unit). <a>Here is an example rubric</a> that can be used to grade student portfolios. You can choose to grade student responses for all questions or pick the most commonly missed / difficult one to review for all students. Also, keep in mind that Google sites navigation bars are responsive -- you may find it easier to grade with your browser window maximized. </p></div>
-    <h3 class="tips">Teaching Tips</h3>
+    <div class="yui-wk-div"><p>The Google portfolios can be used by students to document their answers to the reflection questions at the end of each lesson as well as to post their Create programming project development. It is recommended that you review and grade student work on their portfolios on a regular basis (e.g. at the end of each unit). <a>Here is an example rubric</a> that can be used to grade student portfolios. </p></div>
+    <h3 class="tips">Grading and Teaching Tips</h3>
     <div class="yui-wk-div">
-    <p>Your school email may already be based on Gmail accounts. It may work with all the Google products used during the course, but it may not as well. For example, you may be able to access Google Sites, but not App Inventor. Test it out during the summer to determine which route is best for your school. You may need to have each student create a brand new Gmail just for this course.</p>
-    <p>When teaching, make sure that students are changing the permissions so that portfolios are not public. This helps prevent students from looking up answers online to the portfolio reflection questions.</p>
-    <p>You are not required to use Google Sites for student portfolios, but could instead use another system. For example, some teachers set up assignments in Google Classroom, Google Drive, Canvas, or other systems that your school already uses. However, a central place for the student to post their work allows them to also have a record of their work and learning even after the course has ended.</p>
+    <ul>
+	<li>Your school email may already be based on Gmail accounts. It may work with all the Google products used during the course, but it may not as well. For example, you may be able to access Google Sites, but not App Inventor. Test it out during the summer to determine which route is best for your school. You may need to have each student create a brand new Gmail just for this course.</li>
+    <li>When teaching, make sure that students are changing the permissions so that portfolios are not public. This helps prevent students from looking up answers online to the portfolio reflection questions.</li>
+	<li>Use the e-mails that students send to you to keep track of student names, Gmail addresses, and Google portfolio URLs.</li>
+	<li>You are not required to use Google Sites for student portfolios, but could instead use another system. For example, some teachers set up assignments in Google Classroom, Google Drive, Canvas, or other systems that your school already uses. However, a central place for the student to post their work allows them to also have a record of their work and learning even after the course has ended.</li>
+   <li>You can choose to grade student responses for all questions or pick the most commonly missed / difficult one to review for all students.</li>
+   <li> Google sites navigation bars are responsive -- you may find it easier to grade with your browser window maximized. </li>
+   <li>Make sure students fully answer the questions, especially if they have multiple parts, and explain their answers. </li>
+   <li> Make sure the students are using the correct terminology when answering the questions.  The reflections are a great place to see if students are understanding new vocabulary.</li>
+   </ul>
     </div>
     </div>
     <div class="pd yui-wk-div">
