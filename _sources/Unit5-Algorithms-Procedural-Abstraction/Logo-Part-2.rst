@@ -15,7 +15,7 @@ Logo Part 2
       });
     
     </script>
-    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit5-Algorithms-Procedural-Abstraction/Logo-Part-2.html" target="_blank" title="">This lesson</a> introduces the concept of parameters as a means of creating procedures that can be more easily reused in a program. Students use an updated version of the Logo app that includes parameters for the forward and turn procedures to change the </p>
+    <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit5-Algorithms-Procedural-Abstraction/Logo-Part-2.html" target="_blank" title="">This lesson</a> introduces the concept of parameters as a means of creating procedures that can be more easily reused in a program. Students use an updated version of the Logo app that includes parameters for the forward and turn procedures to change the size of the angles allowing the creation of more complex shapes. </p>
     <table border="" class="framework" id="genTable" width="100%"></table>
     <div class="pd yui-wk-div">
     <h3>Professional Development</h3>
