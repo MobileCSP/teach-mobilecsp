@@ -2,8 +2,8 @@
 
    <div class="logo-header"  id="teacher-logo"  > <img class="align-center" src="../_static/Mobile_CSP_Logo_White_transparent.png" width="250px"/> </div>
 
-PD Course Logistics Audit Syllabus SchedulePacing Guide Equipment
-=================================================================
+PD Course Logistics: Audit, Syllabus, Schedule, Pacing Guide, Equipment
+=======================================================================
 
 .. raw:: html
 
@@ -109,7 +109,7 @@ PD Course Logistics Audit Syllabus SchedulePacing Guide Equipment
     </tbody>
     </table>
     <p>*The order of these two assessments can be switched around to fit your particular exam and winter break schedule. <br/>**There is no longer an official Explore Performance Task to be submitted. Rather, students now complete an Explore research project as part of the Mobile CSP Explore Curricular Activities. <br/></p>
-    <p>The AP CSP Create Performance Task will be due <b>April 30th</b>.The AP CSP Exam will be on <b>May 13, 2021</b>. Teachers have a <b><i>maximum</i></b> of approximately 150 school days (approximately 112 contact hours) to complete the mandatory lessons in the curriculum and complete/submit the Performance Tasks. <i>Please note:</i> 130 contact hours is also the average number of contact hours our teachers tend to have with their students after factoring in field trips, half days, assemblies, standardized testing, school breaks/vacations, etc.</p>
+    <p>The AP CSP Create Performance Task will be due <b>May 2, 2022</b>.The AP CSP Exam will be on <b>May 9, 2022</b>. Teachers have a <b><i>maximum</i></b> of approximately 150 school days (approximately 112 contact hours) to complete the mandatory lessons in the curriculum and complete/submit the Performance Tasks. <i>Please note:</i> 130 contact hours is also the average number of contact hours our teachers tend to have with their students after factoring in field trips, half days, assemblies, standardized testing, school breaks/vacations, etc.</p>
     <p>Mobile CSP is intended to be a <b><i>full year course</i></b> because it is an AP-level course and traditionally AP courses are full year courses. It is suggested that the practice Create performance task be completed in the fall and the official Create performance task be completed in the spring. The Explore project is generally completed before the final Create task since it takes more time to build programming knowledge and skills. Units 1-4 are expected to go a little more quickly than the latter units and ideally could be completed before January. Then, January through May can be spent on units 5-8 and leaving Unit 9 for after the AP exam/the end of the school year.</p>
     <p><i>NOTE</i>: It is possible to teach Mobile CSP in a one semester course IF you have at least 112 hours of contact time in that semester. For example, one of our teachers had a full year of class time in his one semester course (i.e. he met with his students 84 minutes five days a week).</p>
     <p><b>Equipment<br/></b></p>
