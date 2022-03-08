@@ -25,7 +25,9 @@ Caesar Cipher App
     <h3>Materials</h3>
     <ul>
     <li>Computer lab with projection system</li>
-    <li>Tablets, phones, emulators, or Chromebooks</li><li><a href="https://www.youtube.com/watch?v=7Tfw_-QRiAs" target="_blank">video</a> or <a href="https://docs.google.com/presentation/d/1GOzrwChWLjWbYi_yqKpLi2T60dwM8Yv2CaX2qGPzuV8/edit#slide=id.p5" target="_blank" title="">slides</a><br/></li><li>Caesar Cipher Tutorial (video or handout)</li>
+    <li>Tablets, phones, emulators, or Chromebooks</li>
+	<li><a href="https://www.youtube.com/watch?v=mXx4G_x6OuY" target="_blank">Lecture video</a> or <a href="https://docs.google.com/presentation/d/1GOzrwChWLjWbYi_yqKpLi2T60dwM8Yv2CaX2qGPzuV8/edit#slide=id.p5" target="_blank" title="">slides</a><br/></li>
+	<li>Caesar Cipher Tutorial (video or handout)</li>
     </ul>
     
 
@@ -45,7 +47,7 @@ Learning Activities
           </li>
     <li><b>Part 2: Caesar Cipher App: (20 mins)</b> Walkthrough the tutorial either in
             <a href="https://docs.google.com/document/d/1FlmzNnA8n-vqUO7bXj_zKDv6eLr5q24cK4EinsXWqv0" target="_blank">text format</a>
-            or <a href="https://www.youtube.com/watch?v=uLzAs7MPGj4" target="_blank">video format</a>.  The tutorial 
+            or <a href="https://www.youtube.com/watch?v=ZKcv1IfrS7A" target="_blank">video format</a>.  The tutorial 
             provides a template to help focus on the encryption tasks. 
           </li>
     <li><b>Functions: (20 mins)</b>Go over the Functions section of the video or slides and do the quizly exercises 
