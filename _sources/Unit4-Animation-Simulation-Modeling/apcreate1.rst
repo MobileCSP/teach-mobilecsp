@@ -284,7 +284,7 @@ Learning Activities
 	 <h3 class="ap-classroom">AP Resources</h3>
 	   <div class="yui-wk-div">
 	     <ul>
-	     <li><span class="yui-non">Create Performance Task webinar by the College Board from October 2020 (<a href="https://globalmeet.webcasts.com/starthere.jsp?ei=1362027&amp;tp_key=f59cb86c43" target="_blank" title="">recording</a>)</span></li>
+	     <li><span class="yui-non">Create Performance Task Deep Dive webinar by the College Board from October 2020 (<a href="https://www.youtube.com/watch?v=vPq2Cbic73A" target="_blank" title="Create PT Deep Dive">recording</a>)</span></li>
 	     <li>Review the <a href="https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=196" target="_blank" title="">Course and Exam Description from the College Board</a></li>
 	     <li>Review the <a href="https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=176" target="_blank" title="">Teacher Guidelines</a>, as provided by the College Board, for the CREATE Performance Task.</li><li><a href="https://apcentral.collegeboard.org/pdf/digital-portfolio-teacher-user-guide-ap-csp.pdf?course=ap-computer-science-principles" target="_blank" title="">AP Digital Portfolio Teacher Guide</a></li><li><a href="https://apcentral.collegeboard.org/pdf/digital-portfolio-student-user-guide-ap-csp.pdf" target="_blank" title="" style="text-decoration-line: underline !important;">AP Digital Portfolio Student Guide (for submitting)</a></li>
 	     </ul>
