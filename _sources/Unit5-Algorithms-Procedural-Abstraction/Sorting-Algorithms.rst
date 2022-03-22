@@ -24,7 +24,7 @@ Sorting Algorithms
     </div>
     <h3>Materials</h3>
     <ul>
-    <li>Decks of cards - can use 13 cards of one suit per student group, although one deck would be ideal.</li><ul><li><span class="yui-non">Alternative: <a href="http://PlayingCards.io" target="_blank" title="">PlayingCards.io</a> virtual playing cards (scroll down and select 'Other')</span></li></ul>
+    <li>Decks of cards - can use 13 cards of one suit per student group, although one deck would be ideal.</li><ul><li><span class="yui-non">Alternatives:  <a href="https://deck.of.cards/" target="_blank" title="">https://deck.of.cards/</a> or <a href="http://PlayingCards.io" target="_blank" title="">PlayingCards.io</a> virtual playing cards (scroll down and select 'Other')</span></li></ul>
     <li>Projection system</li><li>Videos</li><ul><li><span class="yui-non"><a href="https://youtu.be/aQ9f0rXhuQ4" target="_blank" title="">Bubble Sort</a></span></li><li><a href="https://youtu.be/CWjOwaqeYpA" target="_blank" title="">Merge Sort</a></li><li><a href="https://youtu.be/je0bBZxfmMM" target="_blank" title="">Bucket Sort</a></li><li><a href="https://youtu.be/ibtN8rY7V5k" target="_blank" title="">Radix Sort</a></li></ul>
     </ul>
     
