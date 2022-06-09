@@ -48,7 +48,7 @@ Welcome to Mobile CSP
 	<li>Review background readings and other resources, such as the AP Teacher Community</li>
 	</ul>
 	
-.. youtube:: S1vFrz4NETg
+.. youtube:: 9KQsWrBDvhA
 	:width: 650
 	:height: 415
 	:align: center
