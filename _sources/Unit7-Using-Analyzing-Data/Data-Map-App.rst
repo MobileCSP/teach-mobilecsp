@@ -66,7 +66,7 @@ Learning Activities
     <li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li><a href="https://drive.google.com/open?id=1EWluAJer2X8eTIZtjcyZrGrmVzcjCFNa" target="_blank">Data Map App without enhancements .aia file</a>
     </li>
-    <li><a href="https://docs.google.com/document/d/1VeR6U0k_wMXUS91-MVXMy3mEGWfbB3ob_dqrKWpEjks/edit?usp=sharing" target="_blank">Data Map App Enhancement Solutions </a>
+    <li><a href="https://drive.google.com/file/d/1V7OTNNT6fjG5MpvLIU5DHBRlRoLld8aR/view?usp=sharing" target="_blank">Data Map App Enhancement Solutions </a>
     </li>
     <li><a href="https://drive.google.com/open?id=163oeI1f39u6S8dul964F05547TM_FAz7" target="_blank">Data Map App with Enhancements .aia file </a>
     </li>
