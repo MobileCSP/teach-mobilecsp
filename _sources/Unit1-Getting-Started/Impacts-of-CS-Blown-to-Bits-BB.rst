@@ -17,11 +17,7 @@ Impacts of CS Blown to Bits BB
     </script>
     <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit1-Getting-Started/Impacts-of-CS-Blown-to-Bits-BB.html" target="_blank" title="">This lesson</a> introduces the book that will be used for many of the global impact readings. In this unit, students are simply introduced to the textbook. In Unit 2, they will begin by reading Chapter 1.</p>
     <p>Teachers who have used the <i>Blown to Bits</i> text in their classroom usually provide the students a link to the readings rather than printing off the text. However, if the student needs to complete some of the readings at home, then you may want to provide printed copies to those without Internet access. A computer lab may be required for some lesson activities, but some of them could be done outside a lab if you have printed copies of the readings. Each lesson extends over 3-4 hours and also includes questions that students will answer on their portfolio site. Readings from the textbook are supplemented with current news and events in each lesson. You are encouraged to ask students to find and bring in news as well.<br/><br/><a href="http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf" target="_blank" title="">Original Blown to Bits Book - All chapters (PDF)</a></p>
-    <p><font color="red">New Blown to Bits: There is a newer version of the book for some specific chapters (chapters 2 and 6 only). Below are the PDFs of each of these updated chapters.</font></p>
-    <ul>
-    <li><a href="https://drive.google.com/open?id=1_4439HxJDBXbViBECySAQdRITEnSOPzs" target="_blank" title="">New Chapter 2 (PDF)</a></li>
-    <li><a href="https://drive.google.com/open?id=1DrdNv5qL6cqaehEBlyRqqUEc5D5XUyWt" target="_blank" title="">New Chapter 6 (PDF)</a></li>
-    </ul>
+    <p><font color="red">New Blown to Bits: There is a second edition of the Blown to Bits book that has been released. You can access the PDF version for free via <a href="http://www.bitsbook.com/wp-content/uploads/2021/08/9780137441075-Blown-to-Bits-2e.pdf" target="_blank"> BitsBook.com</a>. The Mobile CSP Team is doing a review of the second edition during Summer 2022. Check out <a href="https://docs.google.com/document/d/1kpKG7KMA2p118vrba9MT7F_pYGqoEJjpYagCMzn9qTY/" target="_blank"> the Mobile CSP Change Log</a> for updates. </font> </p>
     
 
 Pedagogy: Reading in the Content Area
