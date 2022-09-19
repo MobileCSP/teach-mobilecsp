@@ -30,7 +30,7 @@ Impacts of CS The Digital Explosion
     <h3>Materials</h3>
     <ul>
     <li><a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter1.pdf" target="_blank" title="">Chapter 1 from <i>Blown to Bits</i></a> (12th grade reading level on the Fry Graph Readability Formula)</li>
-    <li><a href="https://docs.google.com/document/d/1zJ__6P0CvtL2CGAFzHF7T4tc6hRAkmhZPvGu7gdl_4o/edit?usp=sharing" target="_blank">Double Entry Journal Template</a></li><li><a href="https://docs.google.com/document/d/1t108otAa9_MFtFERsozLL0g-UXQkdAKfKotZgIhGCg0/edit?ts=5f6dfd20#" target="_blank" title="">Tracking Your Technology Use Worksheet</a></li>
+    <li><a href="https://docs.google.com/document/d/1IiOfh052ziFDnYKTHA8gXjJvqHBfahLM5M0yQyM9lu8/view" target="_blank">Double Entry Journal Template</a></li><li><a href="https://docs.google.com/document/d/1t108otAa9_MFtFERsozLL0g-UXQkdAKfKotZgIhGCg0/edit?ts=5f6dfd20#" target="_blank" title="">Tracking Your Technology Use Worksheet</a></li>
     <li><a href="https://docs.google.com/document/d/1g5fuVEDu3V2XHVRBok1gFAOaAV7eWyict1S2ROopsw0" target="_blank">Debate Team Carousel Template</a></li>
     <li><a href="https://docs.google.com/document/d/1vEbjt_f4YZO-siBSMFalh7rv8-m307k0TnXUBEo4izM/edit?usp=sharing" target="_blank"><i>Blown to Bits</i> Vocabulary Chapter 1</a></li>
     <li><a href="https://docs.google.com/document/d/1LvukFsCVFxyMIJ_q2dVcYKtklEGuY-zdCb6NTDXONdc/edit?usp=sharing" target="_blank"><i>Blown to Bits</i> Vocabulary Masterlist</a></li>
