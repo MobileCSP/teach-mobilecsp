@@ -46,10 +46,10 @@ Mobile Devices and Apps Hardware and Software
     <h3>Materials</h3>
     <ul>
     <li>Choose one of the following activities for your class: 
-         <ul><li><a href="https://docs.google.com/drawings/d/1l50CFlksBCdfjfmwkyCvsYo0mEZ5BzyTxOABXkS0vr4/edit?usp=sharing/copy" target="_blank">Computer labeling interactive worksheet</a> to match some of the vocabulary to a picture of a computer system.</li>
-    <li><a href="https://drive.google.com/file/d/0B5ZVxaK8f0u9Q2kxRW1qQ0VxVTA/edit?usp=sharing" target="_blank">Computer terms matching activity</a>
+         <ul><li><a href="https://docs.google.com/drawings/d/1l50CFlksBCdfjfmwkyCvsYo0mEZ5BzyTxOABXkS0vr4/view" target="_blank">Computer labeling interactive worksheet</a> to match some of the vocabulary to a picture of a computer system.</li>
+    <li><a href="https://drive.google.com/file/d/0B5ZVxaK8f0u9Q2kxRW1qQ0VxVTA/edit?resourcekey=0-QiLHmWU5ltVB_CYDktbJfA" target="_blank">Computer terms matching activity</a>
     </li><li>
-    <a href="https://drive.google.com/file/d/0B5ZVxaK8f0u9THBxT1A1Vmw5TFk/edit?usp=sharing" target="_blank">Computer terms matching worksheet</a></li></ul></li>
+    <a href="https://drive.google.com/file/d/0B5ZVxaK8f0u9THBxT1A1Vmw5TFk/view?resourcekey=0-Y4nKZD_4ReOiTmGrMcrVoA" target="_blank">Computer terms matching worksheet</a></li></ul></li>
     <li>Projection system</li>
     <li>Old computer parts</li><li><a href="https://docs.google.com/presentation/d/1Nn9Y1CupKELEJhR6RnFO-MNKDwvGg3MyGkgthTwrK2o" target="_blank" title="">Slides</a></li>
     </ul>
@@ -102,7 +102,7 @@ Learning Activities
          <ul><li><a href="https://docs.google.com/drawings/d/1l50CFlksBCdfjfmwkyCvsYo0mEZ5BzyTxOABXkS0vr4/edit?usp=sharing/copy" target="_blank">Computer labeling worksheet</a> to match some of the vocabulary to a picture of a computer system.</li>
     <li><a href="https://drive.google.com/file/d/0B5ZVxaK8f0u9Q2kxRW1qQ0VxVTA/edit?usp=sharing" target="_blank">Computer terms matching activity</a>
     </li><li>
-    <a href="https://drive.google.com/file/d/0B5ZVxaK8f0u9THBxT1A1Vmw5TFk/edit?usp=sharing" target="_blank">Computer terms matching worksheet</a></li></ul></li>
+    <a href="https://drive.google.com/file/d/0B5ZVxaK8f0u9THBxT1A1Vmw5TFk/edit?resourcekey=0-Y4nKZD_4ReOiTmGrMcrVoA" target="_blank">Computer terms matching worksheet</a></li></ul></li>
     </ul>
     <h4>Rethink, Reflect and/or Revise (10 minutes):</h4>
     <ul>
