@@ -59,7 +59,7 @@ Learning Activities
     </div>
     <h3 class="assessment">Assessment Opportunities and Solutions</h3>
     <div>
-    <p><b>Solutions:</b></p>
+    <p><b>Solutions</b> <i>Note: Solutions are only available to verified educators who have joined the <a href="../Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</i></p>
     <ol>
     <li><a href="https://drive.google.com/open?id=1ICCkNgq7fA40rZrWSXOWahZpCVIqR7nPAc0YnvhBe38" target="_blank">Debugging Caesar Cipher Solutions</a></li>
     </ol>

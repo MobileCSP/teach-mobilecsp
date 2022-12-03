@@ -68,9 +68,8 @@ Learning Activities
     </div>
     <h3 class="assessment">Assessment Opportunities and Solutions</h3>
     <div class="yui-wk-div">
-    <p><b>Solutions:</b></p>
+    <p><b>Solutions</b> <i>Note: Solutions are only available to verified educators who have joined the <a href="../Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</i></p>
     <ul>
-    <li>Note: Assessments are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li><a href="https://drive.google.com/open?id=16_X06XONPJOldkQdBXDdEN4_FGZvJfOGQ6TkQ39RCFg" target="_blank">Caesar Cipher Exercise Solutions</a></li>
     <li><a href="https://drive.google.com/open?id=1UDMZT9Kg61H7zH21VxGCgh-PTgqVoKEG" target="_blank">Caesar Cipher Finished App including Encrypt and Decrypt (in extension 1)</a></li>
     <li><a href="https://drive.google.com/open?id=1Us4_AJcI_9Xja_1lTTr6RJmI3Ko57W4Kisv7hmXv5cw" target="_blank">Quizly Solutions</a>

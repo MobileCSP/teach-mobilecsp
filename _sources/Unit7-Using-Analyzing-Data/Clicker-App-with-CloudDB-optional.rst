@@ -52,9 +52,8 @@ Learning Activities
     </div>
     <h3 class="assessment">Assessment Opportunities and Solutions</h3>
     <div class="yui-wk-div">
-    <p><b>Solutions:</b></p>
+    <p><b>Solutions</b> <i>Note: Solutions are only available to verified educators who have joined the <a href="../Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</i></p>
     <ul>
-    <li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li><a href="https://drive.google.com/open?id=1gmdzE1mSvyprbef3ReoaBNJAeaoVJ-oN" target="_blank">Clicker Student App .aia file </a>
     </li>
     <li><a href="https://docs.google.com/document/d/1CDPqDFmua6xoU4IsHgg6w6QVvWdcS0gjZ9guUqXdo3M/" target="_blank">Clicker App Enhancement Solutions </a>
