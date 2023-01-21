@@ -61,11 +61,11 @@ Learning Activities
     <li>Topic 3.16 Simulations</li>
     </ul>
     </div>
-    <h3 aria-controls="ui-id-2" aria-expanded="true" aria-selected="true" class="assessment ui-accordion-header ui-state-default ui-accordion-header-active ui-state-active ui-corner-top" id="ui-id-1" role="tab" tabindex="0">Assessment Opportunities</h3>
+    <h3 aria-controls="ui-id-2" aria-expanded="true" aria-selected="true" class="assessment ui-accordion-header ui-state-default ui-accordion-header-active ui-state-active ui-corner-top" id="ui-id-1" role="tab" tabindex="0">Assessment Opportunities and Solutions</h3>
     <div aria-hidden="false" aria-labelledby="ui-id-1" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom yui-wk-div ui-accordion-content-active" id="ui-id-2" role="tabpanel" style="display: block;">
-    <p><b>Solutions:</b></p>
+    <p><b>Solutions</b> 
+    <i>Note: Solutions are only available to verified educators who have joined the <a href="../Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</i></p>
     <ul>
-    <li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li><a href="https://drive.google.com/open?id=1Us4_AJcI_9Xja_1lTTr6RJmI3Ko57W4Kisv7hmXv5cw" target="_blank">Quizly Solutions</a>
     </li>
     <li><a href="https://sites.google.com/a/css.edu/jrosato-cis-1001/" target="_blank">Portfolio Reflection Questions Solutions</a>

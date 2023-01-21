@@ -80,9 +80,9 @@ Learning Activities
     </div>
     <h3 class="assessment">Assessment Opportunities and Solutions</h3>
     <div class="yui-wk-div">
-    <p><b>Solutions:</b></p>
+    <p><b>Solutions</b> 
+    <i>Note: Solutions are only available to verified educators who have joined the <a href="../Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</i></p>
     <ul>
-    <li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li><a href="https://drive.google.com/open?id=1aeS-EHlTs5cZcX0Zs4MXFiaM6pfJf3GWeaKLqTU1XAs" target="_blank">Logo 1 Solutions</a>
     </li>
     <li><a href="https://drive.google.com/open?id=0B4W7CJ-1czH5aUZSQm9JRnJIOWc" target="_blank">Logo 1 aia file</a>

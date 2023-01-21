@@ -62,11 +62,11 @@ Learning Activities
     <li>Topic 3.15 Random Values</li>
     </ul>
     </div>
-    <h3 class="assessment">Assessment Opportunities</h3>
+    <h3 class="assessment">Assessment Opportunities and Solutions</h3>
     <div>
-    <p><b>Solutions:</b></p>
+    <p><b>Solutions</b> 
+    <i>Note: Solutions are only available to verified educators who have joined the <a href="../Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</i></p>
     <ul>
-    <li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li><a href="https://docs.google.com/document/d/1POAQJvG-RoOY-cf5gLTJLUHlyJmxDMddFffifHMQirc/edit?usp=sharing" target="_blank">Coin Flip Project Solutions</a>
     </li>
     <li><a href="https://drive.google.com/open?id=0B2IG3uhfSus-WTdTRDRCVTBMV0k" target="_blank">Coin Flip Projects .aia file</a>

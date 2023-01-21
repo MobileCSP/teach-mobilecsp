@@ -27,8 +27,9 @@ Impacts of CS Privacy  Explore Curricular Activity
     <li><a href="https://docs.google.com/presentation/d/16Js-ojmW0kMraZRpLY28hux2NSkt5AksmpQWrx6hGQI/" target="_blank" title="">Text Version/Slides</a></li><li><a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf" target="_blank">Blown to Bits, Chapter 2</a> (original)</li><li><a href="https://drive.google.com/open?id=1_4439HxJDBXbViBECySAQdRITEnSOPzs" target="_blank" title="">Blown to Bits, Chapter 2</a> (updated from New Bits Book)</li>
     <li>Computer lab for research</li>
     <li><a href="https://docs.google.com/document/d/1IiOfh052ziFDnYKTHA8gXjJvqHBfahLM5M0yQyM9lu8/view" target="_blank" title="">Double Entry Journal Template</a></li>
-    <li><a href="https://docs.google.com/document/d/10T9eiA9kGthjtWSaPL-OKlOZS1Ofm99sf2xgG930XkE" target="_blank" title=""><i>Blown to Bits</i> Chapter 2 Vocabulary</a></li>
+    <!--<li><a href="https://docs.google.com/document/d/10T9eiA9kGthjtWSaPL-OKlOZS1Ofm99sf2xgG930XkE" target="_blank" title=""><i>Blown to Bits</i> Chapter 2 Vocabulary</a></li>
     <li><a href="https://docs.google.com/document/d/1LvukFsCVFxyMIJ_q2dVcYKtklEGuY-zdCb6NTDXONdc/edit?usp=sharing" target="_blank" title=""><i>Blown to Bits</i> Vocabulary Masterlist</a></li><li><a href="https://docs.google.com/document/d/1YPVGCNXv_eHcahlfEBDqnlczAPCLGZBkpdlEkSte544/copy" target="_blank" title="">Explore Curricular Activity: Data Types and Data Collection Reference Sheet</a></li><li><a href="https://docs.google.com/document/d/1FqRKMRqCMU7OkIpZySR5ISYbNrzJNxRuF59Iu96sNSY/copy" target="_blank" title="">Explore Curricular Activity: Classifying Data Worksheet</a></li><li><a href="https://docs.google.com/document/d/1hshcntNmNYY13DoWIX4bVZSiap7EM2XVeGjjysEcmUI/copy" target="_blank" title="">Explore Curricular Activity: Collecting Data Worksheet</a></li>
+    -->
     </ul>
     
 
@@ -103,11 +104,11 @@ Learning Activities
     </ul>
     <p id="explore"><span style="font-style: normal;"><b>Explore Curricular Activity: </b>This lesson includes an activity that is part of the Explore Curricular Requirements for AP CSP. Additional resources and materials can be found in the Explore Curricular Requirement Teacher Resources guide available as a secure document through the AP Classroom site.</span></p>
     </div>
-    <h3 class="assessment">Assessment Opportunities</h3>
+    <h3 class="assessment">Assessment Opportunities and Solutions</h3>
     <div class="yui-wk-div">
-    <p><b>Solutions:</b></p>
+    <p><b>Solutions</b> 
+    <i>Note: Solutions are only available to verified educators who have joined the <a href="../Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</i></p>
     <ul>
-    <li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li><a href="https://drive.google.com/open?id=1Us4_AJcI_9Xja_1lTTr6RJmI3Ko57W4Kisv7hmXv5cw" target="_blank">Quizly Solutions</a>
     </li>
     <li><a href="https://sites.google.com/a/css.edu/jrosato-cis-1001/" target="_blank">Portfolio Reflection Questions Solutions</a>
