@@ -21,9 +21,10 @@ App Inventor Drills
 .. raw:: html
 
     <p>
-    <p>For this unit, there is one set of coding drills linked to the Wrap-up Unit on the student-facing site.  These can be assigned as additional exercises to help improve coding knowledge and skills.  Solutions are linked only to the teacher-facing site.  
+    <p>For this unit, there are recommended coding drills linked to the Wrap-up Unit on the student-facing site.  These can be assigned as additional exercises to help improve coding knowledge and skills.  Solutions are linked only to the teacher-facing site.  
     </p><ul>
     <li><a></a><a href="https://docs.google.com/document/d/1F3evbUsj7hSmi8xEDQbHKAWKRyIH7Q9RxEvVCiZE-VA" style="color: rgb(120, 71, 178); text-decoration-line: none;" target="_blank">Lists and Loops</a> -- coding drills that focus on using <i>for each item</i> and <i>for each number</i> loops to perform various operations on lists. (Solutions)</li><li><a href="https://docs.google.com/document/d/1EWdF1vR-mufd029LyEFrJ6wVk2Fd0Skj2j2ktZl65CI" style="color: rgb(120, 71, 178); text-decoration-line: none;" target="_blank">Databases, TinyDB and TinyWebDb</a> -- exercises that use App Inventor's built-in database to persist and share data.</li><li><a href="https://docs.google.com/document/d/1-aTVQ-Y04xbtZAncDQoej6hNWtzLXO2Ji42x1mtG5j8" style="color: rgb(120, 71, 178); text-decoration-line: none;" target="_blank">Databases, Firebase</a> -- the same exercises as in the previous set but these use App Inventor's experimental Firebase component to persist and share data.</li>
+    <li>Here are the <a href="https://drive.google.com/drive/u/0/folders/1a6SrwtyteWYr2y1hD1M42-7bGGBIJoiw" target="_blank">Solutions to the Drills</a>. <b>Note: Solutions are only available to verified educators that have joined the <a href="../Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</b></li>
     </ul>
     
 

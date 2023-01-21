@@ -21,7 +21,7 @@ App Inventor Drills
 .. raw:: html
 
     <p>
-    <p>The <a href="https://drive.google.com/open?id=0B5ZVxaK8f0u9azJYV2xDRldEYTQ">Google Drive repository of App Inventor drills</a> currently contains <i>six</i> sets of drill like exercises for students to complete. These drills can be used as much, or as little, as you would like. In some cases, recommendations on which set of drills to use are provided at the end of the unit. </p>
+    <p>The <a href="https://drive.google.com/drive/folders/0B5ZVxaK8f0u9azJYV2xDRldEYTQ?resourcekey=0-DL5BchlGwgOP-ciRqJoPtA">Google Drive repository of App Inventor drills</a> currently contains <i>six</i> sets of drill like exercises for students to complete. These drills can be used as much, or as little, as you would like. In some cases, recommendations on which set of drills to use are provided at the end of the unit. </p>
     <p><a href="https://drive.google.com/drive/folders/1a6SrwtyteWYr2y1hD1M42-7bGGBIJoiw">Drills Solutions Folder</a> <br> <b>Note: Solutions are only available to verified educators that have joined the <a href="../Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</b></p>
 
 Unit Assessments
