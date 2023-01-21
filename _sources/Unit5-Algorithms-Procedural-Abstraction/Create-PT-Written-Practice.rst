@@ -76,11 +76,11 @@ Learning Activities
 	 <p>The College Board's <a href="http://myap.collegeboard.org" target="_blank" title="AP Classroom Site">AP Classroom</a> provides a question bank and Topic Questions. You may create a formative assessment quiz in AP Classroom, assign the quiz (a set of questions), and then review the results in class to identify and address any student misunderstandings.The following are suggested topic questions that you could assign once students have completed this lesson.</p>
 	   <p><b>Suggested Topic Questions:</b></p> <span style="font-weight: normal;">Create Formative PT Questions</span><br></h4>
 	</div>
-	<h3 class="assessment">Assessment Opportunities</h3>
+	<h3 class="assessment">Assessment Opportunities and Solutions</h3>
 	 <div class="yui-wk-div">
-	   <p><b>Solutions:</b></p>
+	   <p><b>Solutions</b> 
+    <i>Note: Solutions are only available to verified educators who have joined the <a href="../Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</i></p>
 	   <ul>
-	     <li><i>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</i></li>
 	 <li><a href="https://docs.google.com/document/d/1LnPo5bxkhkCdZwo8lYZV490438quJBOVgn7E0C9UE8s/" target="_blank" title="">Enhancement and Written Response Sample Solutions</a></li>
 	 <li><a href="https://docs.google.com/document/d/1bPSXgGhV2siAgQoIf-u4jo_DZXb4X9N-bqdWFJ58NrA" target="_blank">Student Exemplar</a> (earned a 1 for all 6 rows)</li>
 	<li><a href="https://drive.google.com/open?id=1Us4_AJcI_9Xja_1lTTr6RJmI3Ko57W4Kisv7hmXv5cw" target="_blank">Quizly Solutions</a>

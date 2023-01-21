@@ -60,9 +60,9 @@ Learning Activities
     </div>
     <h3 class="assessment">Assessment Opportunities and Solutions</h3>
     <div class="yui-wk-div">
-    <p><b>Solutions:</b></p>
+    <p><b>Solutions</b> 
+    <i>Note: Solutions are only available to verified educators who have joined the <a href="../Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</i></p>
     <ul>
-    <li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li><a href="https://drive.google.com/open?id=1I88Dqdhj1Lvi_3Bxl0TazZtAYDXjOCOdH5JY13tgbDs" target="_blank">Logo 2 Project Solutions</a>
     </li>
     <li><a href="https://drive.google.com/open?id=1xXVoeEKKfyaEA5FqzIkt_Pnnik4RbRp6" target="_blank">Logo 2 .aia file</a>
