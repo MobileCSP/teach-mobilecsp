@@ -32,8 +32,9 @@ Impacts of CS The Digital Explosion
     <li><a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter1.pdf" target="_blank" title="">Chapter 1 from <i>Blown to Bits</i></a> (12th grade reading level on the Fry Graph Readability Formula)</li>
     <li><a href="https://docs.google.com/document/d/1IiOfh052ziFDnYKTHA8gXjJvqHBfahLM5M0yQyM9lu8/view" target="_blank">Double Entry Journal Template</a></li><li><a href="https://docs.google.com/document/d/1t108otAa9_MFtFERsozLL0g-UXQkdAKfKotZgIhGCg0/edit?ts=5f6dfd20#" target="_blank" title="">Tracking Your Technology Use Worksheet</a></li>
     <li><a href="https://docs.google.com/document/d/1g5fuVEDu3V2XHVRBok1gFAOaAV7eWyict1S2ROopsw0" target="_blank">Debate Team Carousel Template</a></li>
-    <li><a href="https://docs.google.com/document/d/1vEbjt_f4YZO-siBSMFalh7rv8-m307k0TnXUBEo4izM/edit?usp=sharing" target="_blank"><i>Blown to Bits</i> Vocabulary Chapter 1</a></li>
-    <li><a href="https://docs.google.com/document/d/1LvukFsCVFxyMIJ_q2dVcYKtklEGuY-zdCb6NTDXONdc/edit?usp=sharing" target="_blank"><i>Blown to Bits</i> Vocabulary Masterlist</a></li>
+    <!--<li><a href="https://docs.google.com/document/d/1vEbjt_f4YZO-siBSMFalh7rv8-m307k0TnXUBEo4izM/edit?usp=sharing" target="_blank"><i>Blown to Bits</i> Vocabulary Chapter 1</a></li> 
+    <li><a href="https://docs.google.com/document/d/1LvukFsCVFxyMIJ_q2dVcYKtklEGuY-zdCb6NTDXONdc/edit?usp=sharing" target="_blank"><i>Blown to Bits</i> Vocabulary Masterlist</a></li> 
+    -->
     </ul>
     
 
@@ -108,9 +109,9 @@ Learning Activities
     </div>
     <h3 class="assessment">Assessment Opportunities</h3>
     <div class="yui-wk-div">
-    <p><b>Solutions:</b></p>
+    <p><b>Solutions</b> 
+    <i>Note: Solutions are only available to verified educators who have joined the <a href="../Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</i></p>
     <ul>
-    <li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li><a href="https://drive.google.com/open?id=1Us4_AJcI_9Xja_1lTTr6RJmI3Ko57W4Kisv7hmXv5cw" target="_blank">Quizly Solutions</a>
     </li>
     <li><a href="https://sites.google.com/a/css.edu/jrosato-cis-1001/" target="_blank">Portfolio Reflection Questions Solutions</a>

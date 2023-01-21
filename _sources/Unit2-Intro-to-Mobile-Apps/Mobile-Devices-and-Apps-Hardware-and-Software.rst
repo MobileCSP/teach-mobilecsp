@@ -123,15 +123,15 @@ Learning Activities
     </div>
     <h3 class="assessment">Assessment Opportunities</h3>
     <div class="yui-wk-div">
-    <p><b>Solutions:</b></p>
+    <p><b>Solutions</b> 
+    <i>Note: Solutions are only available to verified educators who have joined the <a href="../Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</i></p>
     <ul>
-    <li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li><a href="https://drive.google.com/open?id=1Us4_AJcI_9Xja_1lTTr6RJmI3Ko57W4Kisv7hmXv5cw" target="_blank">Quizly Solutions</a>
     </li>
     <li><a href="https://sites.google.com/a/css.edu/jrosato-cis-1001/" target="_blank">Portfolio Reflection Questions Solutions</a>
     </li>
     </ul>
-    <p><b>Assessment Opportunities</b></p>
+    <p><b>Assessment Opportunities and Solutions</b></p>
     <p>You can examine students’ work on the matching worksheet, interactive exercises, and their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.
         </p><ul>
     <li><i><b>Interactive Exercises:</b></i>

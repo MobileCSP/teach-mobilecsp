@@ -71,9 +71,9 @@ Learning Activities
     </div>
     <h3 aria-controls="ui-id-2" aria-expanded="false" aria-selected="false" class="assessment ui-accordion-header ui-state-default ui-corner-all" id="ui-id-1" role="tab" tabindex="0">Assessment Opportunities and Solutions</h3>
     <div aria-hidden="true" aria-labelledby="ui-id-1" class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom yui-wk-div" id="ui-id-2" role="tabpanel" style="display: none;">
-    <p><b>Solutions:</b></p>
+    <p><b>Solutions</b> 
+    <i>Note: Solutions are only available to verified educators who have joined the <a href="../Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</i></p>
     <ul>
-    <li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li>
     <a href="https://docs.google.com/document/d/1ZhQjFHkKRaQZIe_KeI9vRj3NewScZbwXByaG-kLlilA/edit?usp=sharing" target="_blank">Binary/hex conversion worksheet answers</a>.</li>
     <li>
