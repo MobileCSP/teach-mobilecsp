@@ -32,8 +32,9 @@ Impacts of CS Electronic Documents
     <li><a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter3.pdf" target="_blank">Blown to Bits, Chapter 3</a></li>
     <li><a href="https://docs.google.com/document/d/1yBzUmMimZ7YVF0x9osqcGRtHP-RkT46MLAjL2mzsAe0/edit?usp=sharing" target="_blank">Conversation Questions Template</a></li>
     <li><a href="https://docs.google.com/document/d/1LvLYKuRZ66FMd_BSkDVBj8rrg6YN5QbHBx8CxcPnq_Q/edit?usp=sharing" target="_blank">Now That's Surprising Template</a></li>
-    <li><a href="https://docs.google.com/document/d/1r1CFFqGrie0OnOwa3kveoL0ru3cEUaryb4-UksohJaA/edit?usp=sharing" target="_blank"><i>Blown to Bits</i> Vocabulary Chapter 3</a></li>
+    <!--<li><a href="https://docs.google.com/document/d/1r1CFFqGrie0OnOwa3kveoL0ru3cEUaryb4-UksohJaA/edit?usp=sharing" target="_blank"><i>Blown to Bits</i> Vocabulary Chapter 3</a></li>
     <li><a href="https://docs.google.com/document/d/1LvukFsCVFxyMIJ_q2dVcYKtklEGuY-zdCb6NTDXONdc/edit?usp=sharing" target="_blank"><i>Blown to Bits</i> Vocabulary Masterlist</a></li>
+    -->
     </ul>
     
 
@@ -83,11 +84,11 @@ Learning Activities
     <p>The College Board's <a href="http://myap.collegeboard.org" target="_blank" title="AP Classroom Site">AP Classroom</a> provides a question bank and Topic Questions. You may create a formative assessment quiz in AP Classroom, assign the quiz (a set of questions), and then review the results in class to identify and address any student misunderstandings.The following are suggested topic questions that you could assign once students have completed this lesson.</p>
     <p><b>Suggested Topic Questions:</b></p><br/><ul><li><span style="font-weight: normal;">Topic 2.3 Extracting Data from Information<br/></span></li></ul></h4>
     </div>
-    <h3 class="assessment">Assessment Opportunities</h3>
+    <h3 class="assessment">Assessment Opportunities and Solutions</h3>
     <div>
-    <p><b>Solutions:</b></p>
+    <p><b>Solutions</b> 
+    <i>Note: Solutions are only available to verified educators who have joined the <a href="../Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</i></p>
     <ul>
-    <li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li><a href="https://drive.google.com/open?id=1Us4_AJcI_9Xja_1lTTr6RJmI3Ko57W4Kisv7hmXv5cw" target="_blank">Quizly Solutions</a>
     </li>
     <li><a href="https://sites.google.com/a/css.edu/jrosato-cis-1001/" target="_blank">Portfolio Reflection Questions Solutions</a>

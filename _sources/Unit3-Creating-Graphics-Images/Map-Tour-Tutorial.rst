@@ -56,9 +56,9 @@ Learning Activities
     </div>
     <h3 class="assessment">Assessment Opportunities and Solutions</h3>
     <div class="yui-wk-div">
-    <p><b>Solutions:</b></p>
+    <p><b>Solutions</b> 
+    <i>Note: Solutions are only available to verified educators who have joined the <a href="../Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</i></p>
     <ul>
-    <li>Note: Solutions are only available to verified educators who have joined the <a href="./unit?unit=1&amp;lesson=39" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</li>
     <li><a href="https://docs.google.com/document/d/11fmEXjcZJRD7bdtSQde-aSsSR6eokLJLLEF8vZiOCcc/edit?usp=sharing" target="_blank">Map Tour Enhancements Solutions</a>
     </li>
     <li><a href="https://drive.google.com/open?id=1_CaGNLnpa0_Mthw6tklOhWRLH6b5-X2b" target="_blank">Map Tour Enhancements .aia file</a>
