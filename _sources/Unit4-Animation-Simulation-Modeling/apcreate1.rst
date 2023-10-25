@@ -227,6 +227,7 @@ ASSESSMENT: Create: Programming Performance Task #1 (INSTRUCTOR MATERIALS)
 	   <li>At Your Own Pace - You only need to complete Create #2 to submit with your portfolio for the certificate.</li>
 	 </ul>
 	   <p><b>The Student Handout:</b> College Board's <a href="https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf?course=ap-computer-science-principles#page=4" target="_blank" title="">reproducible CREATE Performance Task Description student handout</a>&nbsp;from the AP CSP Course and Exam Description booklet.</p>
+		<p><font color="red">NEW as of Fall 2023,</font> students no longer need to turn in a Create written response to the AP Digital Portfolio submission site. However, students should still complete the Create written response to prepare for the AP exam. The Create performance task still consists of three components—program code, video, and instead of the written response, a student-authored Personalized Project Reference containing screen captures of their list and procedure. Students will use Component C: A Personalized Project Reference to answer questions during the AP exam. To prepare for these questions, students should complete Create written response even though they do not need to submit it to the AP site.</p>
 	</div>
 	
 	<h3>Materials</h3>
@@ -242,10 +243,10 @@ ASSESSMENT: Create: Programming Performance Task #1 (INSTRUCTOR MATERIALS)
 	 <li><a href="https://drive.google.com/open?id=14noR7S7w-ghgnV2cmKXuO4KbYt3RL3vPVJLnvoWr3bk" target="_blank" title="">How To: Share Your App</a></li>
 	 <li>For AP classes: <ul>
 	 <li><a href="https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf?course=ap-computer-science-principles#page=4" target="_blank" title="">CREATE Performance Task Description and Instructions </a></li>
-	   <li><a href="https://apcentral.collegeboard.org/media/pdf/ap22-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">Create Performance Task Scoring Guidelines </a></li>
-	   <li> <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit8-AP-Exam-Prep/Explore-Samples.html" target="_blank">Create Performance Task Samples in lesson 8.9</a></li>
+	   <li><a href="https://apcentral.collegeboard.org/media/pdf/ap23-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">Create Performance Task Scoring Guidelines </a></li>
+	   <li> <a href="https://runestone.academy/ns/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Create-PT-Samples.html" target="_blank">Create Performance Task Samples in Lesson 7.10</a></li>
 	 <li><a href="https://docs.google.com/document/d/1B0VUXo-voVro_paLykF153QKtZ-urzrY-JkNFxBZjDA/copy" target="_blank" title="">AP Create template and checklists</a> </li>
-	   <li> <a href="https://sites.google.com/site/mobilecspportfoliohelp/performance-tasks/create-1" target="_blank">Portfolio help site</a></li>
+	   <li> <a href="https://sites.google.com/site/mobilecspportfoliohelp/performance-tasks" target="_blank">Portfolio help site</a></li>
 	<li><a href="https://docs.google.com/document/d/1pM5b-lzji6LYdyBCsHuuBzfjYm4bpEIvtFjC0fX2z3M/" target="_blank" title="">How To: Grade Performance Tasks Electronically</a></li>
 	 <li><a href="http://apcentral.collegeboard.com/apc/public/exam/exam_information/231726.html#anchor3" target="_blank" title="">Student samples (from College Board)</a></li>
 	</ul>
@@ -285,14 +286,18 @@ Learning Activities
 	   <div class="yui-wk-div">
 	     <ul>
 	     <li><span class="yui-non">Create Performance Task Deep Dive webinar by the College Board from October 2020 (<a href="https://www.youtube.com/watch?v=vPq2Cbic73A" target="_blank" title="Create PT Deep Dive">recording</a>)</span></li>
-	     <li>Review the <a href="https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=196" target="_blank" title="">Course and Exam Description from the College Board</a></li>
-	     <li>Review the <a href="https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=176" target="_blank" title="">Teacher Guidelines</a>, as provided by the College Board, for the CREATE Performance Task.</li><li><a href="https://apcentral.collegeboard.org/pdf/digital-portfolio-teacher-user-guide-ap-csp.pdf?course=ap-computer-science-principles" target="_blank" title="">AP Digital Portfolio Teacher Guide</a></li><li><a href="https://apcentral.collegeboard.org/pdf/digital-portfolio-student-user-guide-ap-csp.pdf" target="_blank" title="" style="text-decoration-line: underline !important;">AP Digital Portfolio Student Guide (for submitting)</a></li>
-	     </ul>
+	     <li>Review the <a href="https://apcentral.collegeboard.org/media/pdf/ap-computer-science-principles-course-and-exam-description.pdf" target="_blank" title="">Course and Exam Description (CED) from the College Board</a></li>
+		 <li>Review the <a href="https://apcentral.collegeboard.org/media/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=171" target="_blank" title="">AP CSP Exam Section in the CED</a></li>
+	     <li>Review the <a href="https://apcentral.collegeboard.org/media/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=179" target="_blank" title="">Teacher Guidelines</a>, as provided by the College Board, for the CREATE Performance Task.</li>
+		 <li>Watch the <a href="https://apclassroom.collegeboard.org/103/home?unit=0" target="_blank" title="">2023 webinar in AP Classroom under Teacher Resources in the Overview section</a> , as provided by the College Board, for the CREATE Performance Task. The webinar was geared toward AP teachers addressing the different components of the Create performance task, how they’ve been updated for the 2023-24 school year, and how they relate to the overall AP Computer Science Principles Exam.
+		 <li>Review the <a href="https://apcentral.collegeboard.org/pdf/digital-portfolio-teacher-user-guide-ap-csp.pdf?course=ap-computer-science-principles" target="_blank" title="">AP Digital Portfolio Teacher Guide</a></li>
+		 <li>Review the <a href="https://apcentral.collegeboard.org/pdf/digital-portfolio-student-user-guide-ap-csp.pdf" target="_blank" title="" style="text-decoration-line: underline !important;">AP Digital Portfolio Student Guide (for submitting)</a></li>
+		 </ul>
 	   </div>
 	   
 	   <h3 class="assessment">Assessment Opportunities and Solutions</h3>
 	 <div class="yui-wk-div">
-	   <p>Summative: See the <a href="https://apcentral.collegeboard.org/media/pdf/ap22-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">CREATE Peformance Task Scoring Guidelines </a><span style="color: rgb(255, 0, 0);"></span> from the College Board.</p>
+	   <p>Summative: See the <a href="https://apcentral.collegeboard.org/media/pdf/ap23-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">CREATE Peformance Task Scoring Guidelines </a><span style="color: rgb(255, 0, 0);"></span> from the College Board.</p>
 	   <p><b>Notes on the College Board Rubric:</b> to be added</p>
 	   </div>
 	   
@@ -338,8 +343,8 @@ Professional Development Reflection
 
 	 <p>Discuss the following questions with other teachers in your professional development program.</p>
 	 <ul> 
-	   <li>What questions do you have about how to implement the performance task in class? Do you need any clarification on the role of teachers for this performance task? (See College Board's Course and Exam Description, pg. 169-171 for role of teachers in the CREATE task.)</li>
-	   <li>Review the <a href="https://apcentral.collegeboard.org/media/pdf/ap22-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">CREATE - Programming Performance Task Scoring Guidelines</a>, paying attention to the content areas (rows) and the descriptors for each performance quality (columns). What areas are you comfortable assessing? What areas do you have questions about?</li>
+	   <li>What questions do you have about how to implement the performance task in class? Do you need any clarification on the role of teachers for this performance task? (See the Teacher Guidelines in the College Board's Course and Exam Description (CED) for role of teachers in the CREATE task.)</li>
+	   <li>Review the <a href="https://apcentral.collegeboard.org/media/pdf/ap23-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">CREATE - Programming Performance Task Scoring Guidelines</a>, paying attention to the content areas (rows) and the descriptors for each performance quality (columns). What areas are you comfortable assessing? What areas do you have questions about?</li>
 	   <li>Review the Essential Knowledge statements under each learning objective for the Big Idea of Programming (see the curriculum framework in the CED). Students have now completed a few units of the course, but have more to learn about programming. Which of the essential knowledge statements do you feel are not applicable at this point in the course (i.e. that students should not be evaluated against on this task)?</li>
 	   </ul>
 

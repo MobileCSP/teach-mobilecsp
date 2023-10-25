@@ -26,7 +26,7 @@ AP CS Principles Exam Prep
 
 .. raw:: html
 
-	<p>The next lesson provides some sample questions provided by the College Board in their <a href="https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=179" target="_blank" style="color: rgb(120, 71, 178); text-decoration: none;" title="">AP CSP Course and Exam Description booklet</a>. 
+	<p>The next lesson provides some sample questions provided by the College Board in their <a href="https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=183" target="_blank" style="color: rgb(120, 71, 178); text-decoration: none;" title="">AP CSP Course and Exam Description booklet</a>. 
 	Note that when you look at each question, the booklet identifies the enduring understandings, learning objectives, and essential knowledge statements assessed by it.
 	</p>
 	

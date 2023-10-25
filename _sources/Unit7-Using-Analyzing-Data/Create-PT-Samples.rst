@@ -47,7 +47,7 @@ Create PT Prep & Samples
 	<ul>
 	  <li><a href="https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam/past-exam-questions?course=ap-computer-science-principles" target="_blank" title="">Student Samples on College Board's AP Central</a></li>
 	  <li><a href="https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf?course=ap-computer-science-principles" target="_blank" title="">Create Performance Task Student Handout</a></li>
-	  <li><a href="https://apcentral.collegeboard.org/media/pdf/ap22-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">Create Performance Task Scoring Guidelines</a></li>
+	  <li><a href="https://apcentral.collegeboard.org/media/pdf/ap23-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">Create Performance Task Scoring Guidelines</a></li>
 	  <li><a href="https://docs.google.com/spreadsheets/d/1Yfmdk9LyQ1fRWPuTR37RuINF_xXa7zsu6Sfq0aapRqw/" target="_blank" title="">Worksheet - Student Scoring Spreadsheet</a></li>
 	</ul>
 	

@@ -163,7 +163,9 @@ ASSESSMENT: Create: Programming Performance Task #2 (INSTRUCTOR MATERIALS)
 	 <h3>Professional Development</h3> 
 	 <p><b>The Student Lesson: </b> Complete the student activities for the <a href="../mobilecsp/assessment?name=118" target="_blank">Mobile CSP Create: Programming Performance Task #2 assessment</a>.&nbsp;</p>
 	 <p><b>The Student Handout:</b> College Board's <a href="https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf?course=ap-computer-science-principles#page=4" target="_blank" title="">reproducible CREATE Performance Task Description student handout</a> from the Course and Exam Description  booklet.</p>
-	 <p><b>Grade Sample Projects:</b> Use the <a href="https://apcentral.collegeboard.org/media/pdf/ap22-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">CREATE Performance Task Scoring Guidelines</a> to grade at least two <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam" target="_blank" title="">student samples (from College Board)</a> or peer projects (app projects from your professional development group).</p>
+	 <p><b>Grade Sample Projects:</b> Use the <a href="https://apcentral.collegeboard.org/media/pdf/ap23-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">CREATE Performance Task Scoring Guidelines</a> to grade at least two <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam" target="_blank" title="">student samples (from College Board)</a> or peer projects (app projects from your professional development group).</p>
+	 <p><font color="red">NEW as of Fall 2023,</font> students no longer need to turn in a Create written response to the AP Digital Portfolio submission site. However, students should still complete the Create written response to prepare for the AP exam. The Create performance task still consists of three components—program code, video, and instead of the written response, a student-authored Personalized Project Reference containing screen captures of their list and procedure. Students will use Component C: A Personalized Project Reference to answer questions during the AP exam. To prepare for these questions, students should complete Create written response even though they do not need to submit it to the AP site.</p>
+
 	</div>
 	
 	<h3>Materials</h3>
@@ -179,7 +181,7 @@ ASSESSMENT: Create: Programming Performance Task #2 (INSTRUCTOR MATERIALS)
 	 <li><a href="https://drive.google.com/open?id=14noR7S7w-ghgnV2cmKXuO4KbYt3RL3vPVJLnvoWr3bk" target="_blank" title="">How To: Share Your App</a></li>
 	 <li>For AP classes: <ul>
 	 <li><a href="https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf?course=ap-computer-science-principles#page=4" target="_blank" title="">CREATE Performance Task Description and Instructions </a></li>
-	 <li><a href="https://apcentral.collegeboard.org/media/pdf/ap22-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">CREATE Peformance Task Scoring Guidelines </a></li>
+	 <li><a href="https://apcentral.collegeboard.org/media/pdf/ap23-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">CREATE Peformance Task Scoring Guidelines </a></li>
 	  <li> <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Create-PT-Samples.html" target="_blank">Create Performance Task Samples in lesson 8.9</a></li>
 	 <li><a href="https://docs.google.com/document/d/1B0VUXo-voVro_paLykF153QKtZ-urzrY-JkNFxBZjDA/copy" target="_blank" title="">AP Create template and checklists</a> </li>
 	   <li> <a href="https://sites.google.com/site/mobilecspportfoliohelp/performance-tasks/create-1" target="_blank">Portfolio help site</a></li>
@@ -205,7 +207,7 @@ Learning Activities
 	   <ul>
 	   
 	     <li><b>AP Warm Up Activity: Create Grading Rubric (45 mins):</b>
-	AP classes can use the <a href="https://apcentral.collegeboard.org/media/pdf/ap22-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">Create Performance Task Scoring Guidelines </a> to grade the two <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Create-PT-Samples.html" target="_blank">Create Performance Task Samples in lesson 8.9</a> to familiarize students with the rubric and Create write-ups. Encourage them to carefully review the prompts as well as the scoring rubric. Also have them review the grading rubric and the College Board student samples so they can see examples of high, medium, and low graded student work.</li>
+	AP classes can use the <a href="https://apcentral.collegeboard.org/media/pdf/ap23-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">Create Performance Task Scoring Guidelines </a> to grade the two <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Create-PT-Samples.html" target="_blank">Create Performance Task Samples in lesson 8.9</a> to familiarize students with the rubric and Create write-ups. Encourage them to carefully review the prompts as well as the scoring rubric. Also have them review the grading rubric and the College Board student samples so they can see examples of high, medium, and low graded student work.</li>
 	     <li><b>Explanation:</b> Explain the Create Task. Students should follow the&nbsp;<a href="https://docs.google.com/document/d/1zbHDdR-l5JF9xGor-hChrqB8pzCnxgxwMY-vBCZqJYI/edit?usp=sharing" target="_blank">Create  Task  with Design Thinking Iterative Process Handout</a>. This is divided into 3+ Iterations. Students will be provided with 12 hours of in class time to complete this assessment with minimal help from the instructor.</li>
 	     <li><b>Iteration 1 (45-90 mins):</b> Each pair works collaboratively on brainstorming a project idea. 
 	       <br>Each pair should develop drawing(s) of the User Interface, as well as, create a rough storyboard of how their app will function. Here is a <a href="https://docs.google.com/drawings/d/1ZB7rhEj6-xkbGgnzISvNonuB9Rrjnz13AGkUkTh2CbM/edit?usp=sharing" target="_blank" title="">wireframe template</a> that can be used. 
@@ -254,7 +256,7 @@ Learning Activities
 	   
 	   <h3 class="assessment">Assessment Opportunities and Solutions</h3>
 	 <div class="yui-wk-div">
-	   <p>Summative: See the <a href="https://apcentral.collegeboard.org/media/pdf/ap22-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">CREATE Peformance Task Scoring Guidelines </a><span style="color: rgb(255, 0, 0);"></span> from the College Board.</p>
+	   <p>Summative: See the <a href="https://apcentral.collegeboard.org/media/pdf/ap23-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">CREATE Peformance Task Scoring Guidelines </a><span style="color: rgb(255, 0, 0);"></span> from the College Board.</p>
 	   <p><b>Notes on the College Board Rubric:</b> to be added</p>
 	   </div>
 	   
@@ -298,7 +300,7 @@ Professional Development Reflection
 	 <p>Discuss the following questions with other teachers in your professional development program.</p>
 	 <ul> 
 	   <li>What questions do you have about how to implement the performance task in class? Do you need any clarification on the role of teachers for this performance task? (See College Board's Course and Exam Description, pg. 82-83 for role of teachers in the CREATE Performance Task.)</li>
-	   <li>Review the <a href="https://apcentral.collegeboard.org/media/pdf/ap22-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">CREATE - Programming Performance Task Scoring Guidelines </a>, paying attention to the content areas (rows) and the descriptors for each performance quality (columns). What areas are you comfortable assessing? What areas do you have questions about?</li>
+	   <li>Review the <a href="https://apcentral.collegeboard.org/media/pdf/ap23-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">CREATE - Programming Performance Task Scoring Guidelines </a>, paying attention to the content areas (rows) and the descriptors for each performance quality (columns). What areas are you comfortable assessing? What areas do you have questions about?</li>
 	 </ul>
 	
 	</div>
