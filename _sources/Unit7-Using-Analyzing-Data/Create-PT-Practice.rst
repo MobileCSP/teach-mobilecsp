@@ -38,7 +38,7 @@ Create PT Written Response Practice
 	<p class="overview">
 	<a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Create-Written-Practice.html" target="_blank" title="">This lesson&nbsp;</a>provides students with practice for answering the Create Performance Task prompts. Students examine a pre-developed app that is an educational memory app that allows users to practice learning a different language. The game's code contains all of the programming requirements to satifsy the College Board's Create Performance Task scoring guidelines. Students will practice responding to the Create Performance Task prompts based on the code provided with this app.</p><div class="pd yui-wk-div"> 
 	 <p><b>The Student Lesson: </b> Complete the activities for 
-	   <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Create-Written-Practice.html" target="_blank" title="">Mobile CSP Unit 8 Lesson 8.11: Create PT Practice</a>.
+	   <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Create-Written-Practice.html" target="_blank" title="">Mobile CSP Unit 7 Lesson 7.11: Create PT Practice</a>.
 	 </p>
 	</div>
 	

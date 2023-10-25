@@ -38,7 +38,7 @@ Create PT Prep & Samples
 	<p class="overview">
 	<a href="https://runestone.academy/ns/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Create-PT-Samples.html" target="_blank" title="">This lesson</a> provides students with an opportunity to score sample Create Performance Tasks. Students will review and try scoring selected samples from the College Board's AP Central site. In doing so, students learn more about the requirements to satifsy the College Board's Create Performance Task scoring guidelines. </p><div class="pd yui-wk-div"> 
 	 <p><b>The Student Lesson: </b> Complete the activities for 
-	   <a href="https://runestone.academy/ns/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Create-PT-Samples.html" target="_blank" title="">Mobile CSP Unit 7 Lesson 7.11: Create PT Prep and Samples</a>.
+	   <a href="https://runestone.academy/ns/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Create-PT-Samples.html" target="_blank" title="">Mobile CSP Unit 7 Lesson 7.10: Create PT Prep and Samples</a>.
 	 </p>
 	</div>
 	
