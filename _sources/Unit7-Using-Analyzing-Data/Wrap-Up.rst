@@ -56,12 +56,14 @@ Other Assessment Materials:
 
     <p>
     <p>Many of the Mobile CSP teachers from previous years have decided to quiz students in between the larger exams (midterm and final). Some of those teachers have shared their quizzes. The <a href="https://drive.google.com/folderview?id=0B5ZVxaK8f0u9ZDlMa3RpS0NhZ1k&amp;usp=sharing">Mobile CSP Assessments Repository</a> contains copies of those quizzes (most of which were made with Google Forms) and instructions for how to use those quizzes. <b>Note: Assessments are only available to verified educators that have joined the Teaching Mobile CSP Google group/forum in Unit 1. Please <a href="https://runestone.academy/runestone/books/published/teach-mobilecsp/Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank" title="">go here to sign up for the Teaching Mobile CSP forum</a>.</b> Membership in this forum gives teachers access to the following resources:
-      </p><ul>
-    <li><a href="https://sites.google.com/umn.edu/mobilecspportfolioanswerkey" target="_blank" title="">Portfolio Answer Key</a> website
-        </li><li> <a href="https://drive.google.com/open?id=0B5ZVxaK8f0u9b1EySDI2dFB0Sms" target="_blank">Solutions folder</a> </li>
-    <li><a href="https://drive.google.com/open?id=1Us4_AJcI_9Xja_1lTTr6RJmI3Ko57W4Kisv7hmXv5cw" target="_blank">Quizly Solutions</a>
-    </li><li><a href="https://drive.google.com/drive/u/0/folders/0B5ZVxaK8f0u9ZDlMa3RpS0NhZ1k" target="_blank">Assessments folder</a> - includes quizzes from other teachers, copies of previous midterm and final exams, and the unit assessments</li>
-    <li><a href="https://drive.google.com/drive/u/0/folders/0B5ZVxaK8f0u9REQtNTZqTkhrWE0" target="_blank">Text Versions of Lessons</a>
-    </li></ul>
+    </p>
+    <ul>
+     <li><a href="https://drive.google.com/drive/folders/1w2ONwFLElLX7ntsPIO6_LJS6Yv8nQ9cG?usp=sharing" target="_blank">Teach Mobile CSP Shared Drive Folder</a>
+    </li><li><a href="https://sites.google.com/umn.edu/mobilecspportfolioanswerkey" target="_blank" title="">Portfolio Answer Key</a> website
+    </li><li> <a href="https://drive.google.com/open?id=0B5ZVxaK8f0u9b1EySDI2dFB0Sms" target="_blank">Solutions folder</a> 
+    </li><li><a href="https://drive.google.com/open?id=1Us4_AJcI_9Xja_1lTTr6RJmI3Ko57W4Kisv7hmXv5cw" target="_blank">Quizly Solutions</a>
+    </li><li><a href="https://drive.google.com/drive/u/0/folders/0B5ZVxaK8f0u9ZDlMa3RpS0NhZ1k" target="_blank">Assessments folder</a> - includes quizzes from other teachers, copies of previous midterm and final exams, and the unit assessments
+    </li>
+   </ul>
     <p>You are also welcome to create your own quizzes. If you have a quiz you'd like to submit to the repository, please email us at research@mobile-csp.org</p>
     </div>
