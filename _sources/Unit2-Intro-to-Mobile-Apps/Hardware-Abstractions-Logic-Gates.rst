@@ -113,7 +113,7 @@ Learning Activities
     </li>
     <li><a href="https://docs.google.com/document/d/1fktruAhWy7vdLBmz5WUnc6bWJSJ1N-hYGhVufKyWkc0/edit?usp=sharing" target="_blank">Logic Gates POGIL Solutions</a>
     </li>
-    <li><a href="https://sites.google.com/a/css.edu/jrosato-cis-1001/" target="_blank">Portfolio Reflection Questions Solutions</a>
+    <li><a href="https://sites.google.com/umn.edu/mobilecspportfolioanswerkey/" target="_blank">Portfolio Reflection Questions Solutions</a>
     </li>
     </ul>
     <p><b>Assessment Opportunities</b></p>

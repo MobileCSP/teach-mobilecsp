@@ -73,7 +73,7 @@ Learning Activities
     <ul>
     <li><a href="https://drive.google.com/open?id=1Us4_AJcI_9Xja_1lTTr6RJmI3Ko57W4Kisv7hmXv5cw" target="_blank">Quizly Solutions</a>
     </li>
-    <li><a href="https://sites.google.com/a/css.edu/jrosato-cis-1001/" target="_blank">Portfolio Reflection Questions Solutions</a>
+    <li><a href="https://sites.google.com/umn.edu/mobilecspportfolioanswerkey/" target="_blank">Portfolio Reflection Questions Solutions</a>
     </li><li><a href="https://docs.google.com/document/d/1jqsEkucgGwArdFJZWO75IL_Kq7Dg5l-ON0V529sY3Dc/edit" target="_blank" title="">Client/Server Activity Solutions</a></li>
     </ul>
     <p><b>Assessment Opportunities</b></p>

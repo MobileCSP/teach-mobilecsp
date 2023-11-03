@@ -74,7 +74,7 @@ Learning Activities
     <li><a href="https://drive.google.com/open?id=1UDMZT9Kg61H7zH21VxGCgh-PTgqVoKEG" target="_blank">Caesar Cipher Finished App including Encrypt and Decrypt (in extension 1)</a></li>
     <li><a href="https://drive.google.com/open?id=1Us4_AJcI_9Xja_1lTTr6RJmI3Ko57W4Kisv7hmXv5cw" target="_blank">Quizly Solutions</a>
     </li>
-    <li><a href="https://sites.google.com/a/css.edu/jrosato-cis-1001/" target="_blank">Portfolio Reflection Questions Solutions</a>
+    <li><a href="https://sites.google.com/umn.edu/mobilecspportfolioanswerkey/" target="_blank">Portfolio Reflection Questions Solutions</a>
     </li>
     </ul>
     <p>You can examine students’ work on the interactive exercise and their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.</p>
