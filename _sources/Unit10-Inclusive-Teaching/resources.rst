@@ -32,9 +32,9 @@ Resources
 	 <h3>Course at a Glance</h3>
 	 <div>
 	   <ul>
-	<li><a href="http://www.mobile-csp.org/?q=contact" target="" title="">Mobile CSP Staff</a></li>
-	<li><a target="_blank" href="https://docs.google.com/spreadsheets/d/10CSYSTF85WRKwZbUNo_19vuCLt6sJXlbU9iBVwemm3U/">Mobile CSP Curriculum Overview</a></li>
-	<li><a target="_blank" href="https://drive.google.com/folderview?id=0B5ZVxaK8f0u9Mk9vQm8zaDJrdUk">Sample Syllabi</a> - note: if you're participating in the research project or teaching the course as AP, you should use the <a href="https://drive.google.com/file/d/1exRAAMZlifkmobGqaq5T-fcC0dzQr8HG/view?usp=sharing" target="_blank">official Mobile CSP syllabus</a></li>
+	<li><a href="https://www.mobilecsp.org/about/meet-the-team" target="" title="">Mobile CSP Staff</a></li>
+	<li><a target="_blank" href="https://docs.google.com/spreadsheets/d/10CSYSTF85WRKwZbUNo_19vuCLt6sJXlbU9iBVwemm3U/preview">Mobile CSP Curriculum Overview</a></li>
+	<li><a target="_blank" href="https://drive.google.com/drive/folders/0B5ZVxaK8f0u9Mk9vQm8zaDJrdUk?resourcekey=0-hhUT_arOEKuo9npDGbt8Kg&usp=sharing">Sample Syllabi</a> - note: if you're participating in the research project or teaching the course as AP, you should use the <a href="https://drive.google.com/file/d/1exRAAMZlifkmobGqaq5T-fcC0dzQr8HG/view?usp=sharing" target="_blank">official Mobile CSP syllabus</a></li>
 	       <li><a target="_blank" href="https://www.youtube.com/watch?v=82C2GANKXi0">Webinar on AP Audit Process</a></li>
 	       <li><a target="_blank" href="https://docs.google.com/document/d/1kpKG7KMA2p118vrba9MT7F_pYGqoEJjpYagCMzn9qTY/pub">Mobile CSP Curriculum Change Log and Course Updates</a> </li>
 	   </ul>
@@ -44,7 +44,7 @@ Resources
 	   <ul>
 	     <li><a target="_blank" href="https://runestone.academy/runestone/books/published/mobilecsp/Unit8-AP-Exam-Prep/CSP-Quiz-App.html">CS Principles Quiz app</a> - a study guide for the final or AP exams.</li>
 	<li><a target="_blank" href="http://mobile-csp.org/quizly/">Quizly: Interactive App Inventor Quizzes</a></li>
-	<li><a target="_blank" href="http://appinventor.cs.trincoll.edu/csp/oneminutelessons/">One Minute App Inventor Lessons</a></li>
+	<li><a target="_blank" href="https://mobile-csp.org/webapps/oneminutelessons.html">One Minute App Inventor Lessons</a></li>
 	   <li><a target="_blank" href="https://drive.google.com/drive/folders/0B5ZVxaK8f0u9azJYV2xDRldEYTQ?resourcekey=0-DL5BchlGwgOP-ciRqJoPtA">App Inventor Programming Drills</a>
 	     </li>    
 	   </ul>
@@ -54,7 +54,7 @@ Resources
 	   <ul>
 	     <li><a target="_blank" href="http://appinventor.mit.edu/explore/library.html">App Inventor Library and Documentation</a></li>
 		<li><a target="_blank" href="http://appinventor.org">Appinventor.org</a></li>
-	       <li><a target="_blank" href="https://docs.google.com/document/d/1qu5lI732Pea6sZZkxBp6ZtPuw9iugOgwBSK8NuqGZzA/edit?usp=sharing">IT Funding Suggestions and Recommendations</a></li>
+	       <li><a target="_blank" href="https://docs.google.com/document/d/1qu5lI732Pea6sZZkxBp6ZtPuw9iugOgwBSK8NuqGZzA/preview">IT Funding Suggestions and Recommendations</a></li>
 	<li><a target="_blank" href="https://docs.google.com/document/d/1sV_fAAJEhxRJSzvOmEi0bB4ebKeCcwHHv5zE_nISGgY/">IT Help for Schools Using MIT App Inventor</a> </li>
 	<li><a target="_blank" href="http://appinventor.mit.edu/explore/teach.html">App Inventor Cards</a></li>
 	       <li><a href="https://docs.google.com/document/d/1XBRVe9Rb8bIauJohaf-Bb-GJ-D9hVHOjoongpMu_vyA/edit">Emulator Information and Installation</a></li>
