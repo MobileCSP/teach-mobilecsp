@@ -58,8 +58,19 @@ Learning Activities
     <p>The College Board's <a href="http://myap.collegeboard.org" target="_blank" title="AP Classroom Site">AP Classroom</a> provides a question bank and Topic Questions. You may create a formative assessment quiz in AP Classroom, assign the quiz (a set of questions), and then review the results in class to identify and address any student misunderstandings. The following are suggested topic questions that you could assign once students have completed this lesson.</p>
     <div class="yui-wk-div" style="font-weight: 400;"><p><b>There are no suggested topic questions for this lesson as it is a setup lesson.</b></p></div>
     </div>
-    <h3 class="assessment">Assessment Opportunities</h3>
-    <div class="yui-wk-div"><p>The Google portfolios can be used by students to document their answers to the reflection questions at the end of each lesson as well as to post their Create programming project development. It is recommended that you review and grade student work on their portfolios on a regular basis (e.g. at the end of each unit). <a>Here is an example rubric</a> that can be used to grade student portfolios. </p></div>
+    <h3 class="assessment">Assessment Opportunities and Solutions</h3>
+    <div class="yui-wk-div">
+    <p>The Google portfolios can be used by students to document their answers to the reflection questions at the end of each lesson as well as to post their Create programming project development. It is recommended that you review and grade student work on their portfolios on a regular basis (e.g. at the end of each unit). <a>Here is an example rubric</a> that can be used to grade student portfolios. </p>
+    <p><b>Solutions</b> 
+    <i>Note: Solutions are only available to verified educators who have joined the <a href="../Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank">Teaching Mobile CSP Google group/forum in Unit 1</a>.</i></p>
+    <ul>
+    <li><a href="https://drive.google.com/open?id=1Us4_AJcI_9Xja_1lTTr6RJmI3Ko57W4Kisv7hmXv5cw" target="_blank">Quizly Solutions</a>
+    </li>
+    <li><a href="https://sites.google.com/umn.edu/mobilecspportfolioanswerkey/" target="_blank">Portfolio Reflection Questions Solutions</a>
+    </li>
+    </ul>
+    </p>
+    </div>
     <h3 class="tips">Grading and Teaching Tips</h3>
     <div class="yui-wk-div">
     <ul>
