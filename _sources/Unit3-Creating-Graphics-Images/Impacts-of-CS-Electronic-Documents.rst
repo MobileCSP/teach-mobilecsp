@@ -30,8 +30,8 @@ Impacts of CS Electronic Documents
     <h3>Materials</h3>
     <ul>
     <li><a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter3.pdf" target="_blank">Blown to Bits, Chapter 3</a></li>
-    <li><a href="https://docs.google.com/document/d/1yBzUmMimZ7YVF0x9osqcGRtHP-RkT46MLAjL2mzsAe0/edit?usp=sharing" target="_blank">Conversation Questions Template</a></li>
-    <li><a href="https://docs.google.com/document/d/1LvLYKuRZ66FMd_BSkDVBj8rrg6YN5QbHBx8CxcPnq_Q/edit?usp=sharing" target="_blank">Now That's Surprising Template</a></li>
+    <li><a href="https://docs.google.com/document/d/1g98QUiTnStaLyXbrNaStmqhGH1Wf1W3EQSd7G_sIi4s/view" target="_blank">Conversation Questions Template</a></li>
+    <li><a href="https://docs.google.com/document/d/1rPoj6-I7hCtRfK1SDgA5y628pTaPACKQvlQcYUV7fS8/view" target="_blank">Now That's Surprising Template</a></li>
     <!--<li><a href="https://docs.google.com/document/d/1r1CFFqGrie0OnOwa3kveoL0ru3cEUaryb4-UksohJaA/edit?usp=sharing" target="_blank"><i>Blown to Bits</i> Vocabulary Chapter 3</a></li>
     <li><a href="https://docs.google.com/document/d/1LvukFsCVFxyMIJ_q2dVcYKtklEGuY-zdCb6NTDXONdc/edit?usp=sharing" target="_blank"><i>Blown to Bits</i> Vocabulary Masterlist</a></li>
     -->
