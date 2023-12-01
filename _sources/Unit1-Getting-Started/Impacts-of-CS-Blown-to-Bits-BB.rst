@@ -16,8 +16,14 @@ Impacts of CS Blown to Bits BB
     
     </script>
     <p class="overview"><a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit1-Getting-Started/Impacts-of-CS-Blown-to-Bits-BB.html" target="_blank" title="">This lesson</a> introduces the book that will be used for many of the global impact readings. In this unit, students are simply introduced to the textbook. In Unit 2, they will begin by reading Chapter 1.</p>
-    <p>Teachers who have used the <i>Blown to Bits</i> text in their classroom usually provide the students a link to the readings rather than printing off the text. However, if the student needs to complete some of the readings at home, then you may want to provide printed copies to those without Internet access. A computer lab may be required for some lesson activities, but some of them could be done outside a lab if you have printed copies of the readings. Each lesson extends over 3-4 hours and also includes questions that students will answer on their portfolio site. Readings from the textbook are supplemented with current news and events in each lesson. You are encouraged to ask students to find and bring in news as well.<br/><br/><a href="http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf" target="_blank" title="">Original Blown to Bits Book - All chapters (PDF)</a></p>
-    <p><font color="red">New Blown to Bits: There is a second edition of the Blown to Bits book that has been released. You can access the PDF version for free via <a href="http://www.bitsbook.com/wp-content/uploads/2021/08/9780137441075-Blown-to-Bits-2e.pdf" target="_blank"> BitsBook.com</a>. The Mobile CSP Team is doing a review of the second edition during Summer 2022. Check out <a href="https://docs.google.com/document/d/1kpKG7KMA2p118vrba9MT7F_pYGqoEJjpYagCMzn9qTY/" target="_blank"> the Mobile CSP Change Log</a> for updates. </font> </p>
+   
+    <p>Teachers who have used the <i>Blown to Bits</i> text in their classroom usually provide the students a link to the readings rather than printing off the text. However, if the student needs to complete some of the readings at home, then you may want to provide printed copies to those without Internet access. A computer lab may be required for some lesson activities, but some of them could be done outside a lab if you have printed copies of the readings. Each lesson extends over 3-4 hours and also includes questions that students will answer on their portfolio site. Readings from the textbook are supplemented with current news and events in each lesson. You are encouraged to ask students to find and bring in news as well.<br/></p>
+
+    <p>
+	<a href="http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf" target="_blank" title="">Original Blown to Bits Book - All chapters (PDF)</a>
+	</p>
+   
+    <p><font color="red">New Blown to Bits: There is a second edition of the Blown to Bits book that has been released. You can access the PDF version for free via <a href="http://www.bitsbook.com/wp-content/uploads/2021/08/9780137441075-Blown-to-Bits-2e.pdf" target="_blank"> BitsBook.com</a>. The Mobile CSP Team is doing a review of the second edition during Summer 2023. Check out <a href="https://docs.google.com/document/d/1kpKG7KMA2p118vrba9MT7F_pYGqoEJjpYagCMzn9qTY/" target="_blank"> the Mobile CSP Change Log</a> for updates. </font> </p>
     
 
 Pedagogy: Reading in the Content Area
@@ -26,12 +32,12 @@ Pedagogy: Reading in the Content Area
 .. raw:: html
 
     <p>
-    <p>Below are several videos developed by Dr. Neil Witikko, associate professor of education at the College of St. Scholastica. Dr. Witikko teaches a graduate education course on reading in the content area. All the <span style="font-style: italic;">Blown to Bits</span> lessons have been reviewed by him to incorporate strategies to support students as they tackle these post-secondary level readings. He has also developed a set of videos that outline strategies for helping students read in the content area, especially for texts like this that are at a college-level. More information can be found in Unit 10: Pedagogy.</p>
+    <p>Below are several videos developed by Dr. Neil Witikko, Associate Professor of education at the College of St. Scholastica. Dr. Witikko teaches a graduate education course on reading in the content area. All the <span style="font-style: italic;">Blown to Bits</span> lessons have been reviewed by him to incorporate strategies to support students as they tackle these post-secondary level readings. He has also developed a set of videos that outline strategies for helping students read in the content area, especially for texts like this that are at a college-level. More information can be found on the <a href="https://www.inclusivecsteaching.org" target="_blank">Inclusive CS Teaching Site</a></p>
     <ul>
-    <li><a href="https://youtu.be/FjckL3FsfoQ" target="_blank" title="">Part 1: Reading in the Content Area Overview</a></li>
-    <li><a href="https://youtu.be/vlQIyHNmvOo" target="_blank">Part 2: Pre-Reading Strategies</a></li>
-    <li><a href="https://youtu.be/IgbtU3VKtN8" target="_blank">Part 3: During-Reading Strategies</a></li>
-    <li><a href="https://youtu.be/rPBrBpHIIWA" target="_blank">Part 4: After-Reading Strategies</a></li>
+    <li><a href="https://youtu.be/DveCdO254ZA" target="_blank" title="">Part 1: Reading in the Content Area Overview</a></li>
+    <li><a href="https://youtu.be/GGkzYQNJA0w" target="_blank">Part 2: Pre-Reading Strategies</a></li>
+    <li><a href="https://youtu.be/ufQlhWlqprI" target="_blank">Part 3: During-Reading Strategies</a></li>
+    <li><a href="https://youtu.be/PjNfBdcaIko" target="_blank">Part 4: After-Reading Strategies</a></li>
     </ul>
     
 
