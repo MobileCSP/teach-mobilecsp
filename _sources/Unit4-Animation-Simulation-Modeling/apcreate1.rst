@@ -7,6 +7,7 @@ ASSESSMENT: Create: Programming Performance Task #1 (INSTRUCTOR MATERIALS)
 
 .. raw:: html
 
+    <div class="MCSP-lesson-content">
 	<script>
 	$(document).ready(function() {
 	     generateFrameworkTable(EKmapping['Create']);
@@ -236,8 +237,9 @@ ASSESSMENT: Create: Programming Performance Task #1 (INSTRUCTOR MATERIALS)
 	 <li>Computer lab with projection system</li>
 	 <li>Android or iOS devices, Chromebooks, or emulators</li>
 	<li><a href="https://docs.google.com/document/d/16Y9RPf6IhZ4pZRjtosXdergQPCLRgrmY_TTMr4N9xpU/edit?usp=sharing" target="_blank"> Design Thinking Process: Design a Chair Warm Up Activity</a>. You will need some craft materials like cardboard, tape, paper clips, pipe cleaners, modeling clay of playdough, popsicle sticks, cloth pieces, etc. for students to build simple prototype chairs.</li>
-	 <li><a href="https://docs.google.com/document/d/1zbHDdR-l5JF9xGor-hChrqB8pzCnxgxwMY-vBCZqJYI/edit?usp=sharing" target="_blank"> Create  Task  with Design Thinking Iterative Process Handout</a></li>
+	 <li><a href="https://docs.google.com/document/d/1zbHDdR-l5JF9xGor-hChrqB8pzCnxgxwMY-vBCZqJYI/edit?usp=sharing" target="_blank"> Create Task  with Design Thinking Iterative Process Handout</a></li>
 	 <li><a href="https://docs.google.com/drawings/d/1M-DZITeDT9aiPZ7Oz-kXKEGkn0DiFOH1i8idBNlxwCA/edit" target="_blank">Wireframe Design Template</a></li><li><a href="https://docs.google.com/document/d/1wp2nLWOxFOkbjIzvzb_f_nYX32pgGXBh8qMjA0pzCZY/copy" target="_blank" title="">Journal Entry Template</a></li>
+	 <li> <a href="https://docs.google.com/document/d/1oTdjdZGJgBocqmELHiyyuS_SmqGJN5mgV6ejwk7oOrQ/copy" target="_blank" title="">Create 1 Practice Performance Task template (new for 2024-2025)</a></li>
 	 <li><a href="https://docs.google.com/document/d/1-4oA9bdqDRse1nYpV2wxHnOIwFNas01TbeRnVSBKQ6I/view" target="_blank" title="">How To: Create an App Video</a></li>
 	 <li><a href="https://drive.google.com/open?id=15H4awBUZ0GHNcG3zVaqHZ7grJHimhUEm7dPWfTmfWl0" target="_blank" title="">How To: Create a Portfolio Write-Up</a></li>
 	 <li><a href="https://drive.google.com/open?id=14noR7S7w-ghgnV2cmKXuO4KbYt3RL3vPVJLnvoWr3bk" target="_blank" title="">How To: Share Your App</a></li>
@@ -267,17 +269,18 @@ Learning Activities
 	
 	 <li><b>Experiences and Explorations:</b>
 	   <ul>
-	     <li><b>Explanation:</b> Explain the Create #1 task. Students should follow the assignment process for create #1 using the <a href="https://docs.google.com/document/d/1zbHDdR-l5JF9xGor-hChrqB8pzCnxgxwMY-vBCZqJYI/edit?usp=sharing" target="_blank"> Create  Task  with Design Thinking Iterative Process Handout</a>. This is divided into 3+ Iterations. <span style="font-weight: bold;">Each iteration will take approximately 2 hours to complete.</span></li>
-	     <li><b>Iteration 1 (45-90 mins):</b> Each pair works collaboratively on brainstorming a project idea. 
+	     <li><b>Explanation:</b> Explain the Create #1 task. Students should follow the assignment process for create #1 using the <a href="https://docs.google.com/document/d/1zbHDdR-l5JF9xGor-hChrqB8pzCnxgxwMY-vBCZqJYI/edit?usp=sharing" target="_blank"> Create  Task  with Design Thinking Iterative Process Handout</a> and <a href="https://docs.google.com/document/d/1oTdjdZGJgBocqmELHiyyuS_SmqGJN5mgV6ejwk7oOrQ/copy" target="_blank" title="">Create 1 Practice Performance Task template (new for 2024-2025)</a>. This is divided into 3+ Iterations. </li>
+	     <li><b>Iteration 1 (45-60 mins):</b> Each pair works collaboratively on brainstorming a project idea. 
 	       <br>Each pair should develop drawing(s) of the User Interface, as well as, create a rough storyboard of how their app will function. Here is a <a href="https://docs.google.com/drawings/d/1ZB7rhEj6-xkbGgnzISvNonuB9Rrjnz13AGkUkTh2CbM/edit?usp=sharing" target="_blank" title="">wireframe template</a> that can be used. 
 	       <br>When brainstorming is completed, each pair should begin preparing for their elevator pitch by completing the following template: 
 	       <br><i>[name of app] is a [kind of thing it is] for [the people who would use it] that, unlike [similar apps] is able to [the major distinguishing feature of your app]</i>, and giving an elevator pitch in front of the class. Students should give feedback on the elevator pitch using the questions suggested in the handout.</li>
 	     <li><b>Iteration 2 (90-135 mins):</b> Students should work collaboratively to develop, test, and debug a minimum working app. This could be just a User Interface with 1 functioning button. Students should follow the User Interface drawings and storyboard that they designed. Students may work on just one computer together and take turns using the mouse using pair programming or they may work on creating the app in each of their accounts using buddy programming. Students should keep a daily journal or fill out an exit slip describing what they did and problems and solutions they encountered.</li>
-	     <li><b>Iteration 3+ (135-180 mins):</b> Students should iteratively add more features following the handout. All work should be saved frequently using the checkpoint button in App Inventor. Encourage students to do more research, such as using the App Inventor glossary to learn more about components and features as they program their app. Students should keep a journal or complete exit slips. AP classes may want to have students work individually at this point. Non-AP classes are encouraged to use pair or buddy programming throughout the project.</li>
-	    
+	     <li><b>Iteration 3+ (135-180 mins):</b> Students should iteratively add more features following the handout. They must have variables, an if block, and a student defined procedure (no parameters). All work should be saved frequently using the checkpoint button in App Inventor. Encourage students to do more research, such as using the App Inventor glossary to learn more about components and features as they program their app. Students should keep a journal or complete exit slips. AP classes may want to have students work individually at this point. Non-AP classes are encouraged to use pair or buddy programming throughout the project.</li>
+		 <li><b>Video (1 hour)</b>: <a href="https://docs.google.com/document/d/1-4oA9bdqDRse1nYpV2wxHnOIwFNas01TbeRnVSBKQ6I/view" target="_blank" title="">How To: Create an App Video</a></li>
+	    <li><b>Written Response Question Practice (1 hour):</b> Students should complete the written response questions in the <a href="https://docs.google.com/document/d/1oTdjdZGJgBocqmELHiyyuS_SmqGJN5mgV6ejwk7oOrQ/copy" target="_blank" title="">Create 1 Practice Performance Task template (new for 2024-2025)</a>. This will help them prepare for the AP exam.</li>
 	   </ul>
 	 </li>
-	  <li><b>Rethink, Reflect and/or Revise (45-90 mins):</b> Each student should create a new portfolio page that explains their project. Each pair should have more or less the same content on their individual pages. See How To: Create A Portfolio Write Up. Each pair should give a 5-10 minute oral presentation for the first CREATE PT. (For the second one, if it's submitted to College Board, they will need to create a video. The video is optional for the first one.) Their presentation should include a walkthrough of their portfolio page, as well as include a live demo of their working app. <i>Inviting your school administration, other teachers and students, and parents to the presentations is encouraged.</i></li>
+	  <li><b>Rethink, Reflect and/or Revise (45-90 mins):</b> Each student should create a new portfolio page that explains their project. Each pair should have more or less the same content on their individual pages. See How To: Create A Portfolio Write Up. You could have students try each other's apps or present them. Each pair could give a 5-10 minute oral presentation and video for the first CREATE PT.  Their presentation should include a walkthrough of their portfolio page, as well as include a live demo of their working app. <i>Inviting your school administration, other teachers and students, and parents to the presentations is encouraged.</i></li>
 	</ul>
 	
 	
@@ -347,6 +350,7 @@ Professional Development Reflection
 	   <li>Review the <a href="https://apcentral.collegeboard.org/media/pdf/ap23-sg-computer-science-principles.pdf?course=ap-computer-science-principles" target="_blank" title="">CREATE - Programming Performance Task Scoring Guidelines</a>, paying attention to the content areas (rows) and the descriptors for each performance quality (columns). What areas are you comfortable assessing? What areas do you have questions about?</li>
 	   <li>Review the Essential Knowledge statements under each learning objective for the Big Idea of Programming (see the curriculum framework in the CED). Students have now completed a few units of the course, but have more to learn about programming. Which of the essential knowledge statements do you feel are not applicable at this point in the course (i.e. that students should not be evaluated against on this task)?</li>
 	   </ul>
+	   </p>
 
 .. shortanswer:: mcsp-4-14-1
 
