@@ -19,4 +19,5 @@ AP CS Principles Exam Prep
 	CSP-Quiz-App.rst
 	Resources.rst
 	Explore-Samples.rst
+	Old-Create-PT-Samples.rst
 	exam.rst
