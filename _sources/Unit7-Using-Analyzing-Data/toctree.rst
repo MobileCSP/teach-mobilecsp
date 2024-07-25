@@ -20,5 +20,4 @@ Using and Analyzing Data & Information
 	Impacts-of-CS-Who-Owns-the-Bits.rst
 	Wrap-Up.rst
 	Create-PT-Samples.rst
-	Create-PT-Practice.rst
 	apcreate2.rst

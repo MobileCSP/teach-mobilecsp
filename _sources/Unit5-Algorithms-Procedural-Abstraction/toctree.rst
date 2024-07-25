@@ -16,9 +16,10 @@ Algorithms & Procedural Abstraction
 	Sorting-Algorithms.rst
 	Quiz-App.rst
 	Quiz-App-Projects-Loops-with-Lists.rst
+	Create-Written-Practice.rst
 	Analyzing-Algorithms.rst
 	Limits-of-Algorithms.rst
 	Parallel-Computing.rst
 	Impacts-of-CS-Web-Searches.rst
 	Wrap-Up.rst
-	Create-PT-Written-Practice.rst
+	
