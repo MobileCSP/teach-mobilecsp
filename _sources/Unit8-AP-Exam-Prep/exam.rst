@@ -18,7 +18,7 @@ Exam 2 - Final
 
 .. raw:: html
 
-	<p>This exam is at the end of the Mobile CSP curriculum. (This may occur after the AP Exam, depending on your school schedule. <i>Note: Unless you are an AP pilot instructor, exams don't begin until Spring 2017.</i>)<br><br><span style="line-height: 15.86px;">Members of the Teaching Mobile CSP Google group/forum (Sign up in Unit 1) have access to the&nbsp;</span><a href="https://drive.google.com/folderview?id=0B5ZVxaK8f0u9ZDlMa3RpS0NhZ1k&amp;usp=sharing" target="_blank" title="" style="line-height: 15.86px;">Mobile CSP Assessments</a><span style="line-height: 15.86px;">&nbsp;folder on Google Drive.</span><br></p>
+	<p>This exam is at the end of the Mobile CSP curriculum. (This may occur after the AP Exam, depending on your school schedule. <i>Note: Unless you are an AP pilot instructor, exams don't begin until Spring 2017.</i>)<br><br><span style="line-height: 15.86px;">Members of the Teaching Mobile CSP Google group/forum (Sign up in Unit 1) have access to the&nbsp;</span><a href="https://drive.google.com/drive/folders/0B5ZVxaK8f0u9ZDlMa3RpS0NhZ1k?resourcekey=0-fmTfLGPAxJE7lgEpE0c8Tg&usp=drive_link" target="_blank" title="" style="line-height: 15.86px;">Mobile CSP Assessments</a><span style="line-height: 15.86px;">&nbsp;folder on Google Drive.</span><br></p>
 	<p>Please note that if you are participating in the Mobile CSP research project, the exam will be sent out electronically to your students. Please coordinate with either Pauline Lake or Cassandra Broneak via mobilecsp.trincoll@gmail.com. Most of the exam questions can be automatically graded, however, teachers will need to score the questions that require 1-3 sentence answers.</p>
 	
 	<h3>Exam Details</h3>

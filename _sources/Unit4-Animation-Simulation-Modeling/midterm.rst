@@ -19,7 +19,7 @@ ASSESSMENT: Exam 1 - Midterm
 
 .. raw:: html
 
-	<p>This is about halfway through the Mobile CSP curriculum and an ideal time for a midterm exam (or final exam if you are teaching a half year course). <br><br>Members of the <a href="../Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank">Teaching Mobile CSP Google group/forum</a> (Sign up in Unit 1) have access to the <a href="https://drive.google.com/folderview?id=0B5ZVxaK8f0u9ZDlMa3RpS0NhZ1k&amp;usp=sharing" target="_blank" title="">Mobile CSP Assessments</a> folder on Google Drive.</p>
+	<p>This is about halfway through the Mobile CSP curriculum and an ideal time for a midterm exam (or final exam if you are teaching a half year course). <br><br>Members of the <a href="../Unit1-Getting-Started/PD-Joining-the-Forum.html" target="_blank">Teaching Mobile CSP Google group/forum</a> (Sign up in Unit 1) have access to the <a href="https://drive.google.com/drive/folders/0B5ZVxaK8f0u9ZDlMa3RpS0NhZ1k?resourcekey=0-fmTfLGPAxJE7lgEpE0c8Tg&usp=drive_link" target="_blank" title="">Mobile CSP Assessments</a> folder on Google Drive.</p>
 	<p>Please note that if you are participating in the Mobile CSP research project, the exam will be set up electronically for your students and graded automatically. Please coordinate with the Mobile CSP Team staff by sending an email to research@mobile-csp.org.&nbsp;</p>
 	<p>Note: Teachers in the Mobile CSP PD do not complete the midterm exam.</p>
 	
